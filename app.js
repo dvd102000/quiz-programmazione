@@ -30,7 +30,7 @@ function renderQuestion() {
     let letter = opt.trim()[0];
     const btn = document.createElement("button");
     btn.className = "optionBtn";
-    btn.innerHTML = `<div class="optionLetter">${letter}</div><div>${opt.slice(2)}</div>`;
+    btn.innerHTML =  `<div class="optionLetter">${letter}</div><div>${opt.replace(/^[A-E]\s*[\.\)]\s*/i, "")}</div>`;
     btn.onclick = () => answer(q, letter, btn);
     
     if (answered[q.id]) btn.disabled = true;
