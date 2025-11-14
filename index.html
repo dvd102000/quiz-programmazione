@@ -10,22 +10,30 @@
 <body>
 
 <header>
-  <h1>Quiz Programmazione 1</h1>
+  <div class="title-area">
+    <h1>Quiz Programmazione 1</h1>
+    <div class="nav-tabs">
+      <button id="navQuiz" class="tabButton active">Test</button>
+      <button id="navRecords" class="tabButton">Storico</button>
+    </div>
+  </div>
   <div class="counters">
     <span id="correctCount">Giuste: 0</span>
     <span id="wrongCount">Sbagliate: 0</span>
+    <span id="skippedCount">Astenute: 0</span>
   </div>
 </header>
 
 <main>
-  <section id="quizArea">
+  <section id="quizArea" class="hidden">
     <div id="progress">Domanda <span id="currentIndex">0</span> / <span id="totalQ">0</span></div>
-    <div id="questionText" class="card">—</div>
+    <div id="questionText" class="card">Inizia un test per vedere le domande.</div>
 
     <div id="options"></div>
 
     <div class="nav">
       <button id="prevBtn">Indietro</button>
+      <button id="finishBtn" class="secondary">Termina test</button>
       <button id="nextBtn">Avanti</button>
     </div>
 
@@ -33,6 +41,8 @@
       <button id="reviewWrongBtn">Rivedi sbagliate (0)</button>
       <button id="restartBtn">Ricomincia</button>
     </div>
+
+    <p id="summary" class="summary hidden"></p>
   </section>
 
   <section id="reviewArea" class="hidden">
@@ -40,8 +50,49 @@
     <div id="wrongList"></div>
     <button id="backToQuiz">Torna al quiz</button>
   </section>
+
+  <section id="recordsArea">
+    <div class="card history-card">
+      <div class="records-header">
+        <h2>Storico tentativi</h2>
+        <button id="openConfigBtn">Nuovo test</button>
+      </div>
+      <div id="resultsList">Nessun tentativo salvato.</div>
+    </div>
+  </section>
 </main>
+
+<div id="configOverlay" class="modal-overlay hidden">
+  <div class="modal-card">
+    <h2>Imposta il test</h2>
+    <label class="field">
+      <span>Nome utente</span>
+      <input type="text" id="userName" placeholder="Inserisci il tuo nome" />
+    </label>
+
+    <div class="field">
+      <span>Ordine delle domande</span>
+      <label><input type="radio" name="orderMode" value="ordered" checked /> Ordinato</label>
+      <label><input type="radio" name="orderMode" value="random" /> Casuale</label>
+    </div>
+
+    <div class="field">
+      <span>Numero di domande</span>
+      <label><input type="radio" name="questionCount" value="10" /> Prime 10</label>
+      <label><input type="radio" name="questionCount" value="50" /> Prime 50</label>
+      <label><input type="radio" name="questionCount" value="100" /> Prime 100</label>
+      <label><input type="radio" name="questionCount" value="250" /> Prime 250</label>
+      <label><input type="radio" name="questionCount" value="all" checked /> Tutte</label>
+    </div>
+
+    <div class="modal-actions">
+      <button id="cancelConfigBtn" class="secondary">Annulla</button>
+      <button id="startBtn">Inizia il test</button>
+    </div>
+  </div>
+</div>
 
 <script src="app.js"></script>
 </body>
 </html>
+
