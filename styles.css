@@ -1,0 +1,19 @@
+:root { --bg:#f7f8fb; --card:#fff; --accent:#0a84ff; --muted:#666; }
+*{box-sizing:border-box}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto;background:var(--bg);margin:0;color:#111}
+header{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+h1{margin:0;font-size:18px}
+.counters span{margin-left:10px;font-size:13px;color:var(--muted)}
+main{padding:20px;max-width:800px;margin:auto}
+.card{background:var(--card);padding:16px;border-radius:10px;box-shadow:0 2px 8px rgba(10,10,20,0.04)}
+.hidden{display:none}
+#options{display:flex;flex-direction:column;gap:10px;margin-top:15px}
+.optionBtn{background:white;border:1px solid #ddd;padding:12px;border-radius:8px;display:flex;align-items:center;gap:10px;cursor:pointer}
+.optionBtn:active{transform:scale(0.98)}
+.optionLetter{width:34px;height:34px;border-radius:8px;background:#f3f4f8;display:flex;align-items:center;justify-content:center;font-weight:bold}
+button{background:var(--accent);color:#fff;border:none;padding:10px 14px;border-radius:8px;cursor:pointer}
+button[disabled]{opacity:.5}
+.nav{display:flex;justify-content:space-between;margin-top:20px}
+.review{display:flex;gap:10px;margin-top:15px}
+#wrongList{display:flex;flex-direction:column;gap:10px}
+.wrongCard{background:white;padding:12px;border-radius:8px;border:1px solid #eee}

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz Programmazione 1</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="manifest" href="manifest.json" />
+</head>
+<body>
+
+<header>
+  <h1>Quiz Programmazione 1</h1>
+  <div class="counters">
+    <span id="correctCount">Giuste: 0</span>
+    <span id="wrongCount">Sbagliate: 0</span>
+  </div>
+</header>
+
+<main>
+  <section id="quizArea">
+    <div id="progress">Domanda <span id="currentIndex">0</span> / <span id="totalQ">0</span></div>
+    <div id="questionText" class="card">—</div>
+
+    <div id="options"></div>
+
+    <div class="nav">
+      <button id="prevBtn">Indietro</button>
+      <button id="nextBtn">Avanti</button>
+    </div>
+
+    <div class="review">
+      <button id="reviewWrongBtn">Rivedi sbagliate (0)</button>
+      <button id="restartBtn">Ricomincia</button>
+    </div>
+  </section>
+
+  <section id="reviewArea" class="hidden">
+    <h2>Domande sbagliate</h2>
+    <div id="wrongList"></div>
+    <button id="backToQuiz">Torna al quiz</button>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

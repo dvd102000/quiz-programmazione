@@ -1,0 +1,3876 @@
+[
+  {
+    "id": 1,
+    "text": "problemi', stiamo definendo un...:",
+    "options": [
+      "A. programma",
+      "B. algortimo",
+      "C. diagramma",
+      "D. flow chart"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "text": "dei dati per risolvere una classe di problemi' ci riferiamo alla definizione di:",
+    "options": [
+      "A. programma",
+      "B. algortimo",
+      "C. diagramma",
+      "D. flow chart"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. infinitezza, generalità e ambiguità",
+      "B. finitezza, generalità e non ambiguità",
+      "C. finitezza, generalità e ambiguità",
+      "D. finitezza, specificità e non ambiguità"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. linguaggio informale di tipo grafico per rappresentare gli algoritmi",
+      "B. linguaggio formale di tipo testuale per rappresentare gli algoritmi",
+      "C. linguaggio informale di tipo testuale per rappresentare gli algoritmi",
+      "D. linguaggio formale di tipo grafico per rappresentare gli algoritmi"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. rettangolo",
+      "B. quadrato",
+      "C. rombo",
+      "D. cerchio"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. intes tazione,  dichiarativa, esecutiva"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. lessico, istruzioni, semantica",
+      "B. alfabeto, sintassi, semantica",
+      "C. lessico, sintassi, semantica",
+      "D. alfabeto, simboli, semantica"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. livello",
+      "B. complessità",
+      "C. ambiguità",
+      "D. leggerezza"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. di alto livello",
+      "B. di basso livello",
+      "C. vicino all'uomo",
+      "D. macchina"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. traduttore",
+      "B. convertitore",
+      "C. codice binario",
+      "D. compilatore"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Definire il problema",
+      "B. Rendersi conto del disagio",
+      "C. Passare all'azione",
+      "D. Adottare una soluzione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "text": "A. Corrispond e alla fase di problem solving B. Precede la fase di problem finding C. Segue la fase di problem solving D. Segue la fase di decision taking  Answer: C Section: Problem solving  3. Problem analysis corrisponde a:",
+    "options": [
+      "A. eliminare le cause e rispondere alle domande proste dal problema",
+      "B. definire il problema",
+      "C. scomporre il problema principalie in secondari",
+      "D. passare all'azione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "text": "B. Precede la fase di problem finding C. Segue la fase di problem solving D. Segue la fase di decision taking  Answer: C Section: Problem solving  3. Problem analysis corrisponde a: A. eliminare le cause e rispondere alle domande proste dal problema B. definire il problema C. scomporre il problema principalie in secondari D. passare all'azione Answer: C Section: Problem solving  4. Problem setting vuol dire:",
+    "options": [
+      "A. Decidere come risolvere il problema",
+      "B. Suddividere il problema in  sotto problemi",
+      "C. Analizzare il problema per adottare una soluzione",
+      "D. Decidere cosa fare per risolvere il problema"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "text": "C. scomporre il problema principalie in secondari D. passare all'azione Answer: C Section: Problem solving  4. Problem setting vuol dire: A. Decidere come risolvere il problema B. Suddividere il problema in  sotto problemi C. Analizzare il problema per adottare una soluzione D. Decidere cosa fare per risolvere il problema Answer: A Section: Problem solving  5. La fase di decision taking:",
+    "options": [
+      "A. E' immediatamente successiva alla fase di problem analysis",
+      "B. E' imm ediatamente successiva alla fase di decision making",
+      "C. Vuol dire decidere come agire",
+      "D. Vuol dire rendersi conto della situaizone problematica"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 4"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Una scomposizione di problemi semplici in sotto problemi più complessi",
+      "B. Una unione di problemi piccoli in problemi più complessi",
+      "C. un approcc io in cui la scomposizione inizia dal livello più basso",
+      "D. un approccio in cui la scomposizione inizia dal livello più alto e prosegue verso il basso"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. utilizzato per illustrare la strutt ura fisica del problema",
+      "B. Utilizzato per illustrare la struttura logica deò problema",
+      "C. utilizzato per rappresentare solo i cicli",
+      "D. Utilizzato per rappresentare solo sequenze e cicli"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Scrivere il programma in pseudo codice",
+      "B. scrivere il programma in un linguaggio formale",
+      "C. Scrivere il programma in un linguaggio di programmazione",
+      "D. Definire il flowchart del problema"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Sintattici, fisici, logici",
+      "B. Sintattici, logici, semantici",
+      "C. Logici, semantici, fisici",
+      "D. Sintattici, run -time, logici"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Rombo",
+      "B. Rettangolo",
+      "C. Rettangolo arrotondato",
+      "D. Parallelogramma"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Rombo",
+      "B. Rettangolo",
+      "C. Rettangolo arrotondato",
+      "D. Parallelogramma"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Rombo",
+      "B. Rettangolo",
+      "C. Rettangolo arrotondato D. Parallelogramma"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Una serie di azioni eseguite in sequenza",
+      "B. Una serie di azioni eseguite con un controllo decisionale (si/no)",
+      "C. Una serie di azioni eseguite una o più volte",
+      "D. Una serie di azioni eseguite due o tre volte"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Non deve causare la terminazione del ciclo",
+      "B. Deve sempre condurre ad un ciclo infinito",
+      "C. Può condurre a d un ciclo infinito e, talvolta, è utile"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Lessico",
+      "B. Sintassi",
+      "C. Semantica",
+      "D. Linguaggio"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "text": "grammatica del linguaggio stesso\" si riferisce a:",
+    "options": [
+      "A. Lessico",
+      "B. Sintassi",
+      "C. Semantica",
+      "D. Linguaggio"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "text": "si riferisce a:",
+    "options": [
+      "A. Lessico",
+      "B. Sintassi",
+      "C. Semantica",
+      "D. Linguaggio"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Linguaggi ad alto livello",
+      "B. Lingua ingle se",
+      "C. Lingua italiana",
+      "D. Linguaggio binario"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "text": "hardware/software, ed è:",
+    "options": [
+      "A. Semplice e comprensibil e",
+      "B. Ardua e poco intuitiva",
+      "C. Semplice ma poco intuitiva",
+      "D. Ardua ma facilmente comprensibile"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "text": "DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO  programma viene eseguito…:",
+    "options": [
+      "A. Linguaggi a basso livello",
+      "B. Linguaggi ad alto livello",
+      "C. Sia i linguaggi ad alto livello che quelli a basso livello",
+      "D. Linguaggi assembly"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Portabilità",
+      "B. Leggibilità",
+      "C. Manutenibilità",
+      "D. Compilazione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "text": "ricompilazione\". Ci riferiamo a:",
+    "options": [
+      "A. Portabilità",
+      "B. Leggibilità",
+      "C. Manutenibilità",
+      "D. Compilazione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "text": "leggere\". Ci riferiamo a:",
+    "options": [
+      "A. Portabilità",
+      "B. Leggibilità",
+      "C. Manutenibilità",
+      "D. Compilazione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Nei linguaggi dichiarativi",
+      "B. Sia nei linguaggi dichiarativi che imperativi",
+      "C. Nei linguaggi imperativi",
+      "D. Nei linguaggi dichiarativi o nei linguaggi imperativi, a seconda dei casi"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 1978",
+      "B. 1980",
+      "C. 1989",
+      "D. 1990"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Ha solo caratteristiche di alto livello",
+      "B. Ha solo caratteristiche di basso livello",
+      "C. Ha sia carat teristiche di alto che di basso livello",
+      "D. Non ha caratteristiche di alto e basso livello"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Sono la stessa cosa",
+      "B. Sono due cose diverse",
+      "C. Non appartengono al linguaggio C",
+      "D. Ap partengono solo alle prime versioni del linguaggio C"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 38,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Sono la stessa cosa perché il linguaggio C è \"case sensitive\"",
+      "B. Non si possono usare",
+      "C. Sono uguali o  diversi a seconda del blocco di istruzioni",
+      "D. Sono considerati diversi perché il linguaggio C è \"case sensitive\""
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. E' considerata istruzione nulla",
+      "B. E' equivalente ad una inizializzazione",
+      "C. E' un commento",
+      "D. Viene segnalato un Error"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. */",
+      "B. /*",
+      "C. **"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Tonde",
+      "B. Quadre",
+      "C. Angolari",
+      "D. Graffe"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Si usano parentesi tonde al posto delle parentesi graffe",
+      "B. Le parentesi graffe vengono normalmente omesse",
+      "C. Si usano parentesi quadre al posto delle parentesi graffe",
+      "D. Si usa doppia parentesi graffa"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Comprendere meglio il flusso del programma",
+      "B. Eseguire il codice più velocemente",
+      "C. Occupare meno spazio in memoria",
+      "D. Ottenere un eseguibile in automatico"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. ;",
+      "B. ::",
+      "C. ;;",
+      "D. ()"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Compilatore",
+      "B. Linker",
+      "C. Preprocessore",
+      "D. Linker e compilatore"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Compilatore",
+      "B. Linker",
+      "C. Preprocessore",
+      "D. Linker e compilatore"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Sono la stessa cosa",
+      "B. Sono due cose div erse",
+      "C. Non appartengono al linguaggio C",
+      "D. Appartengono solo alle prime versioni del linguaggio C"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Sono la stessa cosa perché il linguaggio C è \"case sensi tive\"",
+      "B. Non si possono usare",
+      "C. Sono uguali o diversi a seconda del blocco di istruzioni",
+      "D. Sono considerati diversi perché il linguaggio C è \"case sensitive\""
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "text": "salvare il file con estensione:",
+    "options": [
+      "A. .txt",
+      "B. .doc",
+      "C. .c",
+      "D. .xls"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. .a sotto Unix/Lin ux e .c in Dos/Windows",
+      "B. .c sotto Unix/Linux e .obj in Dos/Windows"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. .a sotto Unix/Lin ux e .c in Dos/Windows",
+      "B. .c sotto Unix/Linux e .obj in Dos/Windows"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Compilatore",
+      "B. Linker",
+      "C. Preprocessore",
+      "D. Linker e compilatore"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 53,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Warning",
+      "B. Error",
+      "C. Sia Error che Warning",
+      "D. Warning nella maggior parte dei casi"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 54,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Warning",
+      "B. Error",
+      "C. Sia Error che Warning",
+      "D. Warning nella maggior parte dei casi"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. \\\\",
+      "B. //",
+      "C. **",
+      "D. /?"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. \\\\",
+      "B. //",
+      "C. */",
+      "D. /*"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. #",
+      "B. \"",
+      "C. */",
+      "D. ("
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. graffe",
+      "B. tonde",
+      "C. quadrate",
+      "D. angolari"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. graffe",
+      "B. tonde",
+      "C. quadrate",
+      "D. angolari"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. \"",
+      "B. \\",
+      "C. ["
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. punto",
+      "B. virgola",
+      "C. due punti",
+      "D. punto e virgola"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 62,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. posiziona il cursore alla riga successiva",
+      "B. produce un suono o un allarme",
+      "C. inserisce un carattere di backslash",
+      "D. Inserisce un carattere di backslash seguito dalla lettera n"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. posiziona il cursore alla riga successiva",
+      "B. produce un suono o un allarme",
+      "C. inserisce un carattere di backslash",
+      "D. inserisce un carattere di backslash seguito dalla lettera a"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 64,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'istruzione main",
+      "B. il linker",
+      "C. l'eseguibile",
+      "D. l'istruzione printf"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 65,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. input",
+      "B. output",
+      "C. ela borazione",
+      "D. input e output"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 66,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. definite con un nome e un tipo di dato",
+      "B. definite con il solo nome",
+      "C. definite in un punto qualsiasi del programma",
+      "D. usate prima della definizione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 67,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È a discrezione del compilatore",
+      "B. deve includere trattini \"_\"",
+      "C. È sensibile all'uso del carattere",
+      "D. inizia con una cifra"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 68,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. scrive sullo standard outpu t",
+      "B. include stringhe di controllo di formato",
+      "C. puo' essere priva di argomenti",
+      "D. stampa sullo schermo un messaggio"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 69,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. preceduta da &",
+      "B. seguita da &",
+      "C. prec eduta da %",
+      "D. seguita da %"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 70,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. f",
+      "B. d",
+      "C. i"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 71,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. %",
+      "B. \"",
+      "C. ==",
+      "D. ="
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 72,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. nell'istruzione printf, all'esterno di virgolette \" \"",
+      "B. a sinistra dell'operatore di assegnazione",
+      "C. nell'istruzione scanf, all'interno di virgolette \"  \"",
+      "D. nell'istruzione printf, all'interno di virgolette \" \""
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. nella sua definizione",
+      "B. prima delle istruzioni al preprocessore",
+      "C. senza terminare l'istruzione con il punto e virgola",
+      "D. solo se diverso da zero"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 74,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errata, non si possono definire due variabili nella stessa istruzione",
+      "B. errata, non si possono dichiarare variabili con nome a1 e a2.",
+      "C. corretta",
+      "D. er rata, non si possono separare due variabili con virgola"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 75,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sovrascrive la locazione di memoria di var",
+      "B. legge la locazione di memoria di var",
+      "C. scrive nel la locazione di memoria di var solo se vuota",
+      "D. stampa il contenuto della locazione di memoria"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 76,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. distruttiva per la variabile a",
+      "B. non distruttiva per la variabile a",
+      "C. distrutt iva per la variabile b",
+      "D. non distruttiva per le variabili a e b"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 77,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. modulo",
+      "B. esponente",
+      "C. resto",
+      "D. decimale"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 78,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 7",
+      "B. 1",
+      "C. 7,333",
+      "D. 3"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 79,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. da sinistra a destra",
+      "B. da destra a sinistra",
+      "C. a seconda della loro assoc iatività",
+      "D. in ordine di definizione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 80,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. assegnazione",
+      "B. definizione",
+      "C. operandi"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 81,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 27",
+      "B. errore per parentesi ridondanti",
+      "C. 24",
+      "D. 90"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 82,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. operatore di moltiplicazione ha la precedenza su oper atore di resto",
+      "B. operatore di resto ha la precedenza su operatore di moltiplicazione",
+      "C. moltiplicazione ha la precedenza sulle operazioni all'interno di parentesi annidate",
+      "D. l'operatore di resto ha la precedenza sull'uguale"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 83,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. gli operatori nella coppia di parentesi più interne sono applicati per primi",
+      "B. gli operatori nella coppia di parentesi più interne sono applicati per ultimi",
+      "C. gli operatori di moltiplicazione sono applicati per primi",
+      "D. gli operatori di somma sono applicati per primi"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 84,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. printf( '10/2, 2\\ n' );",
+      "B. scanf( '%d%d \\n', 10/2, 2 );",
+      "C. x=10/5; printf('5, %d \\n', & x);",
+      "D. printf('%d,%d \\n', 10/2, 10/5);"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 85,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. !=",
+      "B. < >",
+      "C. ==",
+      "D. not"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 86,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. < <",
+      "B. < =",
+      "C. = <",
+      "D. ≤"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 87,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. =",
+      "B. ==",
+      "C. :=",
+      "D. =:"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 88,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. hanno un livello di precedenza più alto degli operatori di uguaglianza",
+      "B. hanno un livello di precedenza più basso degli operatori di uguaglianza",
+      "C. hanno un livello di precedenza uguale agli operatori di assegna zione",
+      "D. hanno un livello di precedenza uguale agli operatori di uguaglianza"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 89,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. eliminare righe vuote sopra l'istruzione if",
+      "B. eliminare righe vuote sotto  l'istruzione if",
+      "C. indentare la parentesi graffa di fine istruzione if",
+      "D. indentare il corpo di ognuna delle istruzioni if"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 90,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. è corretto spezzare gli identificatori",
+      "B. si devono evitare le parentesi graffe se è inserita una sola istruzione",
+      "C. si può inserire un numero qualsiasi di istruzioni"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 91,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. ()",
+      "B. *",
+      "C. =",
+      "D. :="
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 92,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. equivale a printf",
+      "B. equivale a scanf",
+      "C. stampa testo e determina un ritorno a capo",
+      "D. migliora la sicurezza per istruzioni di output con argomenti multipli"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 93,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. stampa Welcome e non va a capo",
+      "B. stampa Welcome e va a capo C. errata a causa dell'uso di %s",
+      "D. errata a causa della mancanza di /n"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 94,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sono usate per istruzioni di ricerca in locazioni di memoria",
+      "B. non devono essere usate come nomi delle variabili",
+      "C. includono printf e scanf",
+      "D. non devono essere usate nei programmi C"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 95,
+    "text": "esse vanno eseguite è chiamata:",
+    "options": [
+      "A. programmazione strutturata B. algoritmo",
+      "C. struttura sequenziale  strutturata",
+      "D. struttura di controllo"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 96,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. istruzioni di decisione e azione",
+      "B. istruzioni in linguaggio C",
+      "C. azioni sequenziali",
+      "D. da dichiarazioni di variabili"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 97,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sono eseguiti dal preprocessore",
+      "B. sono eseguiti dal compilatore",
+      "C. non sono eseguiti al computer",
+      "D. sono compilati dal linker"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 98,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. una rappre sentazione in linguaggio formale di un algoritmo",
+      "B. una rappresentazione grafica di un algoritmo",
+      "C. una rappresentazione matematica di un algoritmo",
+      "D. una rappresentazione in pseudocodice di un algoritmo"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 99,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. linee di flusso",
+      "B. rettangoli arrotondati",
+      "C. rettangoli",
+      "D. cerchietti"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 100,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un rombo  con due linee di flusso che emergono da esso",
+      "B. un rombo con una sola linea di flusso in uscita"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 101,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. trasferimento del controllo",
+      "B. strutture di controllo sequenziale",
+      "C. strutture di controllo iterative",
+      "D. strutture di  controllo di selezione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 102,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. if",
+      "B. if..else",
+      "C. switch",
+      "D. while"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 103,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non si incontra una istruzione di selezione",
+      "B. non si incontra una istruzione di sequenza",
+      "C. non si incontra una istruzione di iterazione",
+      "D. non si soddisfano determinate condizioni"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 104,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. devono basarsi su espressioni che abbiano valore zero",
+      "B. possono basarsi su qualsiasi espressione",
+      "C. devono basarsi su condizioni contenenti il >=",
+      "D. devono basarsi su condizioni contenenti =="
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 105,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. vengono eseguite entrambe le azioni nell'if e nell'else",
+      "B. viene eseguita solo l'azione nell'else",
+      "C. non viene eseguita l'azione nell'else",
+      "D. non v iene eseguita alcuna azione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 106,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. richiede sempre parentesi graffe",
+      "B. richiede sempre parentesi tonde",
+      "C. non richiede sempre parentesi graffe",
+      "D. richiede sempre parentesi angolari"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 107,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. :?",
+      "B. ?",
+      "C. :=",
+      "D. ?:"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 108,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'espressione se la condizion e è falsa",
+      "B. l'espressione se la condizione è vera",
+      "C. la condizione",
+      "D. privo di significato"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 109,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0 errori",
+      "B. 1 errore",
+      "C. 2 error i",
+      "D. 3 errori"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 110,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0 errori",
+      "B. 1 errore",
+      "C. 2 errori"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 111,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. tutte le condizioni vere vengono eseguite",
+      "B. solo l'ultima condizione vera viene eseguita",
+      "C. solo la prima condizione vera viene eseguita",
+      "D. nessuna condizione vera viene eseguita"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 112,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0 errori",
+      "B. 1 errore",
+      "C. 2 errori",
+      "D. 3 errori"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 113,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. è individuato dal compilatore",
+      "B. all'esecuzione fa sì che il programma fallisca",
+      "C. all'esecuzione fa sì che il programma termini prematuramente",
+      "D. all'esecuzione produce risultati non corretti"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 114,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. ;",
+      "B. :",
+      "C. ()",
+      "D. []"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 115,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. è una istruzione di definizione",
+      "B. è una istruzione di iterazione",
+      "C. è una istruzione di dichiarazione",
+      "D. è un a istruzione di assegnamento"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 116,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. quando la condizione diventa falsa",
+      "B. quando la condizione diventa vera",
+      "C. mai",
+      "D. solo in caso errore"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 117,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. deve essere un'istruzione singola",
+      "B. deve essere un'istruzione composta",
+      "C. non deve contenere istruzioni",
+      "D. può essere un'istruzione singola o un'istruzione composta"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 118,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. viene eseguita l'iterazione un'ultima volta",
+      "B. viene eseguita la prima istruzione dopo la struttura di iterazione",
+      "C. termina il programma",
+      "D. viene eseguita l'ultima istruzione prima della struttura di iterazione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 119,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un rombo e di un rettangolo sull'uscita vera",
+      "B. un rettangolo seguito sequenzialmente da un rombo",
+      "C. un rombo seguito sequenzialmente da un rettangolo",
+      "D. un rombo e di un rettangolo sull'uscita falsa"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 120,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. while ( n < 9 ) { printf('%d ', n++); }",
+      "B. while ( n < 9 ) { printf('%d ', n); }",
+      "C. while ( n < 18 ) { printf('%d ', n --); }"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 121,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. while ( x < 7 ) {x++;} printf('%d', x);",
+      "B. while ( x < 7 ) {x++;} printf('%d', ++x);",
+      "C. while ( x < 7 ) {x;} printf('%d', x);",
+      "D. while ( x <= 7 ) {x++;} printf('%d');"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 122,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errore di compilazione",
+      "B. ciclo infinito",
+      "C. stampa 9",
+      "D. stampa 8"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 123,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 98 iterazioni",
+      "B. 99 iterazioni",
+      "C. 100 iterazioni",
+      "D. 101 iterazioni"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 124,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. corretta, non ese gue alcuna iterazione",
+      "B. corretta, esegue due iterazioni",
+      "C. corretta, esegue una iterazione",
+      "D. errata"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 125,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. definita",
+      "B. indefinita",
+      "C. di inizializzazione",
+      "D. di primo affinamento"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 126,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. della variabile sentinella",
+      "B. di locazioni  di memoria utilizzate dall'iterazione",
+      "C. di volte in cui l'istruzione printf deve essere eseguita",
+      "D. di volte in cui le istruzioni dell'iterazione deveno essere eseguite"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 127,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È zero",
+      "B. non si conosce prima che il ciclo inizi l'esecuzione",
+      "C. lo determina l'utente durante l'esecuzione",
+      "D. si conosce prima che il ciclo inizi l'esecuzione"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 128,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. int",
+      "B. unsigned int",
+      "C. float",
+      "D. double"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 129,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. si verifica un errore logico",
+      "B. si verifica un errore di compilazione",
+      "C. si verifica un errore al linker",
+      "D. non si verificano errori"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 130,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. il programma lo inizializza automaticamente a la valore 0",
+      "B. il programma lo inizializza automaticamente a la valore 1",
+      "C. il programma considera l'ultimo valore memorizzato nella locazione di memoria riservata per quella variabile"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 131,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 81.7",
+      "B. 81,7",
+      "C. 81",
+      "D. 82"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 132,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errore di compilazione",
+      "B. come successivo valore un numero negativo",
+      "C. come successivo valore lo zero",
+      "D. come successivo valore un numero casuale relativo alla locazione di memoria utili zzata"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 133,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errore di compilazione",
+      "B. come successivo valore un numero negativo",
+      "C. come su ccessivo valore lo zero",
+      "D. come successivo valore un numero casuale relativo alla locazione di memoria utilizzata"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 134,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non inizializzare  i contatori e i totali per evitare l'occupazione inutile di locazioni di memoria",
+      "B. inizializzare solo i contatori",
+      "C. inizializzare solo i totali",
+      "D. inizializzare tutti i contatori e i totali"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 135,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. definita",
+      "B. indefinita",
+      "C. di inizializzazione",
+      "D. di primo affinamento"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 136,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. che è stato inserito l'ultimo valore dell'iterazione",
+      "B. che è stato inserito il primo valore dell'iterazione",
+      "C. che è stato raggiunto il valore massimo del contatore",
+      "D. che è stato inizializ zato il contatore"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 137,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È zero",
+      "B. non si conosce prima che il ciclo inizi l'esecuzione",
+      "C. È uno",
+      "D. si conosce prim a che il ciclo inizi l'esecuzione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 138,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0.5",
+      "B. -1",
+      "C. 100",
+      "D. 1"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 139,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È una tecnica utile allo sviluppo di programmi ben strutturati",
+      "B. È una tecnica utile allo sviluppo di programmi non strutturati",
+      "C. È un set di istruzioni C di tipo top -down",
+      "D. È un set di definizioni C di tipo top -down"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 140,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un set di tre istruzioni di codice C",
+      "B. un set di tre istruzioni di pseudocodice",
+      "C. un'istruzione singola di codice C"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 141,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la definizione delle variabili del programma",
+      "B. la funzi one iniziale del programma",
+      "C. la funzione complessiva del programma",
+      "D. la computazione del risultato del programma"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 142,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. lo pseudocodice definis ce il programma con sufficiente dettaglio",
+      "B. il codice C definisce il programma con sufficiente dettaglio",
+      "C. lo pseudocodice raggiunge le dieci righe",
+      "D. il codice C non da errori di compilazione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 143,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la stampa di un messaggio di buffer overlow",
+      "B. un warning",
+      "C. un errore logico",
+      "D. un errore irreversibile"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 144,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. inizializzazione, elaborazione e chiusura",
+      "B. elaborazione e chiusura",
+      "C. inizializzazione, elaborazione, chiusura e ottimizzazione",
+      "D. inizializzazione ed elaborazione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 145,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. conversione esplicita di tipo di variabile",
+      "B. conversione implicita di tipo di variabile",
+      "C. conversione esplicita di preincremento",
+      "D. conversione esplicita di preincremento"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 146,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errore",
+      "B. 1.66",
+      "C. 1.666666",
+      "D. 1.67"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 147,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'acquisizione della variabile a come float con due cifr e decimali",
+      "B. l'acquisizione della variabile a con sei cifre decimali",
+      "C. la stampa della variabile a come float con due cifre decimali",
+      "D. errore"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 148,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. il valore di c",
+      "B. il valore di c+1",
+      "C. il valore di c+2"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 149,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. operatori di postfisso ++",
+      "B. operatori di postfisso --",
+      "C. operatori di prefisso --",
+      "D. operatore %"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 150,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. comportamento indefinito",
+      "B. errore di compilazione",
+      "C. errore al linker",
+      "D. nessun problem se le variabili sono di tipo int"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 151,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. fscanf",
+      "B. s_scanf",
+      "C. scanf_s",
+      "D. scanf_sec"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 152,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. corretta",
+      "B. errata, serve ',' al posto di ';'",
+      "C. errata , serve 'c++' al posto di '++c'",
+      "D. errata, serve 'c==1' al posto di 'c=1'"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 153,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. inizializzando la variabile di controllo",
+      "B. verificando la condizione di continuazione",
+      "C. incrementa ndo/ decrementando il contatore",
+      "D. eseguendo printf della variabile contatore"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 154,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Il programma termina con errore",
+      "B. Il programma continua un ultima volta ad esegui re il corpo del ciclo for",
+      "C. Il programma termina con successo",
+      "D. Il programma continua eseguendo la prima istruzione dopo l'istruzione for"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 155,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. ha il valore della condizione di continuazione del ciclo",
+      "B. riprende il valore iniziale dell'inizializzazione",
+      "C. assume valore 1",
+      "D. assume valore 0"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 156,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. esistono fino alla f ine della funzione main",
+      "B. esistono solo fino al termine del ciclo",
+      "C. esistono per tutto il programma",
+      "D. esistono solo per la prima iterazione del ciclo"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 157,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sono errori di sintassi",
+      "B. sono errori logici che determinano un numero errato di cicli for",
+      "C. sono errori logici che determinano un numero imprevedibile di cicli for"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 158,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. corretta",
+      "B. errata per la doppia inizializzazione",
+      "C. errata per il doppio incremento",
+      "D. errata per l'uso del virgola"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 159,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. si genera un errore al linker",
+      "B. si genera un errore di compilazione",
+      "C. si genera un ciclo infinito",
+      "D. il corpo del ciclo non viene eseguito"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 160,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. corretta",
+      "B. errata, serve 'c -=1' al posto di ' --c'",
+      "C. errata, si puo' solo incrementare all'interno di un ciclo for",
+      "D. errata, serve '< =' al posto di '> ='"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 161,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. si genera un errore al linker",
+      "B. si genera un errore di compilazione",
+      "C. si genera un ciclo infinito",
+      "D. il corpo del ciclo non viene eseguito"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 162,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. while",
+      "B. ch = getchar()",
+      "C. EOF",
+      "D. !="
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 163,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. legge un carattere dalla tastiera e lo memorizza in un buffer",
+      "B. scrive un carattere a video e lo memorizza in un buffer",
+      "C. legge un carattere dalla tastiera e lo ristampa a video",
+      "D. scrive un carattere a video ma non  lo memorizza"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 164,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Il programma termina con errore",
+      "B. Il programma rimane in attesa",
+      "C. Il programma termina con successo",
+      "D. Il programma continua eseguendo la prima istruzione dopo l'istruzione getchar()"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 165,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 97a",
+      "B. 97",
+      "C. non stampa nulla",
+      "D. a"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 166,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un codice per la codifica numerica di caratteri",
+      "B. una funzione C che associa caratteri a numeri",
+      "C. uno specificatore di conversione",
+      "D. il metodo di memorizzazione per la funzione getchar"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 167,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un carattere speciale che corrisponde a new line",
+      "B. un carattere speciale che corrisponde a \\ t",
+      "C. una costante intera simbolica"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 168,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errore",
+      "B. EOF",
+      "C. Invio",
+      "D. getchar()"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 169,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. costanti di tipo carattere",
+      "B. interi di tipo long int",
+      "C. variabili di tipo carattere",
+      "D. stringhe"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 170,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. da 0 a 65536",
+      "B. da - infinito a +infinito",
+      "C. da 0 a infinito",
+      "D. da - 32767 a +32767"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 171,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. memorizzare stringhe di caratteri",
+      "B. rappresentare inte ri nell'intervallo da - 32767 a +32767",
+      "C. eseguire operazioni in virgola mobile",
+      "D. rappresentare interi nell'intervallo da  - 127 a +127"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 172,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. singola",
+      "B. doppia",
+      "C. mulitpla",
+      "D. nulla"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 173,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. case",
+      "B. default",
+      "C. break",
+      "D. if..else"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 174,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. quadrate",
+      "B. tonde",
+      "C. gr affe",
+      "D. angolari"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 175,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È sempre opzionale sia nei case che neil default",
+      "B. È opzionale solo nel default",
+      "C. È sempre necessario",
+      "D. È opzionale solo nei case"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 176,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Se non si verificano confronti positivi",
+      "B. Se non si verificano confronti negativi",
+      "C. sempre"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 177,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. puo' essere inclusa una sola azione",
+      "B. devono essere incluse almeno due azioni",
+      "C. non possono essere incluse azioni",
+      "D. puo' essere inclusa una o piu' azioni"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 178,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. di compilazione",
+      "B. di sintassi",
+      "C. di esecuzione",
+      "D. di linker"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 179,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. deve presentarsi per ultima d opo i case",
+      "B. e' prassi posizionarla per ultima, dopo i case, ma non è un vincolo",
+      "C. deve presentarsi per prima",
+      "D. e' prassi posizionarla per prima, precedendo i case, ma non è un vincolo"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 180,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. variabile di tipo float",
+      "B. costante di tipo carattere",
+      "C. variabile di tipo carattere",
+      "D. costante intera"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 181,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non verifica l'esecuzione del corpo del ciclo",
+      "B. verifica la condizione di continuazione del ciclo prima dell'esecuzione del corpo del ciclo",
+      "C. verifica la condizione di continuazione del ciclo nel corpo del ciclo",
+      "D. verifica la condizione di continuazione del ciclo dopo l'esecuzione del corpo del ciclo"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 182,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. :",
+      "B. ;",
+      "C. :=",
+      "D. //"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 183,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. viene eseguita almeno 1 volta",
+      "B. viene eseguita almeno 2 volte",
+      "C. viene eseguita almeno fino a EOF",
+      "D. puo' non venire mai eseguita"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 184,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. alterare il flusso di controllo",
+      "B. terminare il programma",
+      "C. mettere il programma in attesa",
+      "D. eseguire un a chiamata esterna a funzione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 185,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. termina",
+      "B. continua con con l'istruzione successiva al ciclo for",
+      "C. continua con con l'istruzione successiva al  break",
+      "D. continua con l'iterazione successiva"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 186,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. a",
+      "B. aa",
+      "C. aaa"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 187,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. alterare il flusso di controllo",
+      "B. terminare il programma",
+      "C. riprendere il programma che era stato posto in attesa",
+      "D. eseguire una chiamata esterna a funzione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 188,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. termina",
+      "B. continua con con l'istruzione successiva al ciclo for",
+      "C. continua con con l'istruzione successiva al continue",
+      "D. continua con l'iterazione successiva"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 189,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. a",
+      "B. aa",
+      "C. aaaaaaaa",
+      "D. aaaa"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 190,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. che l'istruzione continue non sia mai eseguita",
+      "B. chel'istruzione break non sia mai eseguita",
+      "C. che entrambe le istruzioni break e continue siano eseguite",
+      "D. che il loro effetto si annulli, proseguendo con l'istruzione succes siva"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 191,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. >",
+      "B. ?",
+      "C. =",
+      "D. !"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 192,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. x è uguale a 2 e y uguale a 1000",
+      "B. x è uguale a 1 e y uguale a 120",
+      "C. x è uguale a 2 e y uguale a 102",
+      "D. x è uguale a - 2 e y uguale a -3"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 193,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. nonzero",
+      "D. espressione1 * espressione2"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 194,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. x è uguale a 2 e y uguale a 1000",
+      "B. x è uguale a 1 e y uguale a 120",
+      "C. x è uguale a 2 e y uguale a 102",
+      "D. x è ug uale a - 2 e y uguale a -3"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 195,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. nonzero",
+      "D. espressione1 * espressione2"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 196,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. ha una precedenza più alta di &&",
+      "B. ha una precedenza più bassa di &&",
+      "C. ha la stessa precedenza di &&"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 197,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. || è associativo da destra a s inistra. && è associativo da sinistra a destra",
+      "B. && è associativo da destra a sinistra. || è associativo da sinistra a destra",
+      "C. sono entrambi associativi da sinistra a destra",
+      "D. sono entrambi associativi da destra a sinistra"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 198,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. x=2",
+      "B. y=120",
+      "C. x=2 e y=120",
+      "D. x=20 e y=12"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 199,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È vera se x=1",
+      "B. È vera se x=2",
+      "C. È vera se x=3",
+      "D. non è scritta correttamente"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 200,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. (condizione1 && condizione2)",
+      "B. (condizione1 || condizione2)",
+      "C. !(condizione1 || condizione2)",
+      "D. (!condizione1 || !condizione2)"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 201,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. una sequenza di cerchietti",
+      "B. una sequenza di rettangoli",
+      "C. una sequenza di rombi",
+      "D. una sequenza di rettangoli arrotondati"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 202,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. rombo e rettangolo",
+      "B. rettangolo e rettangolo arrotondato",
+      "C. rombo e due rettangoli",
+      "D. sequenza di rombi e rettangoli"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 203,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. rombo e rettangolo",
+      "B. rettangolo e rettangolo arrotondato",
+      "C. rombo e du e rettangoli",
+      "D. sequenza di rombi e rettangoli"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 204,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. rombo e rettangolo",
+      "B. rettangolo e rettangolo arrotondato",
+      "C. rombo e due rettangoli",
+      "D. sequenza di rombi e rettangoli"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 205,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. rettangolo e rombo",
+      "B. rettangolo e rettangolo arrotondato",
+      "C. rombo e due rettangoli",
+      "D. sequenza di rombi e rettangoli"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 206,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. rettangolo e rombo",
+      "B. rettangolo e rettangolo arrotondato",
+      "C. rombo e due rettangoli"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 207,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. annidamento",
+      "B. accatastamento",
+      "C. iterazione",
+      "D. assemblaggio"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 208,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. due rettangoli con ricircolo",
+      "B. due rombi con ricircolo",
+      "C. due rettangoli in sequenza",
+      "D. due rombi in sequenza"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 209,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. accatastamento",
+      "B. annidamento",
+      "C. accatastamento, annidamento o sovrapposizione",
+      "D. accatastamento o annidamento"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 210,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sequenza, for, switch",
+      "B. sequenza, while, if",
+      "C. sequenza, do…while, if…else",
+      "D. sequenza"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 211,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. grafica avanzata",
+      "B. comuni calcoli matematici, manipolazioni di stringhe, input/output, giochi tradizionali",
+      "C. calcoli matematici di ogni tipo",
+      "D. com uni calcoli matematici, manipolazioni di stringhe, input/output"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 212,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sono scritte una sola volta e sono nascoste alle altre funzioni",
+      "B. sono scritte una sola volta e sono visibili alle altre funzioni",
+      "C. sono scritte piu' di una volta e sono nascoste alle altre funzioni",
+      "D. sono scritte piu' di una volta e sono visibili alle altre funzioni"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 213,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. specifica solo il nome della funzione",
+      "B. fornisce solo gli argomenti",
+      "C. specifica il nome della funzione e fornisce gli argomenti",
+      "D. specifica l'invocazione gerarchica annidata dei parametri di funzione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 214,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sono tutte locali",
+      "B. possono essere sia locali che non locali",
+      "C. sono modulari",
+      "D. sono tutte non locali"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 215,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. modularizzazione",
+      "B. astrazione",
+      "C. scomposizione",
+      "D. funzionalizzazione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 216,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. modularizzazione",
+      "B. astrazione",
+      "C. scomposizione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 217,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. quadrate",
+      "B. tonde",
+      "C. graffe",
+      "D. angolari"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 218,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. float",
+      "B. double",
+      "C. int",
+      "D. double o float"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 219,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. #include < math.h >",
+      "B. include < math.h >",
+      "C. #include < math >",
+      "D. include math.h"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 220,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. pow( fabs( y, -3 ) 3 )",
+      "B. pow( fabs( y,3 ) - 3 )",
+      "C. fabs( pow( y,3 ) - 3 )",
+      "D. fabs(  pow( y, -3 ) 3 )"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 221,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. nel main o in altra funzione",
+      "B. dopo la chiamata a funzione",
+      "C. in qualunque punto del programma",
+      "D. prima di usare la funzione"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 222,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. funz si aspetta di ricevere un valore double",
+      "B. funz restituisce un valore double",
+      "C. funz si aspetta di ricevere un valore int",
+      "D. funz restituisce un valore int"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 223,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la funzione restituisce un intero",
+      "B. la funzione richiede un input intero",
+      "C. la funzione op era esclusivamente con variabili intere",
+      "D. la funzione non richiede un intero"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 224,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. il tipo di ritorno sia coerente con il contes to nel quale è chiamata la funzione",
+      "B. i tipi degli argomenti non siano inclusi",
+      "C. i tipi degli argomenti non siano ordinati",
+      "D. il numero di argomenti sia maggiore o uguale a quello della definizione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 225,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. in qualunque punto del programma",
+      "B. prima del prototipo",
+      "C. nel main o in altra funzione",
+      "D. nella sua definizione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 226,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. prima il prototipo",
+      "B. dopo il prototipo",
+      "C. all'interno del main"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 227,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. restituisce la stringa void",
+      "B. non richiede alcuna variabile di input",
+      "C. non restituisce alcun valore",
+      "D. restituisce 0 se corretta, non zero se errata"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 228,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. punto (  . )",
+      "B. trattino ( -  )",
+      "C. punto e virgola ( ; )",
+      "D. virgola ( , )"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 229,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errata perché non si possono dichiarare int e double nella stessa lista argomenti",
+      "B. corretta",
+      "C. errata perché  non si può omettere int per la variabile y",
+      "D. errata perché non si possono indicare più di due argomenti"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 230,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0 se return è omessa",
+      "B. errore se return è omessa",
+      "C. 1 se return è omessa",
+      "D. non zero  se return e' incluso"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 231,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. definire le funzioni",
+      "B. correggere errori di programmazione",
+      "C. convalidare le chiamate delle funz ioni",
+      "D. chiamare le funzioni nel main"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 232,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. {",
+      "B. ;",
+      "C. }",
+      "D. )"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 233,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. {",
+      "B. ;",
+      "C. }",
+      "D. )"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 234,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È necessario (se non presenti si generano errori di compilazione)",
+      "B. È facoltativo ma consigliabile",
+      "C. È facoltativo ma sconsigliabile",
+      "D. È da evitare (se presenti si generano errori di compilazionee)"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 235,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. il tipo int nella corrispondente definizione di funzione",
+      "B. nessun tipo specificato nella corrispondente definizione di funzione",
+      "C. un tipo qualsiasi nella corrispondente definizione di funzione",
+      "D. il tipo v oid nella corrispondente definizione di funzione"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 236,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'impossibilità di modificare il valore degli argomenti",
+      "B. l'impossibilità di modificare il t ipo degli argomenti",
+      "C. la forzatura del valore degli argomenti"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 237,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. avviene per troncamento",
+      "B. avviene per appro ssimazione all'intero superiore",
+      "C. avviene senza perdita di accuratezza",
+      "D. non è gestibile dal compilatore (restiuisce errore)"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 238,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. converte t utti i tipi presenti in int",
+      "B. converte tutti i tipi presenti in double",
+      "C. converte tutti i tipi presenti in long double",
+      "D. esegue una copia temporanea dei valori da convertire"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 239,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. cast",
+      "B. void",
+      "C. return",
+      "D. double"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 240,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. long double",
+      "B. double",
+      "C. long int",
+      "D. int"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 241,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. record di attivazione",
+      "B. stack",
+      "C. funzione",
+      "D. automatica"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 242,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'ultimo elemento inserito è l'ulitmo a essere rimosso",
+      "B. l'ultimo elemento inserito è il primo a essere rimosso",
+      "C. gli elementi inseriti sono rimossi in ordine random",
+      "D. il primo elemento inserito è il primo a essere rimosso"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 243,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. variabili locali delle funzioni",
+      "B. variabili il cui tipo è convertito automaticamente",
+      "C. variabili locali della sola funzione main",
+      "D. variabili il cui valore è convertito automaticamente"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 244,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. al main",
+      "B. alla funzione chiamata",
+      "C. al sistema operativo",
+      "D. alla funzione chiamante"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 245,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'indirizzo di ritorno alla funzio ne chiamata",
+      "B. l'indirizzo di ritorno alla funzione chiamante",
+      "C. l'indirizzo di ritorno alla funzione chiamata e le variabili locali",
+      "D. l'indirizzo di ritorno alla funzione chiamante e le variabili locali"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 246,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. si esegue il push del record di attivazione della funzione chiamata",
+      "B. si esegue il pop del record di attivazione della funzione chiamata",
+      "C. si esegue il push del record di attivazione della funzione chi amante"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 247,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. le variabili automatiche della funzione chiamata vengono rimosse",
+      "B. le variabili automatiche della funzione chiamante vengono rimosse",
+      "C. le variabili globali della funzione chiamata vengono rimosse",
+      "D. le variabili globali della funzione chiamata vengono rimosse"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 248,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sono stati rimossi tutti record di attivazione",
+      "B. si verifica un errore irreverisbile di compilazione",
+      "C. si esaurisce la memoria per i record di attivazione",
+      "D. si utilizzano più record di attivazione di quante funzioni sono sta te create"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 249,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la sola rimozione del record dallo stack ma non si realizza il ritorno al sistema operativo",
+      "B. il ritorno al sistema  operativo ma il record dallo stack viene mantenuto",
+      "C. prima la rimozione del record dallo stack e quindi il ritorno al sistema operativo",
+      "D. la rimozione del sistema operativo"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 250,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non è più accessibile",
+      "B. rimane accessibile in sola lettura",
+      "C. rimane accessibile in sola scrittura",
+      "D. rimane accessibile in lettura e scrittura"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 251,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. i limiti per i valori interi del sistema",
+      "B. i prototipi di funzioni per i calcoli matematici con i limiti",
+      "C. i limiti di lunghezza delle stringhe nelle funzioni di input/ output",
+      "D. i limiti per le lunghezze delle funzioni e dei file"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 252,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. Contiene data e tempo correnti",
+      "B. contiene i prototipi di funzione per velocizzare la compilazione",
+      "C. con tiene le definizioni di funzioni da eseguire in tempi definiti",
+      "D. Contiene i prototipi di funzione per utilizzare i parametri del tempo"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 253,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. .prog",
+      "B. .gcc",
+      "C. .h",
+      "D. .c"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 254,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. < >",
+      "B. ' '",
+      "C. ( )",
+      "D. [ ]"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 255,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. valore",
+      "B. riferimento",
+      "C. controllo"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 256,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non permette alla funzione chiamata di modificare il valore della variabile originaria",
+      "B. permette alla funzione chiamata di modificare il vaolre della variabile originaria",
+      "C. si ottiene un errore di sintassi",
+      "D. si ottiene un errore di compilazion e"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 257,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. #include < rand.h >",
+      "B. #include < stdlib.h >",
+      "C. #include < rand >",
+      "D. #include < stdlib >"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 258,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 1 e 6",
+      "B. 0 e almeno 2147483647",
+      "C. 1 e almeno 2147483647",
+      "D. 0 e 6"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 259,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la stampa di 0 o 1",
+      "B. la stampa di 1 o 2",
+      "C. la stampa di 2",
+      "D. la stampa del valore massimo per rand() diviso 2"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 260,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. con almeno due cifre all'inizio del nome",
+      "B. con lettere tutte minuscole",
+      "C. con prima lettera maiuscola e successive minuscole",
+      "D. con lettere tutte maiuscole"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 261,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. -1",
+      "B. 0",
+      "C. 1",
+      "D. EOF"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 262,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. graffe",
+      "B. tonde",
+      "C. quadre",
+      "D. angolari"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 263,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. virgola ( , )",
+      "B. punto e virgola ( ; ) C. linea ( -  )",
+      "D. and commercia le ( & )"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 264,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. uguale seguito da due punti ( =: )",
+      "B. due punti seguito da uguale ( := )",
+      "C. due punti ( : )"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 265,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. devono essere unici, e i valori non possono essere duplicati",
+      "B. devono essere unici, e i valori possono essere duplicati",
+      "C. possono essere duplicati, e i valori devono essere unici",
+      "D. possono essere duplic ati, e anche i valori possono essere duplicati"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 266,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un intero",
+      "B. una stringa di testo",
+      "C. nulla, genera un errore di compilazione",
+      "D. nulla, ma non genera errori di compilazione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 267,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È errata, non si può confrontare un enum con la costante MON",
+      "B. È errata, i l confronto nell'if si realizza utilizzando un solo uguale",
+      "C. È corretta se MON è un identificatore dell'enum",
+      "D. È errata, va invertito l'ordine fra MON e var"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 268,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È errata, va ripo rtato Week day enum;",
+      "B. È errata, va posta al di fuori del main",
+      "C. È errata, va riportato enum Week = enum day;",
+      "D. È corretta, dichiara la variabile day di tipo enum Week"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 269,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. campo di azione",
+      "B. permanenza",
+      "C. collegamento",
+      "D. regola di azione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 270,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. campo di azione",
+      "B. permanenza",
+      "C. collegamento",
+      "D. regola di azione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 271,
+    "text": "detta:",
+    "options": [
+      "A. campo di azione",
+      "B. permanenza",
+      "C. collegamento",
+      "D. regola di azione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 272,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. extern",
+      "B. static",
+      "C. intern",
+      "D. auto"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 273,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. all'inizio dell'esecuzione del programma",
+      "B. quando il controllo del programma esce dal blocco nel quale sono definite",
+      "C. quando il controllo del programma le utilizza la prima volta",
+      "D. quando il controllo del programma entra nel blocco nel quale sono definite"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 274,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. hanno permanenza in memoria permamente e l'impiego della parola chiave auto è quindi opzionale",
+      "B. hanno permanenza in memoria automatica e l'impiego della parola chiave auto è quindi opzionale"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 275,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. soltanto una volta, prima che il programma inizi l'esecuzione",
+      "B. ogni volta che il programma le utilizza",
+      "C. soltanto una volta, quando il controllo del programma entra nel blocco che le utilizza",
+      "D. tante volte quante il loro valore viene modificato, prima che il programma inizi l'esecuzione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 276,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. variabili automatiche",
+      "B. variabili globali",
+      "C. costanti",
+      "D. operandi"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 277,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. alla funzione",
+      "B. al file",
+      "C. al blocco",
+      "D. al sistema operativo"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 278,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. alla funzione",
+      "B. al file",
+      "C. al blocco",
+      "D. al sistema operat ivo"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 279,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un errore",
+      "B. la chiamata all'ultima funzione ricorsiva",
+      "C. la restituzione di un numero",
+      "D. la chiamata alla prima fu nzione ricorsiva"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 280,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. return",
+      "B. for",
+      "C. printf",
+      "D. if (o if..else)"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 281,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la chiamata originaria alla funzione fallisce",
+      "B. la chiamata originaria alla funzione si arresta definitivamente",
+      "C. la chiamata originaria alla funzione si arresta, in attesa del risultato dal passo di ricorsione",
+      "D. la chiamata originaria prosegue, simultaneamente ai passi di ricorsione"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 282,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. restituisce il risultato finale alla sua fu nzione chiamante",
+      "B. restituisce zero",
+      "C. restituisce il risultato finale alla sua funzione chiamata",
+      "D. restituisce il valore 1 alla sua funzione chiamante"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 283,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'accelerazione delle prestazioni nell'esecuzione delle funzioni ricorsive",
+      "B. la restituizione del caso base",
+      "C. la restituzione del risultato finale con valore infinito"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 284,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. una struttura di controllo",
+      "B. una struttura di selezione di tipo switch",
+      "C. una struttura di iterazione con variabile sentinella",
+      "D. una struttura di selezione e una di iterazione con variabile sentinella"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 285,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. disponibilità di risorse di CPU",
+      "B. disponibilità di risorse di memoria",
+      "C. selezione",
+      "D. terminazio ne"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 286,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la realizzazione di un programma più moderno",
+      "B. la realizzazione di un programma più intuitivo",
+      "C. la realizzazi one di un programma dall'esecuzione più lenta",
+      "D. nessun motivo"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 287,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. la facilità con cui si ricade in ricorsioni infinite",
+      "B. l'uso piu' frequente di chiamate a funzione",
+      "C. l'impiego di variabili di tipo piu' ampio",
+      "D. il tipo di memoria impiegata"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 288,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. strutture di funzioni costituite da f unzioni non correlate e di ogni tipo",
+      "B. strutture di dati costituite da dati non correlati e di ogni tipo",
+      "C. strutture di funzioni costituite da funzioni dello stesso tipo",
+      "D. strutture di dati costituite da dati correlati e dello stesso tipo"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 289,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. il nome, il valore esadecimale della locazione di memoria, e il numero di posizione dell'elemento nell'array",
+      "B. solo il numero di pos izione dell'elemento nell'array",
+      "C. solo il nome dell'array",
+      "D. il nome dell'array e il numero di posizione dell'elemento nell'array"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 290,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. -1",
+      "D. 100"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 291,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. lettera minuscola",
+      "B. cifra",
+      "C. sottilineatura (underscore)",
+      "D. le lettere 'arr'"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 292,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. indice",
+      "B. sommario",
+      "C. codice",
+      "D. argomento"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 293,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. addiziona 2 all'elemento 12 dell'array c",
+      "B. addiziona 4 all'elemento 12 dell'array c",
+      "C. as segna 4 all'elemento 12 dell'array c"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 294,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errore, servono due specificatori di conversione %d",
+      "B. errore, non si può effettuare la so mma s[1] + s[2]",
+      "C. la stampa della somma degli elementi 1 e 2 dell'array s",
+      "D. errore, andava indicato 1[s] + 2[s]"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 295,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un tipo intero senza segno raccomandato per gli indici di un array",
+      "B. un tipo intero senza segno da evitare per gli indici di un array",
+      "C. un tipo float raccomandato per gli indici di un array",
+      "D. un tipo float da evitare per gli indici di un array"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 296,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'ini zializzazione a 0 del valore alla posizione 100",
+      "B. l'inizializzazione a 100 del valore alla posizione 0",
+      "C. l'inizializzazione a 0 di tutti i valori dell'array c D. errore, per inizializzare serve il valore di ogni elemento dell'array"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 297,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. #define",
+      "B. #include",
+      "C.",
+      "D."
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 298,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non si possono modificare gli elementi dell'array ogni volta che la funzione è chiamata",
+      "B. non si possono porre a zero i valori dell'array quando la funzione è chiamata",
+      "C. non si deve creare e inizializzare l'array ogni volta che la funzione è chiamata D. si deve creare e inizializzare l'array ogni volta che la funzione è chiamata"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 299,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non verrà distrutto ogni volta che si esce dalla funzione nel programma",
+      "B. verrà distrutto ogni volta che si esce dalla funzione nel programma",
+      "C. non potrà essere usato nel main",
+      "D. non potrà usare la costante simbolica per definire la sua dimensione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 300,
+    "text": "specificatore static alla definizione di un array locale:",
+    "options": [
+      "A. si aumenta il tempo di esecuzione del programma",
+      "B. si riduce il tempo di esecuzione del programma",
+      "C. il tempo di esecuzione del programma rimane invariato",
+      "D. il tempo di esecuzione del programma aumenta solo se l'array è di interi"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 301,
+    "text": "inizializzati a:",
+    "options": [
+      "A. EOF",
+      "B. 0",
+      "C. valore spazzatura",
+      "D. '\\0'"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 302,
+    "text": "inizializzati a:",
+    "options": [
+      "A. EOF",
+      "B. 1",
+      "C. valore spazzatura",
+      "D. '\\0'"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 303,
+    "text": "inizializzati a:",
+    "options": [
+      "A. EOF",
+      "B. 1",
+      "C. valore spazzatura",
+      "D. '\\0'"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 304,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'indirizzo dell'ultim o elemento dell'array",
+      "B. la dimensione dell'array",
+      "C. l'indirizzo del primo elemento dell'array",
+      "D. 0031F930"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 305,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. array[1]",
+      "B. array(1)",
+      "C. array(0)",
+      "D. array[0]"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 306,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. %p",
+      "B. %i",
+      "C. %a",
+      "D. %z"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 307,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. non è iterativa, c onfronta e ordina tutti gli elementi simulatenamente",
+      "B. È iterativa, confronta e ordina gli elementi a coppie",
+      "C. non è iterativa e si avvale di una variabile ausiliaria",
+      "D. È ricorsiva, confronta e ordina tutti gli elementi simulatenamente"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 308,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. variabili i cui valori sono interi",
+      "B. strutture di dati costituite da dati correlati e dello stesso tipo",
+      "C. funzioni costituite con variabili dello stesso tipo",
+      "D. variabili i cui valori sono indirizzi di memoria"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 309,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. indirezione",
+      "B. imposizione",
+      "C. ingiunzione",
+      "D. polarizzazione"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 310,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. int &xPtr;",
+      "B. int *xPtr;",
+      "C. int xPtr;",
+      "D. punt xPtr;"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 311,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. int * xPtr, yPtr;",
+      "B. int *xPtr, *yPtr;",
+      "C. punt xPtr, yPtr;",
+      "D. int & xPtr, yPtr;"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 312,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. NULL",
+      "B. 0",
+      "C. 1",
+      "D. indirizzo"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 313,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. errata, serve operatore freccia ( -->) al posto di uguale (=)",
+      "B. corretta, assegna la variabile puntatore yPtr all'indirizzo della variabile y",
+      "C. corretta, assegna il valore della variabile y alla variabile puntatore yPtr"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 314,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. il valore contenuto nella locazione di memoria puntata",
+      "B. l'indirizzo della locazione di memoria puntata",
+      "C. la moltiplicazione del valore contenuto nella locazione di memoria p untata",
+      "D. la moltiplicazione dell'indirizzo della locazione di memoria puntata"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 315,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. \"&x\"",
+      "B. 1",
+      "C. Un indirizzo del tipo 0028FEC0",
+      "D. NULL"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 316,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. \"xPtr\"",
+      "B. 1",
+      "C. Un indirizzo del tipo 0028FEC0",
+      "D. NULL"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 317,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. \"*xPtr\"",
+      "B. 1",
+      "C. Un indirizzo del tipo 0028FEC0",
+      "D. NULL"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 318,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. riceve un puntatore alle variabili passate dal main. Non ci sono limiti al numero di variabili passate",
+      "B. riceve una copia del valore delle variabili passate dal main. Non ci sono limiti al numero di variabili passate",
+      "C. riceve un puntatore alla variabile passata dal main. Il main puo' passare una sola variabile",
+      "D. riceve una copia del valore della variabile passata dal main. Il main puo' passare una sola variabile"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 319,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. restituisce un puntatore. Non ci sono limiti al numero di puntatori restituiti al main",
+      "B. restituisce i valore delle variabili modificate dalla funzione. Non ci sono limiti sul numero di variabili modificate  che si"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 320,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un solo valore alla funzione chiamante",
+      "B. più valori alla funzione chiamante",
+      "C. nessun valore alla funzione chiamante",
+      "D. solo valori int alla funzione chiamante"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 321,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. i valro e gli indirizzi usando l'operatore AND",
+      "B. i valro e gli indirizzi usando l'operatore OR",
+      "C. i valori degli argomenti",
+      "D. gli in dirizzi degli argomenti"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 322,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. void funz(int *pPtr);",
+      "B. void funz(int &pPtr);",
+      "C. void funz(int pPtr);",
+      "D. void funz(int %pPtr);"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 323,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. funz(*p)",
+      "B. funz(&p)"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 324,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. *pPtr = *pPtr * *pPtr",
+      "B. &pPtr = &pPtr * &pPtr",
+      "C. pPtr = pPtr * pPtr",
+      "D. %pPtr = %pPtr * %pPtr"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 325,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. return",
+      "B. printf e scanf",
+      "C. la modifica del puntatore puntato dal valore della variabile",
+      "D. la modifica della variabile puntata dal puntatore"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 326,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. valPtr = &val",
+      "B. *valPtr = &val",
+      "C. &valPtr = *val",
+      "D. &valPtr = val"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 327,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. i = 4",
+      "B. errore per uso incorretto dell'operatore *",
+      "C. i = 1",
+      "D. errore per uso incorretto dell'operatore &"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 328,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. vPtr = v;",
+      "B. vPtr = *v;",
+      "C. vPtr = &v;",
+      "D. vPtr = *v[0];"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 329,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. restituisce errore",
+      "B. non dipende dall'indirizzo a cui puntano i punt atori",
+      "C. dipende dalla dimensione degli oggetti a cui puntano i puntatori",
+      "D. dipende dall'indirizzo a cui puntano i puntatori"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 330,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 5000",
+      "B. 5002",
+      "C. 5008",
+      "D. 5200"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 331,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. 5000",
+      "B. 5002",
+      "C. 5008",
+      "D. 5200"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 332,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. le locazioni di memoria sono di dimens ione 4 oppure 2 byte",
+      "B. le locazioni di memoria sono di dimensione 4 byte",
+      "C. le locazioni di memoria sono posizionate casualmente",
+      "D. le locazioni di memoria sono contigue"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 333,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. incrementa un puntatore di un array di uno",
+      "B. incrementa il valore puntato di uno",
+      "C. restituisce errore per la non applicabilità dell'operatore ++ ai puntatori"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 334,
+    "text": "l'indirizzo 508, l'istruzione x = v2Ptr -  vPtr; restiuisce:",
+    "options": [
+      "A. 0",
+      "B. 2",
+      "C. 8",
+      "D. Errore, n on si puo' sottrarre un puntatore da un altro"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 335,
+    "text": "restiuisce:",
+    "options": [
+      "A. 0",
+      "B. 4",
+      "C. Errore,  non si puo' sottrarre un puntatore da un altro se relativo ad array differente",
+      "D. Errore, non si puo' sottrarre un puntatore da un altro"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 336,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. specificatore di conversione",
+      "B. prototipo di funzione",
+      "C. tipo",
+      "D. valore"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 337,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. char",
+      "B. long long int",
+      "C. int",
+      "D. void"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 338,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. &(bPtr + 100)",
+      "B. *(bPtr + 100)",
+      "C. *bPtr + 100",
+      "D. bPtr + 100"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 339,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. a quale elemento dell'array si fa riferimento",
+      "B. l'indirizzo della locazione di memoria di bPtr in esadecimale",
+      "C. il tipo di dato dell'array",
+      "D. il v alore memorizzato all'indice zero dell'array"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 340,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'indice dell'array",
+      "B. zero",
+      "C. la dimenzione dell'array",
+      "D. NULL"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 341,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. bPtr[1]",
+      "B. bPtr(1)",
+      "C. bPtr*1",
+      "D. bPtr"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 342,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. scorretta poiché non verifica a priori se l'array ha dimensione minore di tre",
+      "B. corretta",
+      "C. scorretta poiché sarebbero servite le parentesi tonde per garantire le giuste precedenze",
+      "D. scorretta poiché tenta di modificare il valore del nome dell'array"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 343,
+    "text": "riferirsi all'elemento i utilizza:",
+    "options": [
+      "A. b[i]"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 344,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. b[i]",
+      "B. *(b + i)",
+      "C. bPtr[i]",
+      "D. *(bPtr + i)"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 345,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. b[i]",
+      "B. *(b + i)",
+      "C. bPtr[i]",
+      "D. *(bPtr + i)"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 346,
+    "text": "all'elemento i utilizza:",
+    "options": [
+      "A. b[i]",
+      "B. *(b + i)",
+      "C. bPtr[i]",
+      "D. *(bPtr + i)"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 347,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. assegna il valore di s2 all'indice 2 all'array s1 nell'indice 3",
+      "B. assegna il valore di s1 all'indice 2 all'array s2 nell'indice 3",
+      "C. assegna il valore di s2 all'indice 3 all'array s1 nell'indice 2",
+      "D. assegna il valore di s1 all'in dice 3 all'array s2 nell'indice 2"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 348,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. i parametri iniziali passati alla funzione",
+      "B. il valore finale restituito dalla fu nzione",
+      "C. il tipo di dato restituito della funzione",
+      "D. l'indirizzo della funzione nella memoria"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 349,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'indirizzo in memoria dell'ultimo elemento dell'array",
+      "B. l'indirizzo in memoria del primo elemento dell'array",
+      "C. il tipo di dato dell'array",
+      "D. il valore memorizzato all'indice zero dell'array"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 350,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. l'indirizzo in memoria dell'elemento zero del primo array usato dalla funzione",
+      "B. l'indirizzo in memoria di partenza del codice che esegue il compito della funzione",
+      "C. l'indirizzo in memoria della fine  del codice che esegue il compito della funzione",
+      "D. il valore memorizzato all'indice zero del primo array usato dalla funzione"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 351,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. un puntatore a una funzione che riceve un parametro double e restituisce un risultato intero",
+      "B. un puntatore a una funzione che riceve un parametro int e restituisce un risultato double",
+      "C. una funzione che riceve un puntatore a un parametro int e restituisce un risultato doubl e",
+      "D. una funzione che riceve un puntatore a un parametro double e restituisce un risultato intero"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 352,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. È errato, a causa di (*)",
+      "B. È errato, a cuasa di (int)",
+      "C. È corretto",
+      "D. È errato, a causa della sequenza di (*) con (int)"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 353,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. sistemi matematici",
+      "B. cicli infiniti",
+      "C. sistemi guidati da menu di t ipo testuale"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 354,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. tutti i puntatori devono avere lo stesso tipo",
+      "B. tutte le funzioni devono restituire void",
+      "C. tutte le funzioni devono ricevere argomenti int",
+      "D. tutti i puntatori devono puntare alla stessa locazione di memoria"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 355,
+    "text": "parametri l'intero x e un puntatore alla funzione fun2. La funzione fun2 riceve un parametro intero e restituisce un intero.:",
+    "options": [
+      "A. int fun1 (int x, int (*fun2)(int))",
+      "B. int fun2(int x, int (*fun1)(int))",
+      "C. int fun1 (int x, int (fun2)(int))",
+      "D. int fun2(int x, int (fun1)(int))"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 356,
+    "text": "(testo domanda non rilevato)",
+    "options": [
+      "A. void fun1 (float x, float y)",
+      "B. void fun1 (float &x, float &y)",
+      "C. void (*)fun1 (float x, float y)",
+      "D. void fun1 (float *x, float *y)"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 357,
+    "text": "restituiscono void:",
+    "options": [
+      "A. int (*f[3])(void)",
+      "B. void (*f[3])(int)",
+      "C. void (int) (*f[3])",
+      "D. void (f[3])(int)"
+    ],
+    "correct": "B"
+  }
+]

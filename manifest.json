@@ -1,0 +1,9 @@
+{
+  "name": "Quiz Programmazione 1",
+  "short_name": "QuizProg1",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a84ff",
+  "icons": []
+}
