@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "problemi', stiamo definendo un...:",
+    "text": "Quando parliamo di: 'una descrizione delle operazioni che devono essere eseguite per risolvere una ce rta classe di  problemi', stiamo definendo un...:",
     "options": [
       "A. programma",
       "B. algortimo",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "text": "dei dati per risolvere una classe di problemi' ci riferiamo alla definizione di:",
+    "text": "Quando parliamo di: 'una successione ordinata di istruzioni (o passi) che definiscono le operazioni da esegu ire su  dei dati per risolvere una classe di problemi' ci riferiamo alla definizione di:",
     "options": [
       "A. programma",
       "B. algortimo",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "text": "(testo domanda non rilevato)",
+    "text": "Le proprietà degli algoritmi sono:",
     "options": [
       "A. infinitezza, generalità e ambiguità",
       "B. finitezza, generalità e non ambiguità",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "text": "(testo domanda non rilevato)",
+    "text": "Un flow chart è un:",
     "options": [
       "A. linguaggio informale di tipo grafico per rappresentare gli algoritmi",
       "B. linguaggio formale di tipo testuale per rappresentare gli algoritmi",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "text": "(testo domanda non rilevato)",
+    "text": "La scelta, in un diagramma di flusso, è rappresentata da un:",
     "options": [
       "A. rettangolo",
       "B. quadrato",
@@ -56,15 +56,17 @@
   },
   {
     "id": 6,
-    "text": "(testo domanda non rilevato)",
+    "text": "Le fasi per descrivere un algortitmo con pseudocodifica sono:",
     "options": [
-      "A. intes tazione,  dichiarativa, esecutiva"
+      "B. intestazione,  dichiarativa, scrittura dei risultati",
+      "C. intestazione,acquisizione dei dati, esecutiva",
+      "D. assegnazione, dichiarativa, esecutiva"
     ],
     "correct": "A"
   },
   {
     "id": 7,
-    "text": "(testo domanda non rilevato)",
+    "text": "Le caratteristiche di un linguaggio di programmazione sono:",
     "options": [
       "A. lessico, istruzioni, semantica",
       "B. alfabeto, sintassi, semantica",
@@ -75,7 +77,7 @@
   },
   {
     "id": 8,
-    "text": "(testo domanda non rilevato)",
+    "text": "I linguaggi di programmazione so no classificati per:",
     "options": [
       "A. livello",
       "B. complessità",
@@ -86,7 +88,7 @@
   },
   {
     "id": 9,
-    "text": "(testo domanda non rilevato)",
+    "text": "L'Assembly è un linguaggio:",
     "options": [
       "A. di alto livello",
       "B. di basso livello",
@@ -97,7 +99,7 @@
   },
   {
     "id": 10,
-    "text": "(testo domanda non rilevato)",
+    "text": "Per tradurre un linguaggio ad alto livello in linguaggio macchina si utilizza il:",
     "options": [
       "A. traduttore",
       "B. convertitore",
@@ -108,18 +110,26 @@
   },
   {
     "id": 11,
-    "text": "(testo domanda non rilevato)",
+    "text": "La fase di problem finding corrisponde a:",
     "options": [
-      "A. Definire il problema",
       "B. Rendersi conto del disagio",
-      "C. Passare all'azione",
-      "D. Adottare una soluzione"
+      "C. Passare all'azione"
     ],
     "correct": "B"
   },
   {
     "id": 12,
-    "text": "A. Corrispond e alla fase di problem solving B. Precede la fase di problem finding C. Segue la fase di problem solving D. Segue la fase di decision taking  Answer: C Section: Problem solving  3. Problem analysis corrisponde a:",
+    "text": "La fase di decision making:",
+    "options": [
+      "B. Precede la fase di problem finding",
+      "C. Segue la fase di problem solving",
+      "D. Segue la fase di decision taking"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "text": "Problem analysis corrisponde a:",
     "options": [
       "A. eliminare le cause e rispondere alle domande proste dal problema",
       "B. definire il problema",
@@ -129,19 +139,16 @@
     "correct": "C"
   },
   {
-    "id": 13,
-    "text": "B. Precede la fase di problem finding C. Segue la fase di problem solving D. Segue la fase di decision taking  Answer: C Section: Problem solving  3. Problem analysis corrisponde a: A. eliminare le cause e rispondere alle domande proste dal problema B. definire il problema C. scomporre il problema principalie in secondari D. passare all'azione Answer: C Section: Problem solving  4. Problem setting vuol dire:",
+    "id": 14,
+    "text": "Problem setting vuol dire:",
     "options": [
-      "A. Decidere come risolvere il problema",
-      "B. Suddividere il problema in  sotto problemi",
-      "C. Analizzare il problema per adottare una soluzione",
-      "D. Decidere cosa fare per risolvere il problema"
+      "B. Suddividere il problema in  sotto problemi"
     ],
     "correct": "A"
   },
   {
-    "id": 14,
-    "text": "C. scomporre il problema principalie in secondari D. passare all'azione Answer: C Section: Problem solving  4. Problem setting vuol dire: A. Decidere come risolvere il problema B. Suddividere il problema in  sotto problemi C. Analizzare il problema per adottare una soluzione D. Decidere cosa fare per risolvere il problema Answer: A Section: Problem solving  5. La fase di decision taking:",
+    "id": 15,
+    "text": "La fase di decision taking:",
     "options": [
       "A. E' immediatamente successiva alla fase di problem analysis",
       "B. E' imm ediatamente successiva alla fase di decision making",
@@ -151,18 +158,18 @@
     "correct": "B"
   },
   {
-    "id": 15,
-    "text": "(testo domanda non rilevato)",
+    "id": 16,
+    "text": "Quante sono le mosse per un corretto utilizzo delle tecniche di problem s olving:",
     "options": [
       "A. 6",
       "B. 8",
-      "C. 4"
+      "D. 5"
     ],
     "correct": "A"
   },
   {
-    "id": 16,
-    "text": "(testo domanda non rilevato)",
+    "id": 17,
+    "text": "L'approccio top -down indica:",
     "options": [
       "A. Una scomposizione di problemi semplici in sotto problemi più complessi",
       "B. Una unione di problemi piccoli in problemi più complessi",
@@ -172,8 +179,8 @@
     "correct": "D"
   },
   {
-    "id": 17,
-    "text": "(testo domanda non rilevato)",
+    "id": 18,
+    "text": "Un flowchart è:",
     "options": [
       "A. utilizzato per illustrare la strutt ura fisica del problema",
       "B. Utilizzato per illustrare la struttura logica deò problema",
@@ -183,19 +190,18 @@
     "correct": "B"
   },
   {
-    "id": 18,
-    "text": "(testo domanda non rilevato)",
+    "id": 19,
+    "text": "Coding vuol dire:",
     "options": [
       "A. Scrivere il programma in pseudo codice",
       "B. scrivere il programma in un linguaggio formale",
-      "C. Scrivere il programma in un linguaggio di programmazione",
-      "D. Definire il flowchart del problema"
+      "C. Scrivere il programma in un linguaggio di programmazione"
     ],
     "correct": "C"
   },
   {
-    "id": 19,
-    "text": "(testo domanda non rilevato)",
+    "id": 20,
+    "text": "Quali sono le tipologie di errori di programmazione:",
     "options": [
       "A. Sintattici, fisici, logici",
       "B. Sintattici, logici, semantici",
@@ -205,8 +211,8 @@
     "correct": "D"
   },
   {
-    "id": 20,
-    "text": "(testo domanda non rilevato)",
+    "id": 21,
+    "text": "In un flowchart i l Terminal è rappresentato da:",
     "options": [
       "A. Rombo",
       "B. Rettangolo",
@@ -216,8 +222,8 @@
     "correct": "C"
   },
   {
-    "id": 21,
-    "text": "(testo domanda non rilevato)",
+    "id": 22,
+    "text": "In un flowchart le operazioni di Input/Output sono rappresentate da:",
     "options": [
       "A. Rombo",
       "B. Rettangolo",
@@ -227,18 +233,29 @@
     "correct": "D"
   },
   {
-    "id": 22,
-    "text": "(testo domanda non rilevato)",
+    "id": 23,
+    "text": "In un flowchart i processi sono rappresentati da:",
     "options": [
       "A. Rombo",
       "B. Rettangolo",
-      "C. Rettangolo arrotondato D. Parallelogramma"
+      "C. Rettangolo arrotondato",
+      "D. Parallelogramma"
     ],
     "correct": "B"
   },
   {
-    "id": 23,
-    "text": "(testo domanda non rilevato)",
+    "id": 24,
+    "text": "In un flowchart l a struttura di tipo Decision rappresenta:",
+    "options": [
+      "A. Una serie di azioni eseguite in sequenza",
+      "B. Una serie di azioni eseguite con un controllo decisionale (si/no)",
+      "C. Una serie di azioni eseguite una o più volte"
+    ],
+    "correct": ""
+  },
+  {
+    "id": 25,
+    "text": "In un flowchart la struttura di tipo Repetition rappresenta:",
     "options": [
       "A. Una serie di azioni eseguite in sequenza",
       "B. Una serie di azioni eseguite con un controllo decisionale (si/no)",
@@ -248,18 +265,16 @@
     "correct": "C"
   },
   {
-    "id": 24,
-    "text": "(testo domanda non rilevato)",
+    "id": 26,
+    "text": "L’azione eseguita da una struttura «repetition»:",
     "options": [
-      "A. Non deve causare la terminazione del ciclo",
-      "B. Deve sempre condurre ad un ciclo infinito",
-      "C. Può condurre a d un ciclo infinito e, talvolta, è utile"
+      "A. Non deve causare la terminazione del ciclo"
     ],
     "correct": "D"
   },
   {
-    "id": 25,
-    "text": "(testo domanda non rilevato)",
+    "id": 27,
+    "text": "La definizione \"l’insieme di regole formali per la scrittura di parole in un linguaggio\" si riferisce a:",
     "options": [
       "A. Lessico",
       "B. Sintassi",
@@ -269,8 +284,8 @@
     "correct": "A"
   },
   {
-    "id": 26,
-    "text": "grammatica del linguaggio stesso\" si riferisce a:",
+    "id": 28,
+    "text": "La definizione \"l’insieme di regole formali per la scrittura di fra si in un linguaggio, che stabiliscono cioè la  grammatica del linguaggio stesso\" si riferisce a:",
     "options": [
       "A. Lessico",
       "B. Sintassi",
@@ -280,8 +295,8 @@
     "correct": "B"
   },
   {
-    "id": 27,
-    "text": "si riferisce a:",
+    "id": 29,
+    "text": "La definizione \"ll’insieme dei significati da attribuire a lle frasi (sintatticamente corrette) costruite nel linguaggio\"  si riferisce a:",
     "options": [
       "A. Lessico",
       "B. Sintassi",
@@ -291,8 +306,8 @@
     "correct": "C"
   },
   {
-    "id": 28,
-    "text": "(testo domanda non rilevato)",
+    "id": 30,
+    "text": "Il calcolatore comprende solo:",
     "options": [
       "A. Linguaggi ad alto livello",
       "B. Lingua ingle se",
@@ -302,19 +317,17 @@
     "correct": "D"
   },
   {
-    "id": 29,
-    "text": "hardware/software, ed è:",
+    "id": 31,
+    "text": "La programmazione a basso livello consente di sviluppare programmi molto efficienti su uno specifico sistema  hardware/software, ed è:",
     "options": [
       "A. Semplice e comprensibil e",
-      "B. Ardua e poco intuitiva",
-      "C. Semplice ma poco intuitiva",
-      "D. Ardua ma facilmente comprensibile"
+      "C. Semplice ma poco intuitiva"
     ],
     "correct": "B"
   },
   {
-    "id": 30,
-    "text": "DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO  programma viene eseguito…:",
+    "id": 32,
+    "text": "Consentono di trattare oggetti complessi senza doversi preoccupare dei dettagli della macchina sulla quale il   DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO   DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO  programma viene eseguito…:",
     "options": [
       "A. Linguaggi a basso livello",
       "B. Linguaggi ad alto livello",
@@ -324,41 +337,38 @@
     "correct": "B"
   },
   {
-    "id": 31,
-    "text": "(testo domanda non rilevato)",
+    "id": 33,
+    "text": "\"Facilità nell’effettuare modifich e di tipo correttivo, perfettivo, evolutivo e adattivo\". Ci riferiamo a:",
     "options": [
       "A. Portabilità",
       "B. Leggibilità",
-      "C. Manutenibilità",
-      "D. Compilazione"
+      "C. Manutenibilità"
     ],
     "correct": "C"
   },
   {
-    "id": 32,
-    "text": "ricompilazione\". Ci riferiamo a:",
+    "id": 34,
+    "text": "\"I programmi scritti per un calcolatore possono essere utilizzati s u qualsiasi altro calcolatore, previa  ricompilazione\". Ci riferiamo a:",
     "options": [
       "A. Portabilità",
       "B. Leggibilità",
-      "C. Manutenibilità",
-      "D. Compilazione"
+      "C. Manutenibilità"
     ],
     "correct": "A"
   },
   {
-    "id": 33,
-    "text": "leggere\". Ci riferiamo a:",
+    "id": 35,
+    "text": "\"La relativa similitudine con i linguaggi naturali rende i programmi più semplici, non solo da scrivere, ma anche da  leggere\". Ci riferiamo a:",
     "options": [
       "A. Portabilità",
       "B. Leggibilità",
-      "C. Manutenibilità",
-      "D. Compilazione"
+      "C. Manutenibilità"
     ],
     "correct": "B"
   },
   {
-    "id": 34,
-    "text": "(testo domanda non rilevato)",
+    "id": 36,
+    "text": "Il modello computazionale è basato sul cambiamento di stato della  memoria della macchina...:",
     "options": [
       "A. Nei linguaggi dichiarativi",
       "B. Sia nei linguaggi dichiarativi che imperativi",
@@ -368,8 +378,8 @@
     "correct": "C"
   },
   {
-    "id": 35,
-    "text": "(testo domanda non rilevato)",
+    "id": 37,
+    "text": "ANSI C nasce nel:",
     "options": [
       "A. 1978",
       "B. 1980",
@@ -379,8 +389,8 @@
     "correct": "C"
   },
   {
-    "id": 36,
-    "text": "(testo domanda non rilevato)",
+    "id": 38,
+    "text": "Il linguaggio C:",
     "options": [
       "A. Ha solo caratteristiche di alto livello",
       "B. Ha solo caratteristiche di basso livello",
@@ -390,30 +400,26 @@
     "correct": "C"
   },
   {
-    "id": 37,
-    "text": "(testo domanda non rilevato)",
+    "id": 39,
+    "text": "I tipi di errore Error e Warning…:",
     "options": [
       "A. Sono la stessa cosa",
-      "B. Sono due cose diverse",
-      "C. Non appartengono al linguaggio C",
-      "D. Ap partengono solo alle prime versioni del linguaggio C"
+      "B. Sono due cose diverse"
     ],
     "correct": "B"
   },
   {
-    "id": 38,
-    "text": "(testo domanda non rilevato)",
+    "id": 40,
+    "text": "Nel linguaggio C, i caratteri maiuscoli e minuscoli:",
     "options": [
-      "A. Sono la stessa cosa perché il linguaggio C è \"case sensitive\"",
       "B. Non si possono usare",
-      "C. Sono uguali o  diversi a seconda del blocco di istruzioni",
-      "D. Sono considerati diversi perché il linguaggio C è \"case sensitive\""
+      "C. Sono uguali o  diversi a seconda del blocco di istruzioni"
     ],
     "correct": "D"
   },
   {
-    "id": 39,
-    "text": "(testo domanda non rilevato)",
+    "id": 41,
+    "text": "Quando una istruzione è costituita dal solo carattere ';':",
     "options": [
       "A. E' considerata istruzione nulla",
       "B. E' equivalente ad una inizializzazione",
@@ -423,29 +429,28 @@
     "correct": "A"
   },
   {
-    "id": 40,
-    "text": "(testo domanda non rilevato)",
+    "id": 42,
+    "text": "L'inizio di un commento è caratterizzato dalla coppia di caratteri:",
     "options": [
       "A. */",
       "B. /*",
-      "C. **"
+      "D. /**"
     ],
     "correct": "B"
   },
   {
-    "id": 41,
-    "text": "(testo domanda non rilevato)",
+    "id": 43,
+    "text": "Un blocco di  codice è un insieme di istruzioni racchiuso tra parentesi:",
     "options": [
       "A. Tonde",
       "B. Quadre",
-      "C. Angolari",
       "D. Graffe"
     ],
     "correct": "D"
   },
   {
-    "id": 42,
-    "text": "(testo domanda non rilevato)",
+    "id": 44,
+    "text": "Se il blocco di codice è costituito da una sola istruzione:",
     "options": [
       "A. Si usano parentesi tonde al posto delle parentesi graffe",
       "B. Le parentesi graffe vengono normalmente omesse",
@@ -455,10 +460,9 @@
     "correct": "B"
   },
   {
-    "id": 43,
-    "text": "(testo domanda non rilevato)",
+    "id": 45,
+    "text": "L'indentazione è u tile per:",
     "options": [
-      "A. Comprendere meglio il flusso del programma",
       "B. Eseguire il codice più velocemente",
       "C. Occupare meno spazio in memoria",
       "D. Ottenere un eseguibile in automatico"
@@ -466,8 +470,8 @@
     "correct": "A"
   },
   {
-    "id": 44,
-    "text": "(testo domanda non rilevato)",
+    "id": 46,
+    "text": "Le istruzioni in un programma C terminano sempre con… :",
     "options": [
       "A. ;",
       "B. ::",
@@ -477,10 +481,9 @@
     "correct": "A"
   },
   {
-    "id": 45,
-    "text": "(testo domanda non rilevato)",
+    "id": 47,
+    "text": "Le direttive come #include, #define vengono elaborati da:",
     "options": [
-      "A. Compilatore",
       "B. Linker",
       "C. Preprocessore",
       "D. Linker e compilatore"
@@ -488,10 +491,9 @@
     "correct": "C"
   },
   {
-    "id": 46,
-    "text": "(testo domanda non rilevato)",
+    "id": 48,
+    "text": "Traduce il codice C in linguaggio macchina…:",
     "options": [
-      "A. Compilatore",
       "B. Linker",
       "C. Preprocessore",
       "D. Linker e compilatore"
@@ -499,30 +501,26 @@
     "correct": "A"
   },
   {
-    "id": 47,
-    "text": "(testo domanda non rilevato)",
+    "id": 49,
+    "text": "I tipi di errore Error e Warning…:",
     "options": [
       "A. Sono la stessa cosa",
-      "B. Sono due cose div erse",
-      "C. Non appartengono al linguaggio C",
-      "D. Appartengono solo alle prime versioni del linguaggio C"
+      "B. Sono due cose div erse"
     ],
     "correct": "B"
   },
   {
-    "id": 48,
-    "text": "(testo domanda non rilevato)",
+    "id": 50,
+    "text": "Nel linguaggio C, i caratteri maiuscoli e minuscoli:",
     "options": [
-      "A. Sono la stessa cosa perché il linguaggio C è \"case sensi tive\"",
       "B. Non si possono usare",
-      "C. Sono uguali o diversi a seconda del blocco di istruzioni",
-      "D. Sono considerati diversi perché il linguaggio C è \"case sensitive\""
+      "C. Sono uguali o diversi a seconda del blocco di istruzioni"
     ],
     "correct": "D"
   },
   {
-    "id": 49,
-    "text": "salvare il file con estensione:",
+    "id": 51,
+    "text": "Se decidiamo di scrivere un programma con un qualsi asi editor di testo, per poter vedere il risultato dobbiamo  salvare il file con estensione:",
     "options": [
       "A. .txt",
       "B. .doc",
@@ -532,28 +530,24 @@
     "correct": "C"
   },
   {
-    "id": 50,
-    "text": "(testo domanda non rilevato)",
-    "options": [
-      "A. .a sotto Unix/Lin ux e .c in Dos/Windows",
-      "B. .c sotto Unix/Linux e .obj in Dos/Windows"
-    ],
+    "id": 52,
+    "text": "L’assembler è incaricato di creare il codice oggetto salvandolo in un file…:",
+    "options": [],
     "correct": "D"
   },
   {
-    "id": 51,
-    "text": "(testo domanda non rilevato)",
+    "id": 53,
+    "text": "GCC è un:",
     "options": [
-      "A. .a sotto Unix/Lin ux e .c in Dos/Windows",
-      "B. .c sotto Unix/Linux e .obj in Dos/Windows"
+      "A. Ecitor di testo",
+      "D. Linguaggio di programmazione"
     ],
     "correct": "C"
   },
   {
-    "id": 52,
-    "text": "(testo domanda non rilevato)",
+    "id": 54,
+    "text": "Assembla in un unico file eseguibile i file oggetto prodotti da diversi file sorgente e le librerie:",
     "options": [
-      "A. Compilatore",
       "B. Linker",
       "C. Preprocessore",
       "D. Linker e compilatore"
@@ -561,8 +555,8 @@
     "correct": "B"
   },
   {
-    "id": 53,
-    "text": "(testo domanda non rilevato)",
+    "id": 55,
+    "text": "Sono errori sintattici, che impediscono la generazione del codice eseguibile:",
     "options": [
       "A. Warning",
       "B. Error",
@@ -572,8 +566,8 @@
     "correct": "B"
   },
   {
-    "id": 54,
-    "text": "(testo domanda non rilevato)",
+    "id": 56,
+    "text": "So no errori non sintattici che non impediscono la generazione del codice eseguibile:",
     "options": [
       "A. Warning",
       "B. Error",
@@ -583,8 +577,8 @@
     "correct": "A"
   },
   {
-    "id": 55,
-    "text": "(testo domanda non rilevato)",
+    "id": 57,
+    "text": "Una r iga di commento inizia con:",
     "options": [
       "A. \\\\",
       "B. //",
@@ -594,8 +588,8 @@
     "correct": "B"
   },
   {
-    "id": 56,
-    "text": "(testo domanda non rilevato)",
+    "id": 58,
+    "text": "Un commento multilinea termina con:",
     "options": [
       "A. \\\\",
       "B. //",
@@ -605,8 +599,8 @@
     "correct": "C"
   },
   {
-    "id": 57,
-    "text": "(testo domanda non rilevato)",
+    "id": 59,
+    "text": "Le istruzioni di include per il preprocessore in iziano con:",
     "options": [
       "A. #",
       "B. \"",
@@ -616,8 +610,8 @@
     "correct": "A"
   },
   {
-    "id": 58,
-    "text": "(testo domanda non rilevato)",
+    "id": 60,
+    "text": "Un blocco e' racchiuso da parentesi:",
     "options": [
       "A. graffe",
       "B. tonde",
@@ -627,8 +621,8 @@
     "correct": "A"
   },
   {
-    "id": 59,
-    "text": "(testo domanda non rilevato)",
+    "id": 61,
+    "text": "Il termine void, argomento della funzione main, e' rac chiuso fra parentesi:",
     "options": [
       "A. graffe",
       "B. tonde",
@@ -638,18 +632,18 @@
     "correct": "B"
   },
   {
-    "id": 60,
-    "text": "(testo domanda non rilevato)",
+    "id": 62,
+    "text": "Il messaggio da stampare all'interno della funzione printf va racchiuso fra:",
     "options": [
       "A. \"",
       "B. \\",
-      "C. ["
+      "D. ["
     ],
     "correct": "A"
   },
   {
-    "id": 61,
-    "text": "(testo domanda non rilevato)",
+    "id": 63,
+    "text": "Ogni istruzione deve terminare con:",
     "options": [
       "A. punto",
       "B. virgola",
@@ -659,8 +653,8 @@
     "correct": "D"
   },
   {
-    "id": 62,
-    "text": "(testo domanda non rilevato)",
+    "id": 64,
+    "text": "La sequenza di escape \\ n:",
     "options": [
       "A. posiziona il cursore alla riga successiva",
       "B. produce un suono o un allarme",
@@ -670,8 +664,8 @@
     "correct": "A"
   },
   {
-    "id": 63,
-    "text": "(testo domanda non rilevato)",
+    "id": 65,
+    "text": "La sequenza di escape \\ a:",
     "options": [
       "A. posiziona il cursore alla riga successiva",
       "B. produce un suono o un allarme",
@@ -681,8 +675,8 @@
     "correct": "B"
   },
   {
-    "id": 64,
-    "text": "(testo domanda non rilevato)",
+    "id": 66,
+    "text": "Stdio.h contiene:",
     "options": [
       "A. l'istruzione main",
       "B. il linker",
@@ -692,8 +686,8 @@
     "correct": "D"
   },
   {
-    "id": 65,
-    "text": "(testo domanda non rilevato)",
+    "id": 67,
+    "text": "Chiedere un numero all'utente è una operazione di:",
     "options": [
       "A. input",
       "B. output",
@@ -703,8 +697,8 @@
     "correct": "A"
   },
   {
-    "id": 66,
-    "text": "(testo domanda non rilevato)",
+    "id": 68,
+    "text": "Le variabili devono essere:",
     "options": [
       "A. definite con un nome e un tipo di dato",
       "B. definite con il solo nome",
@@ -714,8 +708,8 @@
     "correct": "A"
   },
   {
-    "id": 67,
-    "text": "(testo domanda non rilevato)",
+    "id": 69,
+    "text": "Il nome di una variabile:",
     "options": [
       "A. È a discrezione del compilatore",
       "B. deve includere trattini \"_\"",
@@ -725,8 +719,8 @@
     "correct": "C"
   },
   {
-    "id": 68,
-    "text": "(testo domanda non rilevato)",
+    "id": 70,
+    "text": "La funzione scanf:",
     "options": [
       "A. scrive sullo standard outpu t",
       "B. include stringhe di controllo di formato",
@@ -736,8 +730,8 @@
     "correct": "B"
   },
   {
-    "id": 69,
-    "text": "(testo domanda non rilevato)",
+    "id": 71,
+    "text": "Nella funzione scanf, una variabile deve essere:",
     "options": [
       "A. preceduta da &",
       "B. seguita da &",
@@ -747,18 +741,18 @@
     "correct": "A"
   },
   {
-    "id": 70,
-    "text": "(testo domanda non rilevato)",
+    "id": 72,
+    "text": "La stringa di controllo di formato per un integer include la lettera:",
     "options": [
       "A. f",
       "B. d",
-      "C. i"
+      "D. p"
     ],
     "correct": "B"
   },
   {
-    "id": 71,
-    "text": "(testo domanda non rilevato)",
+    "id": 73,
+    "text": "L'operatore di assegnazione è:",
     "options": [
       "A. %",
       "B. \"",
@@ -768,8 +762,8 @@
     "correct": "D"
   },
   {
-    "id": 72,
-    "text": "(testo domanda non rilevato)",
+    "id": 74,
+    "text": "In C, i calcoli possono essere eseguiti:",
     "options": [
       "A. nell'istruzione printf, all'esterno di virgolette \" \"",
       "B. a sinistra dell'operatore di assegnazione",
@@ -779,8 +773,8 @@
     "correct": "A"
   },
   {
-    "id": 73,
-    "text": "(testo domanda non rilevato)",
+    "id": 75,
+    "text": "È possibile assegnare un valore a una variabile:",
     "options": [
       "A. nella sua definizione",
       "B. prima delle istruzioni al preprocessore",
@@ -790,19 +784,25 @@
     "correct": "A"
   },
   {
-    "id": 74,
-    "text": "(testo domanda non rilevato)",
+    "id": 76,
+    "text": "L'istruzione: int a1, a2; è:",
     "options": [
-      "A. errata, non si possono definire due variabili nella stessa istruzione",
-      "B. errata, non si possono dichiarare variabili con nome a1 e a2.",
+      "A. errata, non si possono definire due variabili nella stessa istruzione"
+    ],
+    "correct": ""
+  },
+  {
+    "id": 77,
+    "text": "C. corretta   D. er rata, non si possono separare due variabili con virgola     Answer: C   Section: Le iabili        DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO   DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO  Capitolo 10: Aritmetica in C",
+    "options": [
       "C. corretta",
       "D. er rata, non si possono separare due variabili con virgola"
     ],
     "correct": "C"
   },
   {
-    "id": 75,
-    "text": "(testo domanda non rilevato)",
+    "id": 78,
+    "text": "L'istruzione scanf( '%d', &var ); :",
     "options": [
       "A. sovrascrive la locazione di memoria di var",
       "B. legge la locazione di memoria di var",
@@ -812,8 +812,8 @@
     "correct": "A"
   },
   {
-    "id": 76,
-    "text": "(testo domanda non rilevato)",
+    "id": 79,
+    "text": "L'istruzione a = b; è:",
     "options": [
       "A. distruttiva per la variabile a",
       "B. non distruttiva per la variabile a",
@@ -823,8 +823,8 @@
     "correct": "A"
   },
   {
-    "id": 77,
-    "text": "(testo domanda non rilevato)",
+    "id": 80,
+    "text": "Il segno di percentuale (%) indica l'operatore di:",
     "options": [
       "A. modulo",
       "B. esponente",
@@ -834,8 +834,8 @@
     "correct": "C"
   },
   {
-    "id": 78,
-    "text": "(testo domanda non rilevato)",
+    "id": 81,
+    "text": "La divisione intera 22 / 3 restituisce:",
     "options": [
       "A. 7",
       "B. 1",
@@ -845,8 +845,8 @@
     "correct": "A"
   },
   {
-    "id": 79,
-    "text": "(testo domanda non rilevato)",
+    "id": 82,
+    "text": "Gli operatori del C sono calcolati:",
     "options": [
       "A. da sinistra a destra",
       "B. da destra a sinistra",
@@ -856,18 +856,18 @@
     "correct": "C"
   },
   {
-    "id": 80,
-    "text": "(testo domanda non rilevato)",
+    "id": 83,
+    "text": "I calcoli sono normalmente eseguiti da istruzioni di:",
     "options": [
       "A. assegnazione",
       "B. definizione",
-      "C. operandi"
+      "D. controllo"
     ],
     "correct": "A"
   },
   {
-    "id": 81,
-    "text": "(testo domanda non rilevato)",
+    "id": 84,
+    "text": "Il valore dell'istr uzione x = 33 -  3 * ( 3 + 3 * ( 3 ) / 3 -  3)); corrisponde a:",
     "options": [
       "A. 27",
       "B. errore per parentesi ridondanti",
@@ -877,8 +877,8 @@
     "correct": "B"
   },
   {
-    "id": 82,
-    "text": "(testo domanda non rilevato)",
+    "id": 85,
+    "text": "Le regole di precedenza indicano che:",
     "options": [
       "A. operatore di moltiplicazione ha la precedenza su oper atore di resto",
       "B. operatore di resto ha la precedenza su operatore di moltiplicazione",
@@ -888,8 +888,8 @@
     "correct": "D"
   },
   {
-    "id": 83,
-    "text": "(testo domanda non rilevato)",
+    "id": 86,
+    "text": "In caso di parentesi annidate:",
     "options": [
       "A. gli operatori nella coppia di parentesi più interne sono applicati per primi",
       "B. gli operatori nella coppia di parentesi più interne sono applicati per ultimi",
@@ -899,8 +899,8 @@
     "correct": "A"
   },
   {
-    "id": 84,
-    "text": "(testo domanda non rilevato)",
+    "id": 87,
+    "text": "Per scrivere su una stessa linea i valori 5 e 2 si usa:",
     "options": [
       "A. printf( '10/2, 2\\ n' );",
       "B. scanf( '%d%d \\n', 10/2, 2 );",
@@ -910,8 +910,8 @@
     "correct": "D"
   },
   {
-    "id": 85,
-    "text": "(testo domanda non rilevato)",
+    "id": 88,
+    "text": "L'operatore diverso si indica in C con:",
     "options": [
       "A. !=",
       "B. < >",
@@ -921,8 +921,8 @@
     "correct": "A"
   },
   {
-    "id": 86,
-    "text": "(testo domanda non rilevato)",
+    "id": 89,
+    "text": "L'operatore minore o uguale si indica in C con:",
     "options": [
       "A. < <",
       "B. < =",
@@ -932,8 +932,8 @@
     "correct": "B"
   },
   {
-    "id": 87,
-    "text": "(testo domanda non rilevato)",
+    "id": 90,
+    "text": "L'operatore di uguaglianza si indica in C con:",
     "options": [
       "A. =",
       "B. ==",
@@ -943,8 +943,8 @@
     "correct": "B"
   },
   {
-    "id": 88,
-    "text": "(testo domanda non rilevato)",
+    "id": 91,
+    "text": "Gli operatori relazionali:",
     "options": [
       "A. hanno un livello di precedenza più alto degli operatori di uguaglianza",
       "B. hanno un livello di precedenza più basso degli operatori di uguaglianza",
@@ -954,8 +954,8 @@
     "correct": "A"
   },
   {
-    "id": 89,
-    "text": "(testo domanda non rilevato)",
+    "id": 92,
+    "text": "Migliora la leggibilità del programma:",
     "options": [
       "A. eliminare righe vuote sopra l'istruzione if",
       "B. eliminare righe vuote sotto  l'istruzione if",
@@ -965,18 +965,18 @@
     "correct": "D"
   },
   {
-    "id": 90,
-    "text": "(testo domanda non rilevato)",
+    "id": 93,
+    "text": "Nel corpo di un'istruzione if:",
     "options": [
       "A. è corretto spezzare gli identificatori",
       "B. si devono evitare le parentesi graffe se è inserita una sola istruzione",
-      "C. si può inserire un numero qualsiasi di istruzioni"
+      "D. si può inserire una sola istruzione di assegnazione"
     ],
     "correct": "C"
   },
   {
-    "id": 91,
-    "text": "(testo domanda non rilevato)",
+    "id": 94,
+    "text": "L'associatività da destra a sinistra si ha per l'operato re:",
     "options": [
       "A. ()",
       "B. *",
@@ -986,8 +986,8 @@
     "correct": "C"
   },
   {
-    "id": 92,
-    "text": "(testo domanda non rilevato)",
+    "id": 95,
+    "text": "L'istruzione puts:",
     "options": [
       "A. equivale a printf",
       "B. equivale a scanf",
@@ -997,50 +997,50 @@
     "correct": "C"
   },
   {
-    "id": 93,
-    "text": "(testo domanda non rilevato)",
+    "id": 96,
+    "text": "L'istruzione printf( '%s', 'Welcome' ); è:",
     "options": [
       "A. stampa Welcome e non va a capo",
-      "B. stampa Welcome e va a capo C. errata a causa dell'uso di %s",
+      "B. stampa Welcome e va a capo",
+      "C. errata a causa dell'uso di %s",
       "D. errata a causa della mancanza di /n"
     ],
     "correct": "A"
   },
   {
-    "id": 94,
-    "text": "(testo domanda non rilevato)",
+    "id": 97,
+    "text": "Le parole chi ave:",
     "options": [
       "A. sono usate per istruzioni di ricerca in locazioni di memoria",
       "B. non devono essere usate come nomi delle variabili",
-      "C. includono printf e scanf",
-      "D. non devono essere usate nei programmi C"
+      "C. includono printf e scanf"
     ],
     "correct": "B"
   },
   {
-    "id": 95,
-    "text": "esse vanno eseguite è chiamata:",
+    "id": 98,
+    "text": "Una procedura per risolvere un problema che consta in un insieme di azioni da eseguire e in un dato ordine in cui  esse vanno eseguite è chiamata:",
     "options": [
-      "A. programmazione strutturata B. algoritmo",
+      "A. programmazione strutturata",
+      "B. algoritmo",
       "C. struttura sequenziale  strutturata",
       "D. struttura di controllo"
     ],
     "correct": "B"
   },
   {
-    "id": 96,
-    "text": "(testo domanda non rilevato)",
+    "id": 99,
+    "text": "Lo pseudocodice è costituito solamente da:",
     "options": [
       "A. istruzioni di decisione e azione",
-      "B. istruzioni in linguaggio C",
       "C. azioni sequenziali",
       "D. da dichiarazioni di variabili"
     ],
     "correct": "A"
   },
   {
-    "id": 97,
-    "text": "(testo domanda non rilevato)",
+    "id": 100,
+    "text": "I programmi in pseudocodice:",
     "options": [
       "A. sono eseguiti dal preprocessore",
       "B. sono eseguiti dal compilatore",
@@ -1050,8 +1050,8 @@
     "correct": "C"
   },
   {
-    "id": 98,
-    "text": "(testo domanda non rilevato)",
+    "id": 101,
+    "text": "Un diagramma di flusso è:",
     "options": [
       "A. una rappre sentazione in linguaggio formale di un algoritmo",
       "B. una rappresentazione grafica di un algoritmo",
@@ -1061,8 +1061,8 @@
     "correct": "B"
   },
   {
-    "id": 99,
-    "text": "(testo domanda non rilevato)",
+    "id": 102,
+    "text": "Nei diag rammi di flusso, porzioni omesse vengono rappresentate da:",
     "options": [
       "A. linee di flusso",
       "B. rettangoli arrotondati",
@@ -1072,17 +1072,18 @@
     "correct": "D"
   },
   {
-    "id": 100,
-    "text": "(testo domanda non rilevato)",
+    "id": 103,
+    "text": "Nei diagrammi di flusso, il simbolo di decisione è rappresentato da:",
     "options": [
       "A. un rombo  con due linee di flusso che emergono da esso",
-      "B. un rombo con una sola linea di flusso in uscita"
+      "C. un rettangolo con due linee di flusso che emergono da esso",
+      "D. un rettangolo arrotondato con due linee di flusso che emergono da esso"
     ],
     "correct": "A"
   },
   {
-    "id": 101,
-    "text": "(testo domanda non rilevato)",
+    "id": 104,
+    "text": "Se l'istruzione successiva da eseguire può essere diversa dalla successiva in sequenza si parla di esecuzione con:",
     "options": [
       "A. trasferimento del controllo",
       "B. strutture di controllo sequenziale",
@@ -1092,8 +1093,8 @@
     "correct": "A"
   },
   {
-    "id": 102,
-    "text": "(testo domanda non rilevato)",
+    "id": 105,
+    "text": "L'istruzione di selezione singola è:",
     "options": [
       "A. if",
       "B. if..else",
@@ -1103,8 +1104,8 @@
     "correct": "A"
   },
   {
-    "id": 103,
-    "text": "(testo domanda non rilevato)",
+    "id": 106,
+    "text": "La struttura di iterazione consente di eseguire azioni finché:",
     "options": [
       "A. non si incontra una istruzione di selezione",
       "B. non si incontra una istruzione di sequenza",
@@ -1114,8 +1115,8 @@
     "correct": "D"
   },
   {
-    "id": 104,
-    "text": "(testo domanda non rilevato)",
+    "id": 107,
+    "text": "Le decisioni nell'istruz ione if:",
     "options": [
       "A. devono basarsi su espressioni che abbiano valore zero",
       "B. possono basarsi su qualsiasi espressione",
@@ -1125,8 +1126,8 @@
     "correct": "B"
   },
   {
-    "id": 105,
-    "text": "(testo domanda non rilevato)",
+    "id": 108,
+    "text": "Nell'istruzione if...else, se la condizione nell'if è vera:",
     "options": [
       "A. vengono eseguite entrambe le azioni nell'if e nell'else",
       "B. viene eseguita solo l'azione nell'else",
@@ -1136,8 +1137,8 @@
     "correct": "C"
   },
   {
-    "id": 106,
-    "text": "(testo domanda non rilevato)",
+    "id": 109,
+    "text": "Il corpo di else:",
     "options": [
       "A. richiede sempre parentesi graffe",
       "B. richiede sempre parentesi tonde",
@@ -1147,8 +1148,8 @@
     "correct": "C"
   },
   {
-    "id": 107,
-    "text": "(testo domanda non rilevato)",
+    "id": 110,
+    "text": "L'operatore condizionale si indica con:",
     "options": [
       "A. :?",
       "B. ?",
@@ -1158,8 +1159,8 @@
     "correct": "D"
   },
   {
-    "id": 108,
-    "text": "(testo domanda non rilevato)",
+    "id": 111,
+    "text": "Nell'espressione condizionale, con operatore condizionale, il secondo operando è:",
     "options": [
       "A. l'espressione se la condizion e è falsa",
       "B. l'espressione se la condizione è vera",
@@ -1169,8 +1170,8 @@
     "correct": "B"
   },
   {
-    "id": 109,
-    "text": "(testo domanda non rilevato)",
+    "id": 112,
+    "text": "In questa istruzione var > 10 ? puts( 'Lost' ) ?: puts( 'Win' ); sono presenti:",
     "options": [
       "A. 0 errori",
       "B. 1 errore",
@@ -1180,18 +1181,18 @@
     "correct": "B"
   },
   {
-    "id": 110,
-    "text": "(testo domanda non rilevato)",
+    "id": 113,
+    "text": "In questa istruzione var > 10 ? puts( 'Lost' ); : puts( 'Win' ); sono presenti:",
     "options": [
       "A. 0 errori",
       "B. 1 errore",
-      "C. 2 errori"
+      "D. 3 errori"
     ],
     "correct": "B"
   },
   {
-    "id": 111,
-    "text": "(testo domanda non rilevato)",
+    "id": 114,
+    "text": "Nelle istruzio ni annidate if...else:",
     "options": [
       "A. tutte le condizioni vere vengono eseguite",
       "B. solo l'ultima condizione vera viene eseguita",
@@ -1201,8 +1202,8 @@
     "correct": "C"
   },
   {
-    "id": 112,
-    "text": "(testo domanda non rilevato)",
+    "id": 115,
+    "text": "La riga di codice else if ( x >= 24 ); {x++;} conteine:",
     "options": [
       "A. 0 errori",
       "B. 1 errore",
@@ -1212,8 +1213,8 @@
     "correct": "B"
   },
   {
-    "id": 113,
-    "text": "(testo domanda non rilevato)",
+    "id": 116,
+    "text": "Un errore di sintassi:",
     "options": [
       "A. è individuato dal compilatore",
       "B. all'esecuzione fa sì che il programma fallisca",
@@ -1223,8 +1224,8 @@
     "correct": "A"
   },
   {
-    "id": 114,
-    "text": "(testo domanda non rilevato)",
+    "id": 117,
+    "text": "L'istruzione vuota è rappresentata da:",
     "options": [
       "A. ;",
       "B. :",
@@ -1234,8 +1235,8 @@
     "correct": "A"
   },
   {
-    "id": 115,
-    "text": "(testo domanda non rilevato)",
+    "id": 118,
+    "text": "L'istruzione while:",
     "options": [
       "A. è una istruzione di definizione",
       "B. è una istruzione di iterazione",
@@ -1245,8 +1246,8 @@
     "correct": "B"
   },
   {
-    "id": 116,
-    "text": "(testo domanda non rilevato)",
+    "id": 119,
+    "text": "Il ciclo while termina:",
     "options": [
       "A. quando la condizione diventa falsa",
       "B. quando la condizione diventa vera",
@@ -1256,8 +1257,8 @@
     "correct": "A"
   },
   {
-    "id": 117,
-    "text": "(testo domanda non rilevato)",
+    "id": 120,
+    "text": "Il corpo dell'is truzione while:",
     "options": [
       "A. deve essere un'istruzione singola",
       "B. deve essere un'istruzione composta",
@@ -1267,8 +1268,8 @@
     "correct": "D"
   },
   {
-    "id": 118,
-    "text": "(testo domanda non rilevato)",
+    "id": 121,
+    "text": "Quando l'iterazione while termina:",
     "options": [
       "A. viene eseguita l'iterazione un'ultima volta",
       "B. viene eseguita la prima istruzione dopo la struttura di iterazione",
@@ -1278,8 +1279,8 @@
     "correct": "B"
   },
   {
-    "id": 119,
-    "text": "(testo domanda non rilevato)",
+    "id": 122,
+    "text": "Il diagramma di flusso dell'iterazione while si compone di:",
     "options": [
       "A. un rombo e di un rettangolo sull'uscita vera",
       "B. un rettangolo seguito sequenzialmente da un rombo",
@@ -1289,18 +1290,18 @@
     "correct": "A"
   },
   {
-    "id": 120,
-    "text": "(testo domanda non rilevato)",
+    "id": 123,
+    "text": "Dato int n=1, il programma che stampa come ultimo numero il valore 9 è:",
     "options": [
       "A. while ( n < 9 ) { printf('%d ', n++); }",
       "B. while ( n < 9 ) { printf('%d ', n); }",
-      "C. while ( n < 18 ) { printf('%d ', n --); }"
+      "D. while ( n <= 9 ) { printf('%d ', n++); }"
     ],
     "correct": "D"
   },
   {
-    "id": 121,
-    "text": "(testo domanda non rilevato)",
+    "id": 124,
+    "text": "Dato int x=0, il programma che stampa come ultimo numero il valore 7 è:",
     "options": [
       "A. while ( x < 7 ) {x++;} printf('%d', x);",
       "B. while ( x < 7 ) {x++;} printf('%d', ++x);",
@@ -1310,8 +1311,8 @@
     "correct": "A"
   },
   {
-    "id": 122,
-    "text": "(testo domanda non rilevato)",
+    "id": 125,
+    "text": "Dato int x=1; l'istruzione while (x < 9); restituisce:",
     "options": [
       "A. errore di compilazione",
       "B. ciclo infinito",
@@ -1321,8 +1322,8 @@
     "correct": "B"
   },
   {
-    "id": 123,
-    "text": "(testo domanda non rilevato)",
+    "id": 126,
+    "text": "Dato int x = - 1; il codice while (x < 99){x++;} esegue:",
     "options": [
       "A. 98 iterazioni",
       "B. 99 iterazioni",
@@ -1332,8 +1333,8 @@
     "correct": "C"
   },
   {
-    "id": 124,
-    "text": "(testo domanda non rilevato)",
+    "id": 127,
+    "text": "Dato int x=1; l'istruzione while (x < 1) {x++;} è:",
     "options": [
       "A. corretta, non ese gue alcuna iterazione",
       "B. corretta, esegue due iterazioni",
@@ -1343,8 +1344,8 @@
     "correct": "A"
   },
   {
-    "id": 125,
-    "text": "(testo domanda non rilevato)",
+    "id": 128,
+    "text": "L'iterazione controllata da contatore è una iterazione:",
     "options": [
       "A. definita",
       "B. indefinita",
@@ -1354,8 +1355,8 @@
     "correct": "A"
   },
   {
-    "id": 126,
-    "text": "(testo domanda non rilevato)",
+    "id": 129,
+    "text": "Nell'ierazione controllata da contatore, il contatore specifica il numero:",
     "options": [
       "A. della variabile sentinella",
       "B. di locazioni  di memoria utilizzate dall'iterazione",
@@ -1365,8 +1366,8 @@
     "correct": "D"
   },
   {
-    "id": 127,
-    "text": "(testo domanda non rilevato)",
+    "id": 130,
+    "text": "Nelle iterazioni definite, il numero di esecuzioni dell'iterazione:",
     "options": [
       "A. È zero",
       "B. non si conosce prima che il ciclo inizi l'esecuzione",
@@ -1376,8 +1377,8 @@
     "correct": "D"
   },
   {
-    "id": 128,
-    "text": "(testo domanda non rilevato)",
+    "id": 131,
+    "text": "Per un contatore da 0 a 20000, la variabile piu' appropriata e' di tipo:",
     "options": [
       "A. int",
       "B. unsigned int",
@@ -1387,8 +1388,8 @@
     "correct": "B"
   },
   {
-    "id": 129,
-    "text": "(testo domanda non rilevato)",
+    "id": 132,
+    "text": "Se un contatore non viene inizializzato :",
     "options": [
       "A. si verifica un errore logico",
       "B. si verifica un errore di compilazione",
@@ -1398,18 +1399,18 @@
     "correct": "A"
   },
   {
-    "id": 130,
-    "text": "(testo domanda non rilevato)",
+    "id": 133,
+    "text": "Se un contatore non viene inizializzato:",
     "options": [
       "A. il programma lo inizializza automaticamente a la valore 0",
       "B. il programma lo inizializza automaticamente a la valore 1",
-      "C. il programma considera l'ultimo valore memorizzato nella locazione di memoria riservata per quella variabile"
+      "D. l'esecuzione del pr ogramma non viene avviata"
     ],
     "correct": "C"
   },
   {
-    "id": 131,
-    "text": "(testo domanda non rilevato)",
+    "id": 134,
+    "text": "La divisione intera 817/10 produce:",
     "options": [
       "A. 81.7",
       "B. 81,7",
@@ -1419,8 +1420,8 @@
     "correct": "C"
   },
   {
-    "id": 132,
-    "text": "(testo domanda non rilevato)",
+    "id": 135,
+    "text": "Se un contatore int viene incrementato di 1 oltre il suo limito superiore, si ottiene:",
     "options": [
       "A. errore di compilazione",
       "B. come successivo valore un numero negativo",
@@ -1430,8 +1431,8 @@
     "correct": "B"
   },
   {
-    "id": 133,
-    "text": "(testo domanda non rilevato)",
+    "id": 136,
+    "text": "Se un contatore unsigned int viene incrementato di 1 oltre il suo limito superiore, si ottiene:",
     "options": [
       "A. errore di compilazione",
       "B. come successivo valore un numero negativo",
@@ -1441,8 +1442,8 @@
     "correct": "C"
   },
   {
-    "id": 134,
-    "text": "(testo domanda non rilevato)",
+    "id": 137,
+    "text": "Una buona pratica di programmazione prevede di:",
     "options": [
       "A. non inizializzare  i contatori e i totali per evitare l'occupazione inutile di locazioni di memoria",
       "B. inizializzare solo i contatori",
@@ -1452,8 +1453,8 @@
     "correct": "D"
   },
   {
-    "id": 135,
-    "text": "(testo domanda non rilevato)",
+    "id": 138,
+    "text": "L'iterazione controllata da sentinella è una iterazione:",
     "options": [
       "A. definita",
       "B. indefinita",
@@ -1463,8 +1464,8 @@
     "correct": "B"
   },
   {
-    "id": 136,
-    "text": "(testo domanda non rilevato)",
+    "id": 139,
+    "text": "Il valore sentinella viene utilizzato per indicare:",
     "options": [
       "A. che è stato inserito l'ultimo valore dell'iterazione",
       "B. che è stato inserito il primo valore dell'iterazione",
@@ -1474,8 +1475,8 @@
     "correct": "A"
   },
   {
-    "id": 137,
-    "text": "(testo domanda non rilevato)",
+    "id": 140,
+    "text": "Nelle iterazioni indefinite, il numero di esecuzioni dell'iterazione:",
     "options": [
       "A. È zero",
       "B. non si conosce prima che il ciclo inizi l'esecuzione",
@@ -1485,8 +1486,8 @@
     "correct": "B"
   },
   {
-    "id": 138,
-    "text": "(testo domanda non rilevato)",
+    "id": 141,
+    "text": "Per un'iterazione che acquisisce l'età dei componenti di una famiglia, il valore sentinella appropriato è:",
     "options": [
       "A. 0.5",
       "B. -1",
@@ -1496,29 +1497,26 @@
     "correct": "B"
   },
   {
-    "id": 139,
-    "text": "(testo domanda non rilevato)",
+    "id": 142,
+    "text": "L'affinamento graduale top -down:",
     "options": [
       "A. È una tecnica utile allo sviluppo di programmi ben strutturati",
-      "B. È una tecnica utile allo sviluppo di programmi non strutturati",
-      "C. È un set di istruzioni C di tipo top -down",
-      "D. È un set di definizioni C di tipo top -down"
+      "B. È una tecnica utile allo sviluppo di programmi non strutturati"
     ],
     "correct": "A"
   },
   {
-    "id": 140,
-    "text": "(testo domanda non rilevato)",
+    "id": 143,
+    "text": "A livello top, nell'affinamento graduale top -down, si ha:",
     "options": [
-      "A. un set di tre istruzioni di codice C",
       "B. un set di tre istruzioni di pseudocodice",
-      "C. un'istruzione singola di codice C"
+      "D. un'istruzione singola di pseudocodice"
     ],
     "correct": "D"
   },
   {
-    "id": 141,
-    "text": "(testo domanda non rilevato)",
+    "id": 144,
+    "text": "A livello top, nell'affinamento graduale top -down, si definisce:",
     "options": [
       "A. la definizione delle variabili del programma",
       "B. la funzi one iniziale del programma",
@@ -1528,19 +1526,17 @@
     "correct": "C"
   },
   {
-    "id": 142,
-    "text": "(testo domanda non rilevato)",
+    "id": 145,
+    "text": "Il processo di affinamento graduale top -down termina quando:",
     "options": [
       "A. lo pseudocodice definis ce il programma con sufficiente dettaglio",
-      "B. il codice C definisce il programma con sufficiente dettaglio",
-      "C. lo pseudocodice raggiunge le dieci righe",
-      "D. il codice C non da errori di compilazione"
+      "C. lo pseudocodice raggiunge le dieci righe"
     ],
     "correct": "A"
   },
   {
-    "id": 143,
-    "text": "(testo domanda non rilevato)",
+    "id": 146,
+    "text": "Un tent ativo di dividere per zero provoca:",
     "options": [
       "A. la stampa di un messaggio di buffer overlow",
       "B. un warning",
@@ -1550,8 +1546,8 @@
     "correct": "D"
   },
   {
-    "id": 144,
-    "text": "(testo domanda non rilevato)",
+    "id": 147,
+    "text": "Molti programmi possono essere divisi logicamente nelle s eguenti fasi:",
     "options": [
       "A. inizializzazione, elaborazione e chiusura",
       "B. elaborazione e chiusura",
@@ -1561,8 +1557,18 @@
     "correct": "A"
   },
   {
-    "id": 145,
-    "text": "(testo domanda non rilevato)",
+    "id": 148,
+    "text": "In a = (float) b / c viene creata:",
+    "options": [
+      "A. una copia permanente in virgola mobile di b",
+      "B. una copia temporanea in virgola mobile di b",
+      "C. una copia permanente in virgola mobile di a"
+    ],
+    "correct": ""
+  },
+  {
+    "id": 149,
+    "text": "L'operatore cast realizza una:",
     "options": [
       "A. conversione esplicita di tipo di variabile",
       "B. conversione implicita di tipo di variabile",
@@ -1572,8 +1578,19 @@
     "correct": "A"
   },
   {
-    "id": 146,
-    "text": "(testo domanda non rilevato)",
+    "id": 150,
+    "text": "L'struzione printf( '%f', 10/3 ); restituisce:",
+    "options": [
+      "A. 3.34",
+      "B. 3.33",
+      "C. 3.333333",
+      "D. 3"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 151,
+    "text": "L'struzione printf( '%.2f', 5/3 ); restituisce:",
     "options": [
       "A. errore",
       "B. 1.66",
@@ -1583,8 +1600,8 @@
     "correct": "D"
   },
   {
-    "id": 147,
-    "text": "(testo domanda non rilevato)",
+    "id": 152,
+    "text": "Eseguendo l'struzione scanf( '%.2f', &a ); si ottiene:",
     "options": [
       "A. l'acquisizione della variabile a come float con due cifr e decimali",
       "B. l'acquisizione della variabile a con sei cifre decimali",
@@ -1594,18 +1611,28 @@
     "correct": "D"
   },
   {
-    "id": 148,
-    "text": "(testo domanda non rilevato)",
+    "id": 153,
+    "text": "L'struzione printf( '%d', c++ ); stampa:",
     "options": [
       "A. il valore di c",
       "B. il valore di c+1",
-      "C. il valore di c+2"
+      "D. il testo 'c++'"
     ],
     "correct": "A"
   },
   {
-    "id": 149,
-    "text": "(testo domanda non rilevato)",
+    "id": 154,
+    "text": "L'struzione printf( '%d', -- c ); stampa:",
+    "options": [
+      "A. il valore di c",
+      "B. il valore di c- 1",
+      "C. il valore di c- 2"
+    ],
+    "correct": ""
+  },
+  {
+    "id": 155,
+    "text": "Gli operatori di prefisso ++ hanno la precedenza su:",
     "options": [
       "A. operatori di postfisso ++",
       "B. operatori di postfisso --",
@@ -1615,8 +1642,8 @@
     "correct": "D"
   },
   {
-    "id": 150,
-    "text": "(testo domanda non rilevato)",
+    "id": 156,
+    "text": "L'overflow aritmetico determina:",
     "options": [
       "A. comportamento indefinito",
       "B. errore di compilazione",
@@ -1626,8 +1653,8 @@
     "correct": "A"
   },
   {
-    "id": 151,
-    "text": "(testo domanda non rilevato)",
+    "id": 157,
+    "text": "La version e sicura di scanf è:",
     "options": [
       "A. fscanf",
       "B. s_scanf",
@@ -1637,8 +1664,8 @@
     "correct": "C"
   },
   {
-    "id": 152,
-    "text": "(testo domanda non rilevato)",
+    "id": 158,
+    "text": "For (unsigned int c = 1; c < = 10; ++c) è:",
     "options": [
       "A. corretta",
       "B. errata, serve ',' al posto di ';'",
@@ -1648,8 +1675,8 @@
     "correct": "A"
   },
   {
-    "id": 153,
-    "text": "(testo domanda non rilevato)",
+    "id": 159,
+    "text": "L'istruzione for inizia l'esecuzione:",
     "options": [
       "A. inizializzando la variabile di controllo",
       "B. verificando la condizione di continuazione",
@@ -1659,8 +1686,8 @@
     "correct": "A"
   },
   {
-    "id": 154,
-    "text": "(testo domanda non rilevato)",
+    "id": 160,
+    "text": "Quando il test di continuazione del ciclo fallisce:",
     "options": [
       "A. Il programma termina con errore",
       "B. Il programma continua un ultima volta ad esegui re il corpo del ciclo for",
@@ -1670,8 +1697,8 @@
     "correct": "D"
   },
   {
-    "id": 155,
-    "text": "(testo domanda non rilevato)",
+    "id": 161,
+    "text": "Al termine del ciclo for, la variabile di controllo:",
     "options": [
       "A. ha il valore della condizione di continuazione del ciclo",
       "B. riprende il valore iniziale dell'inizializzazione",
@@ -1681,8 +1708,8 @@
     "correct": "A"
   },
   {
-    "id": 156,
-    "text": "(testo domanda non rilevato)",
+    "id": 162,
+    "text": "Le variabili di controllo definite in un'intestazione del for:",
     "options": [
       "A. esistono fino alla f ine della funzione main",
       "B. esistono solo fino al termine del ciclo",
@@ -1692,18 +1719,17 @@
     "correct": "B"
   },
   {
-    "id": 157,
-    "text": "(testo domanda non rilevato)",
+    "id": 163,
+    "text": "Errori di tipo off -by-one (sfasamento di uno):",
     "options": [
       "A. sono errori di sintassi",
-      "B. sono errori logici che determinano un numero errato di cicli for",
-      "C. sono errori logici che determinano un numero imprevedibile di cicli for"
+      "B. sono errori logici che determinano un numero errato di cicli for"
     ],
     "correct": "B"
   },
   {
-    "id": 158,
-    "text": "(testo domanda non rilevato)",
+    "id": 164,
+    "text": "L'istruzione for (a1 = 1, a2 = 0; a1 < = 10; ++a1, ++a2) è:",
     "options": [
       "A. corretta",
       "B. errata per la doppia inizializzazione",
@@ -1713,8 +1739,8 @@
     "correct": "A"
   },
   {
-    "id": 159,
-    "text": "(testo domanda non rilevato)",
+    "id": 165,
+    "text": "Se nel ciclo for viene omessa l'espressione di condizione:",
     "options": [
       "A. si genera un errore al linker",
       "B. si genera un errore di compilazione",
@@ -1724,8 +1750,8 @@
     "correct": "C"
   },
   {
-    "id": 160,
-    "text": "(testo domanda non rilevato)",
+    "id": 166,
+    "text": "L'istruzione for (c = 10; c > = 1; --c) è:",
     "options": [
       "A. corretta",
       "B. errata, serve 'c -=1' al posto di ' --c'",
@@ -1735,8 +1761,8 @@
     "correct": "A"
   },
   {
-    "id": 161,
-    "text": "(testo domanda non rilevato)",
+    "id": 167,
+    "text": "Se la condizione di continuazione del ciclo è inizialmente falsa:",
     "options": [
       "A. si genera un errore al linker",
       "B. si genera un errore di compilazione",
@@ -1746,8 +1772,8 @@
     "correct": "D"
   },
   {
-    "id": 162,
-    "text": "(testo domanda non rilevato)",
+    "id": 168,
+    "text": "In while( (ch = getchar()) != EOF )  viene eseguita prima:",
     "options": [
       "A. while",
       "B. ch = getchar()",
@@ -1757,8 +1783,8 @@
     "correct": "B"
   },
   {
-    "id": 163,
-    "text": "(testo domanda non rilevato)",
+    "id": 169,
+    "text": "La funzione getchar() :",
     "options": [
       "A. legge un carattere dalla tastiera e lo memorizza in un buffer",
       "B. scrive un carattere a video e lo memorizza in un buffer",
@@ -1768,8 +1794,8 @@
     "correct": "A"
   },
   {
-    "id": 164,
-    "text": "(testo domanda non rilevato)",
+    "id": 170,
+    "text": "Quando viene chiamata getchar():",
     "options": [
       "A. Il programma termina con errore",
       "B. Il programma rimane in attesa",
@@ -1779,8 +1805,8 @@
     "correct": "B"
   },
   {
-    "id": 165,
-    "text": "(testo domanda non rilevato)",
+    "id": 171,
+    "text": "L'istruzione printf(\"%c \\n\", 'a') stampa:",
     "options": [
       "A. 97a",
       "B. 97",
@@ -1790,29 +1816,28 @@
     "correct": "D"
   },
   {
-    "id": 166,
-    "text": "(testo domanda non rilevato)",
+    "id": 172,
+    "text": "L'ASCII è:",
     "options": [
       "A. un codice per la codifica numerica di caratteri",
-      "B. una funzione C che associa caratteri a numeri",
       "C. uno specificatore di conversione",
       "D. il metodo di memorizzazione per la funzione getchar"
     ],
     "correct": "A"
   },
   {
-    "id": 167,
-    "text": "(testo domanda non rilevato)",
+    "id": 173,
+    "text": "EOF è:",
     "options": [
       "A. un carattere speciale che corrisponde a new line",
       "B. un carattere speciale che corrisponde a \\ t",
-      "C. una costante intera simbolica"
+      "D. una variabile intera usata per terminare il programma"
     ],
     "correct": "C"
   },
   {
-    "id": 168,
-    "text": "(testo domanda non rilevato)",
+    "id": 174,
+    "text": "Ctrl d (in linux) o Ctrl z (in Windows) sono interpretati come:",
     "options": [
       "A. errore",
       "B. EOF",
@@ -1822,8 +1847,8 @@
     "correct": "B"
   },
   {
-    "id": 169,
-    "text": "(testo domanda non rilevato)",
+    "id": 175,
+    "text": "I caratteri devono essere racchiusi entro virgolette singole per essere riconosciuti come:",
     "options": [
       "A. costanti di tipo carattere",
       "B. interi di tipo long int",
@@ -1833,8 +1858,8 @@
     "correct": "A"
   },
   {
-    "id": 170,
-    "text": "(testo domanda non rilevato)",
+    "id": 176,
+    "text": "Per gli int l'int ervallo minimo va:",
     "options": [
       "A. da 0 a 65536",
       "B. da - infinito a +infinito",
@@ -1844,8 +1869,8 @@
     "correct": "D"
   },
   {
-    "id": 171,
-    "text": "(testo domanda non rilevato)",
+    "id": 177,
+    "text": "Il tipo di dati char può essere utilizzato per:",
     "options": [
       "A. memorizzare stringhe di caratteri",
       "B. rappresentare inte ri nell'intervallo da - 32767 a +32767",
@@ -1855,8 +1880,8 @@
     "correct": "D"
   },
   {
-    "id": 172,
-    "text": "(testo domanda non rilevato)",
+    "id": 178,
+    "text": "L'istruzione switch r ealizza una selezione:",
     "options": [
       "A. singola",
       "B. doppia",
@@ -1866,8 +1891,8 @@
     "correct": "C"
   },
   {
-    "id": 173,
-    "text": "(testo domanda non rilevato)",
+    "id": 179,
+    "text": "L'istruzione switch include istruzioni per ciascuno dei:",
     "options": [
       "A. case",
       "B. default",
@@ -1877,8 +1902,19 @@
     "correct": "A"
   },
   {
-    "id": 174,
-    "text": "(testo domanda non rilevato)",
+    "id": 180,
+    "text": "Nei case dell'istruzione switch si esegue il codice specificato dopo:",
+    "options": [
+      "A. :",
+      "B. =",
+      "C. :=",
+      "D. {"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 181,
+    "text": "La parola chiave switch è seguita dal nome della variabile tra parentesi:",
     "options": [
       "A. quadrate",
       "B. tonde",
@@ -1888,8 +1924,8 @@
     "correct": "B"
   },
   {
-    "id": 175,
-    "text": "(testo domanda non rilevato)",
+    "id": 182,
+    "text": "Il break nell'istruzione switch:",
     "options": [
       "A. È sempre opzionale sia nei case che neil default",
       "B. È opzionale solo nel default",
@@ -1899,18 +1935,18 @@
     "correct": "A"
   },
   {
-    "id": 176,
-    "text": "(testo domanda non rilevato)",
+    "id": 183,
+    "text": "Il caso default si applica:",
     "options": [
       "A. Se non si verificano confronti positivi",
       "B. Se non si verificano confronti negativi",
-      "C. sempre"
+      "D. mai"
     ],
     "correct": "A"
   },
   {
-    "id": 177,
-    "text": "(testo domanda non rilevato)",
+    "id": 184,
+    "text": "Nei case del l'istruzione switch:",
     "options": [
       "A. puo' essere inclusa una sola azione",
       "B. devono essere incluse almeno due azioni",
@@ -1920,8 +1956,8 @@
     "correct": "D"
   },
   {
-    "id": 178,
-    "text": "(testo domanda non rilevato)",
+    "id": 185,
+    "text": "Dimenticare un 'istruzione break quando è necessaria in un'istruzione switch è un errore:",
     "options": [
       "A. di compilazione",
       "B. di sintassi",
@@ -1931,8 +1967,8 @@
     "correct": "B"
   },
   {
-    "id": 179,
-    "text": "(testo domanda non rilevato)",
+    "id": 186,
+    "text": "La clausula di default:",
     "options": [
       "A. deve presentarsi per ultima d opo i case",
       "B. e' prassi posizionarla per ultima, dopo i case, ma non è un vincolo",
@@ -1942,8 +1978,8 @@
     "correct": "B"
   },
   {
-    "id": 180,
-    "text": "(testo domanda non rilevato)",
+    "id": 187,
+    "text": "Ogni singolo case dell'istruzione switch può testare solamente un'espressione:",
     "options": [
       "A. variabile di tipo float",
       "B. costante di tipo carattere",
@@ -1953,8 +1989,8 @@
     "correct": "D"
   },
   {
-    "id": 181,
-    "text": "(testo domanda non rilevato)",
+    "id": 188,
+    "text": "L'istruzione di iterazione do..while:",
     "options": [
       "A. non verifica l'esecuzione del corpo del ciclo",
       "B. verifica la condizione di continuazione del ciclo prima dell'esecuzione del corpo del ciclo",
@@ -1964,8 +2000,8 @@
     "correct": "D"
   },
   {
-    "id": 182,
-    "text": "(testo domanda non rilevato)",
+    "id": 189,
+    "text": "Nell'istruzione di iteraz ione do..while, la condizione di continuazione deve essere seguita da:",
     "options": [
       "A. :",
       "B. ;",
@@ -1975,8 +2011,8 @@
     "correct": "B"
   },
   {
-    "id": 183,
-    "text": "(testo domanda non rilevato)",
+    "id": 190,
+    "text": "Nell'istruzione di iterazione do..while, l'azione:",
     "options": [
       "A. viene eseguita almeno 1 volta",
       "B. viene eseguita almeno 2 volte",
@@ -1986,8 +2022,8 @@
     "correct": "A"
   },
   {
-    "id": 184,
-    "text": "(testo domanda non rilevato)",
+    "id": 191,
+    "text": "L'istruzione break si usa per:",
     "options": [
       "A. alterare il flusso di controllo",
       "B. terminare il programma",
@@ -1997,8 +2033,8 @@
     "correct": "A"
   },
   {
-    "id": 185,
-    "text": "(testo domanda non rilevato)",
+    "id": 192,
+    "text": "Dopo l'istruzione break in un ciclo for, l'esecuzione del programma:",
     "options": [
       "A. termina",
       "B. continua con con l'istruzione successiva al ciclo for",
@@ -2008,18 +2044,18 @@
     "correct": "B"
   },
   {
-    "id": 186,
-    "text": "(testo domanda non rilevato)",
+    "id": 193,
+    "text": "Le istruzioni for (x = 1; x < = 4; ++x) { printf('%s', 'a'); break; printf('%s', 'a'); } stampano:",
     "options": [
       "A. a",
       "B. aa",
-      "C. aaa"
+      "D. aaaa"
     ],
     "correct": "A"
   },
   {
-    "id": 187,
-    "text": "(testo domanda non rilevato)",
+    "id": 194,
+    "text": "L'istruzione continue si usa per:",
     "options": [
       "A. alterare il flusso di controllo",
       "B. terminare il programma",
@@ -2029,8 +2065,8 @@
     "correct": "A"
   },
   {
-    "id": 188,
-    "text": "(testo domanda non rilevato)",
+    "id": 195,
+    "text": "Dopo l'istru zione continue in un ciclo for, l'esecuzione del programma:",
     "options": [
       "A. termina",
       "B. continua con con l'istruzione successiva al ciclo for",
@@ -2040,8 +2076,8 @@
     "correct": "D"
   },
   {
-    "id": 189,
-    "text": "(testo domanda non rilevato)",
+    "id": 196,
+    "text": "Le istruzioni for (x = 1; x < = 4; ++x) { printf('%s', 'a'); continue; printf('%s', 'a');} stampano:",
     "options": [
       "A. a",
       "B. aa",
@@ -2051,8 +2087,8 @@
     "correct": "D"
   },
   {
-    "id": 190,
-    "text": "(testo domanda non rilevato)",
+    "id": 197,
+    "text": "All'interno di una iterazione while, la sequenza di istruzioni break; continue; determina:",
     "options": [
       "A. che l'istruzione continue non sia mai eseguita",
       "B. chel'istruzione break non sia mai eseguita",
@@ -2062,8 +2098,8 @@
     "correct": "A"
   },
   {
-    "id": 191,
-    "text": "(testo domanda non rilevato)",
+    "id": 198,
+    "text": "Un operatore logico è:",
     "options": [
       "A. >",
       "B. ?",
@@ -2073,8 +2109,8 @@
     "correct": "D"
   },
   {
-    "id": 192,
-    "text": "(testo domanda non rilevato)",
+    "id": 199,
+    "text": "L'istruzione if (x == 2 && y >= 120) è vera se:",
     "options": [
       "A. x è uguale a 2 e y uguale a 1000",
       "B. x è uguale a 1 e y uguale a 120",
@@ -2084,8 +2120,8 @@
     "correct": "A"
   },
   {
-    "id": 193,
-    "text": "(testo domanda non rilevato)",
+    "id": 200,
+    "text": "Se espressione1 vale 0 ed espressione2 vale 'nonzero', espressione1&&espressione2 vale:",
     "options": [
       "A. 0",
       "B. 1",
@@ -2095,8 +2131,8 @@
     "correct": "A"
   },
   {
-    "id": 194,
-    "text": "(testo domanda non rilevato)",
+    "id": 201,
+    "text": "L'istruzione if (x == 2 || y>= 120) è falsa se:",
     "options": [
       "A. x è uguale a 2 e y uguale a 1000",
       "B. x è uguale a 1 e y uguale a 120",
@@ -2106,8 +2142,8 @@
     "correct": "D"
   },
   {
-    "id": 195,
-    "text": "(testo domanda non rilevato)",
+    "id": 202,
+    "text": "Se espressione1 vale 0 ed espressione2 vale 'nonzero', espressione1||espressione2 vale:",
     "options": [
       "A. 0",
       "B. 1",
@@ -2117,18 +2153,18 @@
     "correct": "B"
   },
   {
-    "id": 196,
-    "text": "(testo domanda non rilevato)",
+    "id": 203,
+    "text": "L'operatore ||:",
     "options": [
       "A. ha una precedenza più alta di &&",
       "B. ha una precedenza più bassa di &&",
-      "C. ha la stessa precedenza di &&"
+      "D. non ha precedenze"
     ],
     "correct": "B"
   },
   {
-    "id": 197,
-    "text": "(testo domanda non rilevato)",
+    "id": 204,
+    "text": "Gli operatori && e ||:",
     "options": [
       "A. || è associativo da destra a s inistra. && è associativo da sinistra a destra",
       "B. && è associativo da destra a sinistra. || è associativo da sinistra a destra",
@@ -2138,8 +2174,8 @@
     "correct": "C"
   },
   {
-    "id": 198,
-    "text": "(testo domanda non rilevato)",
+    "id": 205,
+    "text": "L'istruzione if (x == 2 || y>= 120) viene eseguita piu' velocemente se:",
     "options": [
       "A. x=2",
       "B. y=120",
@@ -2149,8 +2185,8 @@
     "correct": "A"
   },
   {
-    "id": 199,
-    "text": "(testo domanda non rilevato)",
+    "id": 206,
+    "text": "L'istruzione if(!(x >= 2)) :",
     "options": [
       "A. È vera se x=1",
       "B. È vera se x=2",
@@ -2160,8 +2196,8 @@
     "correct": "A"
   },
   {
-    "id": 200,
-    "text": "(testo domanda non rilevato)",
+    "id": 207,
+    "text": "L'espressione !(condizione1 && condizione2) è equivalente a:",
     "options": [
       "A. (condizione1 && condizione2)",
       "B. (condizione1 || condizione2)",
@@ -2171,8 +2207,8 @@
     "correct": "D"
   },
   {
-    "id": 201,
-    "text": "(testo domanda non rilevato)",
+    "id": 208,
+    "text": "Il diagramma di flusso per istruzioni di sequenza è:",
     "options": [
       "A. una sequenza di cerchietti",
       "B. una sequenza di rettangoli",
@@ -2182,8 +2218,8 @@
     "correct": "B"
   },
   {
-    "id": 202,
-    "text": "(testo domanda non rilevato)",
+    "id": 209,
+    "text": "Il diagramma di flusso per istruzioni if è composto da:",
     "options": [
       "A. rombo e rettangolo",
       "B. rettangolo e rettangolo arrotondato",
@@ -2193,8 +2229,8 @@
     "correct": "A"
   },
   {
-    "id": 203,
-    "text": "(testo domanda non rilevato)",
+    "id": 210,
+    "text": "Il diagramma di flusso per istruzioni if…else è composto da:",
     "options": [
       "A. rombo e rettangolo",
       "B. rettangolo e rettangolo arrotondato",
@@ -2204,8 +2240,8 @@
     "correct": "C"
   },
   {
-    "id": 204,
-    "text": "(testo domanda non rilevato)",
+    "id": 211,
+    "text": "Il diagramma di flusso per istruzioni switch è composto da:",
     "options": [
       "A. rombo e rettangolo",
       "B. rettangolo e rettangolo arrotondato",
@@ -2215,8 +2251,8 @@
     "correct": "D"
   },
   {
-    "id": 205,
-    "text": "(testo domanda non rilevato)",
+    "id": 212,
+    "text": "Il diagramma di flusso per istruzioni do…while è composto da:",
     "options": [
       "A. rettangolo e rombo",
       "B. rettangolo e rettangolo arrotondato",
@@ -2226,18 +2262,18 @@
     "correct": "A"
   },
   {
-    "id": 206,
-    "text": "(testo domanda non rilevato)",
+    "id": 213,
+    "text": "Il diagramma di flusso per istruzioni while è composto da:",
     "options": [
       "A. rettangolo e rombo",
       "B. rettangolo e rettangolo arrotondato",
-      "C. rombo e due rettangoli"
+      "D. sequenza di rombi e rettangoli"
     ],
     "correct": "A"
   },
   {
-    "id": 207,
-    "text": "(testo domanda non rilevato)",
+    "id": 214,
+    "text": "Collegare istruzioni di controllo in sequenza per formare programmi strutturati è detto:",
     "options": [
       "A. annidamento",
       "B. accatastamento",
@@ -2247,8 +2283,8 @@
     "correct": "B"
   },
   {
-    "id": 208,
-    "text": "(testo domanda non rilevato)",
+    "id": 215,
+    "text": "Le regole per costruire programmi strutturati indicano che qualsiasi rettangolo (azione) può essere sostituito con:",
     "options": [
       "A. due rettangoli con ricircolo",
       "B. due rombi con ricircolo",
@@ -2258,8 +2294,8 @@
     "correct": "C"
   },
   {
-    "id": 209,
-    "text": "(testo domanda non rilevato)",
+    "id": 216,
+    "text": "La programmazione strutturata prevede l'uso solo di:",
     "options": [
       "A. accatastamento",
       "B. annidamento",
@@ -2269,8 +2305,8 @@
     "correct": "D"
   },
   {
-    "id": 210,
-    "text": "(testo domanda non rilevato)",
+    "id": 217,
+    "text": "Qualsiasi forma di controllo in C può essere espressa in termini di solo:",
     "options": [
       "A. sequenza, for, switch",
       "B. sequenza, while, if",
@@ -2280,8 +2316,8 @@
     "correct": "B"
   },
   {
-    "id": 211,
-    "text": "(testo domanda non rilevato)",
+    "id": 218,
+    "text": "La libreria standard del C fornisce funzioni per eseguire:",
     "options": [
       "A. grafica avanzata",
       "B. comuni calcoli matematici, manipolazioni di stringhe, input/output, giochi tradizionali",
@@ -2291,8 +2327,8 @@
     "correct": "D"
   },
   {
-    "id": 212,
-    "text": "(testo domanda non rilevato)",
+    "id": 219,
+    "text": "Le funzioni definite dal programmatore:",
     "options": [
       "A. sono scritte una sola volta e sono nascoste alle altre funzioni",
       "B. sono scritte una sola volta e sono visibili alle altre funzioni",
@@ -2302,8 +2338,8 @@
     "correct": "A"
   },
   {
-    "id": 213,
-    "text": "(testo domanda non rilevato)",
+    "id": 220,
+    "text": "La chiamata di  funzione:",
     "options": [
       "A. specifica solo il nome della funzione",
       "B. fornisce solo gli argomenti",
@@ -2313,8 +2349,8 @@
     "correct": "C"
   },
   {
-    "id": 214,
-    "text": "(testo domanda non rilevato)",
+    "id": 221,
+    "text": "Le variabili definite nelle definizioni di funzione:",
     "options": [
       "A. sono tutte locali",
       "B. possono essere sia locali che non locali",
@@ -2324,8 +2360,8 @@
     "correct": "A"
   },
   {
-    "id": 215,
-    "text": "(testo domanda non rilevato)",
+    "id": 222,
+    "text": "Far svolgere a ciascuna funzione un compito specifico si dice:",
     "options": [
       "A. modularizzazione",
       "B. astrazione",
@@ -2335,18 +2371,18 @@
     "correct": "B"
   },
   {
-    "id": 216,
-    "text": "(testo domanda non rilevato)",
+    "id": 223,
+    "text": "Spezzare una funzione in varie funzioni più piccole si dice:",
     "options": [
       "A. modularizzazione",
       "B. astrazione",
-      "C. scomposizione"
+      "D. funzionalizzazione"
     ],
     "correct": "C"
   },
   {
-    "id": 217,
-    "text": "(testo domanda non rilevato)",
+    "id": 224,
+    "text": "Gli argomenti delle funzioni sono racchiusi tra parentesi:",
     "options": [
       "A. quadrate",
       "B. tonde",
@@ -2356,8 +2392,8 @@
     "correct": "B"
   },
   {
-    "id": 218,
-    "text": "(testo domanda non rilevato)",
+    "id": 225,
+    "text": "Le funzioni nella libreria math che restituiscono valori in virgola mobile restituiscono il tipo di dati:",
     "options": [
       "A. float",
       "B. double",
@@ -2367,8 +2403,8 @@
     "correct": "B"
   },
   {
-    "id": 219,
-    "text": "(testo domanda non rilevato)",
+    "id": 226,
+    "text": "Per usare le funzioni della libreria math, è necessario incl udere:",
     "options": [
       "A. #include < math.h >",
       "B. include < math.h >",
@@ -2378,8 +2414,8 @@
     "correct": "A"
   },
   {
-    "id": 220,
-    "text": "(testo domanda non rilevato)",
+    "id": 227,
+    "text": "Il valore assoluto di (y*y*y -3) si scrive:",
     "options": [
       "A. pow( fabs( y, -3 ) 3 )",
       "B. pow( fabs( y,3 ) - 3 )",
@@ -2389,8 +2425,8 @@
     "correct": "C"
   },
   {
-    "id": 221,
-    "text": "(testo domanda non rilevato)",
+    "id": 228,
+    "text": "Il prototipo di una funzione va inserito:",
     "options": [
       "A. nel main o in altra funzione",
       "B. dopo la chiamata a funzione",
@@ -2400,8 +2436,8 @@
     "correct": "D"
   },
   {
-    "id": 222,
-    "text": "(testo domanda non rilevato)",
+    "id": 229,
+    "text": "L'istruzione int funz(double y); indica che:",
     "options": [
       "A. funz si aspetta di ricevere un valore double",
       "B. funz restituisce un valore double",
@@ -2411,8 +2447,8 @@
     "correct": "A"
   },
   {
-    "id": 223,
-    "text": "(testo domanda non rilevato)",
+    "id": 230,
+    "text": "L'int alla sinistra del nome della funzione informa il compilatore che:",
     "options": [
       "A. la funzione restituisce un intero",
       "B. la funzione richiede un input intero",
@@ -2422,8 +2458,8 @@
     "correct": "A"
   },
   {
-    "id": 224,
-    "text": "(testo domanda non rilevato)",
+    "id": 231,
+    "text": "Il compilatore utilizza il prototipo della funzione per accertarsi che:",
     "options": [
       "A. il tipo di ritorno sia coerente con il contes to nel quale è chiamata la funzione",
       "B. i tipi degli argomenti non siano inclusi",
@@ -2433,8 +2469,8 @@
     "correct": "A"
   },
   {
-    "id": 225,
-    "text": "(testo domanda non rilevato)",
+    "id": 232,
+    "text": "La chiamata di una funzione è invocata:",
     "options": [
       "A. in qualunque punto del programma",
       "B. prima del prototipo",
@@ -2444,18 +2480,18 @@
     "correct": "C"
   },
   {
-    "id": 226,
-    "text": "(testo domanda non rilevato)",
+    "id": 233,
+    "text": "La definizione di una funzione è inserit a:",
     "options": [
       "A. prima il prototipo",
       "B. dopo il prototipo",
-      "C. all'interno del main"
+      "D. all'interno della sua dichiarazione"
     ],
     "correct": "B"
   },
   {
-    "id": 227,
-    "text": "(testo domanda non rilevato)",
+    "id": 234,
+    "text": "Il tipo di valore di ritorno void indica che una funzione:",
     "options": [
       "A. restituisce la stringa void",
       "B. non richiede alcuna variabile di input",
@@ -2465,8 +2501,8 @@
     "correct": "C"
   },
   {
-    "id": 228,
-    "text": "(testo domanda non rilevato)",
+    "id": 235,
+    "text": "La lista di parametri da passare a una funzione è un elenco separato da:",
     "options": [
       "A. punto (  . )",
       "B. trattino ( -  )",
@@ -2476,8 +2512,8 @@
     "correct": "D"
   },
   {
-    "id": 229,
-    "text": "(testo domanda non rilevato)",
+    "id": 236,
+    "text": "L'istruzione int funz(int x, y, double z); è:",
     "options": [
       "A. errata perché non si possono dichiarare int e double nella stessa lista argomenti",
       "B. corretta",
@@ -2487,8 +2523,8 @@
     "correct": "C"
   },
   {
-    "id": 230,
-    "text": "(testo domanda non rilevato)",
+    "id": 237,
+    "text": "Il main restituisce:",
     "options": [
       "A. 0 se return è omessa",
       "B. errore se return è omessa",
@@ -2498,8 +2534,8 @@
     "correct": "A"
   },
   {
-    "id": 231,
-    "text": "(testo domanda non rilevato)",
+    "id": 238,
+    "text": "Il compilatore usa i prototipi di funzione per:",
     "options": [
       "A. definire le funzioni",
       "B. correggere errori di programmazione",
@@ -2509,8 +2545,8 @@
     "correct": "C"
   },
   {
-    "id": 232,
-    "text": "(testo domanda non rilevato)",
+    "id": 239,
+    "text": "La riga del prototipo di funzione si conclude con:",
     "options": [
       "A. {",
       "B. ;",
@@ -2520,8 +2556,8 @@
     "correct": "B"
   },
   {
-    "id": 233,
-    "text": "(testo domanda non rilevato)",
+    "id": 240,
+    "text": "La riga della definizione di funzione si conclude con:",
     "options": [
       "A. {",
       "B. ;",
@@ -2531,8 +2567,8 @@
     "correct": "A"
   },
   {
-    "id": 234,
-    "text": "(testo domanda non rilevato)",
+    "id": 241,
+    "text": "Includere i nomi dei parametri nei prototipi:",
     "options": [
       "A. È necessario (se non presenti si generano errori di compilazione)",
       "B. È facoltativo ma consigliabile",
@@ -2542,8 +2578,8 @@
     "correct": "B"
   },
   {
-    "id": 235,
-    "text": "(testo domanda non rilevato)",
+    "id": 242,
+    "text": "Il tipo void nel prototipo di funzione richiede:",
     "options": [
       "A. il tipo int nella corrispondente definizione di funzione",
       "B. nessun tipo specificato nella corrispondente definizione di funzione",
@@ -2553,18 +2589,18 @@
     "correct": "D"
   },
   {
-    "id": 236,
-    "text": "(testo domanda non rilevato)",
+    "id": 243,
+    "text": "Per \"coercizione degli argomenti\" si intende:",
     "options": [
       "A. l'impossibilità di modificare il valore degli argomenti",
       "B. l'impossibilità di modificare il t ipo degli argomenti",
-      "C. la forzatura del valore degli argomenti"
+      "D. la forzatura del tipo degli argomenti"
     ],
     "correct": "D"
   },
   {
-    "id": 237,
-    "text": "(testo domanda non rilevato)",
+    "id": 244,
+    "text": "La conversione di un double in un int:",
     "options": [
       "A. avviene per troncamento",
       "B. avviene per appro ssimazione all'intero superiore",
@@ -2574,8 +2610,8 @@
     "correct": "A"
   },
   {
-    "id": 238,
-    "text": "(testo domanda non rilevato)",
+    "id": 245,
+    "text": "In un'espressione con tipi misti, il compilatore:",
     "options": [
       "A. converte t utti i tipi presenti in int",
       "B. converte tutti i tipi presenti in double",
@@ -2585,8 +2621,8 @@
     "correct": "D"
   },
   {
-    "id": 239,
-    "text": "(testo domanda non rilevato)",
+    "id": 246,
+    "text": "Un valore si può convertire in un tipo più basso usando:",
     "options": [
       "A. cast",
       "B. void",
@@ -2596,8 +2632,8 @@
     "correct": "A"
   },
   {
-    "id": 240,
-    "text": "(testo domanda non rilevato)",
+    "id": 247,
+    "text": "Se uno dei valori è long double, l'altro si converte in:",
     "options": [
       "A. long double",
       "B. double",
@@ -2607,8 +2643,8 @@
     "correct": "A"
   },
   {
-    "id": 241,
-    "text": "(testo domanda non rilevato)",
+    "id": 248,
+    "text": "Nel C la struttura dati è nota come:",
     "options": [
       "A. record di attivazione",
       "B. stack",
@@ -2618,8 +2654,8 @@
     "correct": "B"
   },
   {
-    "id": 242,
-    "text": "(testo domanda non rilevato)",
+    "id": 249,
+    "text": "Nel C la struttura dati è di tipo LIFO:",
     "options": [
       "A. l'ultimo elemento inserito è l'ulitmo a essere rimosso",
       "B. l'ultimo elemento inserito è il primo a essere rimosso",
@@ -2629,8 +2665,8 @@
     "correct": "B"
   },
   {
-    "id": 243,
-    "text": "(testo domanda non rilevato)",
+    "id": 250,
+    "text": "Le variabili automatiche sono:",
     "options": [
       "A. variabili locali delle funzioni",
       "B. variabili il cui tipo è convertito automaticamente",
@@ -2640,8 +2676,8 @@
     "correct": "A"
   },
   {
-    "id": 244,
-    "text": "(testo domanda non rilevato)",
+    "id": 251,
+    "text": "Ogni funzione alla fine deve restituire il controllo:",
     "options": [
       "A. al main",
       "B. alla funzione chiamata",
@@ -2651,8 +2687,8 @@
     "correct": "D"
   },
   {
-    "id": 245,
-    "text": "(testo domanda non rilevato)",
+    "id": 252,
+    "text": "Il record di attivazione contiene:",
     "options": [
       "A. l'indirizzo di ritorno alla funzio ne chiamata",
       "B. l'indirizzo di ritorno alla funzione chiamante",
@@ -2662,18 +2698,18 @@
     "correct": "D"
   },
   {
-    "id": 246,
-    "text": "(testo domanda non rilevato)",
+    "id": 253,
+    "text": "Se la  funzione chiamata torna alla funzione chiamante:",
     "options": [
       "A. si esegue il push del record di attivazione della funzione chiamata",
       "B. si esegue il pop del record di attivazione della funzione chiamata",
-      "C. si esegue il push del record di attivazione della funzione chi amante"
+      "D. si esegue il pop del record di attivazione della funzione chiamante"
     ],
     "correct": "B"
   },
   {
-    "id": 247,
-    "text": "(testo domanda non rilevato)",
+    "id": 254,
+    "text": "Quando una funzione chiamata torna alla sua funzione chiamante:",
     "options": [
       "A. le variabili automatiche della funzione chiamata vengono rimosse",
       "B. le variabili automatiche della funzione chiamante vengono rimosse",
@@ -2683,8 +2719,8 @@
     "correct": "A"
   },
   {
-    "id": 248,
-    "text": "(testo domanda non rilevato)",
+    "id": 255,
+    "text": "Si verifica u no stack overflow quando:",
     "options": [
       "A. sono stati rimossi tutti record di attivazione",
       "B. si verifica un errore irreverisbile di compilazione",
@@ -2694,8 +2730,8 @@
     "correct": "C"
   },
   {
-    "id": 249,
-    "text": "(testo domanda non rilevato)",
+    "id": 256,
+    "text": "Quando si raggiunge la parentesi graffa destra di chiusura di main avviene:",
     "options": [
       "A. la sola rimozione del record dallo stack ma non si realizza il ritorno al sistema operativo",
       "B. il ritorno al sistema  operativo ma il record dallo stack viene mantenuto",
@@ -2705,8 +2741,8 @@
     "correct": "C"
   },
   {
-    "id": 250,
-    "text": "(testo domanda non rilevato)",
+    "id": 257,
+    "text": "A fine esecuzione, la memori a per le variabili automatiche di main:",
     "options": [
       "A. non è più accessibile",
       "B. rimane accessibile in sola lettura",
@@ -2716,8 +2752,18 @@
     "correct": "A"
   },
   {
-    "id": 251,
-    "text": "(testo domanda non rilevato)",
+    "id": 258,
+    "text": "Ogni file di intestazione della libreria standard include:",
+    "options": [
+      "A. prototipi, definizioni dei tipi di dati e delle costanti",
+      "B. solo i prototipi",
+      "C. solo le definizioni dei tipi di dati"
+    ],
+    "correct": ""
+  },
+  {
+    "id": 259,
+    "text": "Il file di intestazione limits.h contiene:",
     "options": [
       "A. i limiti per i valori interi del sistema",
       "B. i prototipi di funzioni per i calcoli matematici con i limiti",
@@ -2727,19 +2773,17 @@
     "correct": "A"
   },
   {
-    "id": 252,
-    "text": "(testo domanda non rilevato)",
+    "id": 260,
+    "text": "Il file di intestazione time.h contiene:",
     "options": [
-      "A. Contiene data e tempo correnti",
       "B. contiene i prototipi di funzione per velocizzare la compilazione",
-      "C. con tiene le definizioni di funzioni da eseguire in tempi definiti",
-      "D. Contiene i prototipi di funzione per utilizzare i parametri del tempo"
+      "C. con tiene le definizioni di funzioni da eseguire in tempi definiti"
     ],
     "correct": "D"
   },
   {
-    "id": 253,
-    "text": "(testo domanda non rilevato)",
+    "id": 261,
+    "text": "I file di intestazione definiti dal programmatore devono avere estensione:",
     "options": [
       "A. .prog",
       "B. .gcc",
@@ -2749,8 +2793,8 @@
     "correct": "C"
   },
   {
-    "id": 254,
-    "text": "(testo domanda non rilevato)",
+    "id": 262,
+    "text": "I file di intestazione definiti dal programmatore devono essere inclusi fra:",
     "options": [
       "A. < >",
       "B. ' '",
@@ -2760,18 +2804,18 @@
     "correct": "B"
   },
   {
-    "id": 255,
-    "text": "(testo domanda non rilevato)",
+    "id": 263,
+    "text": "Quando la copia del valore viene  passata alla funzione chiamata, si dice che gli argomenti sono passati per:",
     "options": [
       "A. valore",
       "B. riferimento",
-      "C. controllo"
+      "D. intestazione"
     ],
     "correct": "A"
   },
   {
-    "id": 256,
-    "text": "(testo domanda non rilevato)",
+    "id": 264,
+    "text": "Quando gli argomenti sono passati per riferimento, la funzione chiamante:",
     "options": [
       "A. non permette alla funzione chiamata di modificare il valore della variabile originaria",
       "B. permette alla funzione chiamata di modificare il vaolre della variabile originaria",
@@ -2781,8 +2825,8 @@
     "correct": "B"
   },
   {
-    "id": 257,
-    "text": "(testo domanda non rilevato)",
+    "id": 265,
+    "text": "Per utilizzare la funzione rand() è necessario inserire:",
     "options": [
       "A. #include < rand.h >",
       "B. #include < stdlib.h >",
@@ -2792,8 +2836,8 @@
     "correct": "B"
   },
   {
-    "id": 258,
-    "text": "(testo domanda non rilevato)",
+    "id": 266,
+    "text": "La funzione rand() restituisce un numero casuale compreso fra:",
     "options": [
       "A. 1 e 6",
       "B. 0 e almeno 2147483647",
@@ -2803,8 +2847,8 @@
     "correct": "B"
   },
   {
-    "id": 259,
-    "text": "(testo domanda non rilevato)",
+    "id": 267,
+    "text": "L'istruzione printf('%u', rand() % 2); resti tuisce:",
     "options": [
       "A. la stampa di 0 o 1",
       "B. la stampa di 1 o 2",
@@ -2814,8 +2858,8 @@
     "correct": "A"
   },
   {
-    "id": 260,
-    "text": "(testo domanda non rilevato)",
+    "id": 268,
+    "text": "Le costanti nelle enumerazioni è buona norma indic arle:",
     "options": [
       "A. con almeno due cifre all'inizio del nome",
       "B. con lettere tutte minuscole",
@@ -2825,8 +2869,8 @@
     "correct": "D"
   },
   {
-    "id": 261,
-    "text": "(testo domanda non rilevato)",
+    "id": 269,
+    "text": "I valori in un enum iniziano con:",
     "options": [
       "A. -1",
       "B. 0",
@@ -2836,8 +2880,19 @@
     "correct": "B"
   },
   {
-    "id": 262,
-    "text": "(testo domanda non rilevato)",
+    "id": 270,
+    "text": "I valori in un enum:",
+    "options": [
+      "A. vengono incrementati di 1",
+      "B. vengono decrementati di 1",
+      "C. hanno tutti lo stesso valore (quello iniziale)",
+      "D. hanno tutti lo stesso valore, pari a zero"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 271,
+    "text": "Le c ostanti nelle enumerazioni sono comprese fra parentesi:",
     "options": [
       "A. graffe",
       "B. tonde",
@@ -2847,28 +2902,29 @@
     "correct": "A"
   },
   {
-    "id": 263,
-    "text": "(testo domanda non rilevato)",
+    "id": 272,
+    "text": "Le costanti nelle enumerazioni sono separate da:",
     "options": [
       "A. virgola ( , )",
-      "B. punto e virgola ( ; ) C. linea ( -  )",
+      "B. punto e virgola ( ; )",
+      "C. linea ( -  )",
       "D. and commercia le ( & )"
     ],
     "correct": "A"
   },
   {
-    "id": 264,
-    "text": "(testo domanda non rilevato)",
+    "id": 273,
+    "text": "I valori in un enum possono essere forzati a valori specifici usando:",
     "options": [
       "A. uguale seguito da due punti ( =: )",
       "B. due punti seguito da uguale ( := )",
-      "C. due punti ( : )"
+      "D. uguale ( = )"
     ],
     "correct": "D"
   },
   {
-    "id": 265,
-    "text": "(testo domanda non rilevato)",
+    "id": 274,
+    "text": "Gli identificatori in un'enumerazione :",
     "options": [
       "A. devono essere unici, e i valori non possono essere duplicati",
       "B. devono essere unici, e i valori possono essere duplicati",
@@ -2878,8 +2934,8 @@
     "correct": "B"
   },
   {
-    "id": 266,
-    "text": "(testo domanda non rilevato)",
+    "id": 275,
+    "text": "L'istruzione printf( \"%d\", var); con var di tipo enum, stampa:",
     "options": [
       "A. un intero",
       "B. una stringa di testo",
@@ -2889,8 +2945,8 @@
     "correct": "A"
   },
   {
-    "id": 267,
-    "text": "(testo domanda non rilevato)",
+    "id": 276,
+    "text": "L'istruzione if( MON == var) con var di tipo enum:",
     "options": [
       "A. È errata, non si può confrontare un enum con la costante MON",
       "B. È errata, i l confronto nell'if si realizza utilizzando un solo uguale",
@@ -2900,8 +2956,8 @@
     "correct": "C"
   },
   {
-    "id": 268,
-    "text": "(testo domanda non rilevato)",
+    "id": 277,
+    "text": "L'istruzione enum Week day;  nel main:",
     "options": [
       "A. È errata, va ripo rtato Week day enum;",
       "B. È errata, va posta al di fuori del main",
@@ -2911,8 +2967,8 @@
     "correct": "D"
   },
   {
-    "id": 269,
-    "text": "(testo domanda non rilevato)",
+    "id": 278,
+    "text": "Il periodo dura nte il quale l'identificatore esiste nella memoria si dice:",
     "options": [
       "A. campo di azione",
       "B. permanenza",
@@ -2922,8 +2978,8 @@
     "correct": "B"
   },
   {
-    "id": 270,
-    "text": "(testo domanda non rilevato)",
+    "id": 279,
+    "text": "La posizione in cui l'identificatore può essere menzionato in un programma si dice:",
     "options": [
       "A. campo di azione",
       "B. permanenza",
@@ -2933,8 +2989,8 @@
     "correct": "A"
   },
   {
-    "id": 271,
-    "text": "detta:",
+    "id": 280,
+    "text": "L'informazione se l'identificatore è conosciuto soltanto nel file sorgente corrente o in qualunque file sorgente è  detta:",
     "options": [
       "A. campo di azione",
       "B. permanenza",
@@ -2944,8 +3000,8 @@
     "correct": "C"
   },
   {
-    "id": 272,
-    "text": "(testo domanda non rilevato)",
+    "id": 281,
+    "text": "Quale dei seguenti NON è uno specificatore di classe di memoria:",
     "options": [
       "A. extern",
       "B. static",
@@ -2955,8 +3011,8 @@
     "correct": "C"
   },
   {
-    "id": 273,
-    "text": "(testo domanda non rilevato)",
+    "id": 282,
+    "text": "Le variabili con permanenza in memoria automatica sono create:",
     "options": [
       "A. all'inizio dell'esecuzione del programma",
       "B. quando il controllo del programma esce dal blocco nel quale sono definite",
@@ -2966,17 +3022,18 @@
     "correct": "D"
   },
   {
-    "id": 274,
-    "text": "(testo domanda non rilevato)",
+    "id": 283,
+    "text": "Le variabili locali, per impostazione predefinita:",
     "options": [
       "A. hanno permanenza in memoria permamente e l'impiego della parola chiave auto è quindi opzionale",
-      "B. hanno permanenza in memoria automatica e l'impiego della parola chiave auto è quindi opzionale"
+      "C. hanno permanenza in memoria permamente solo se è utilizzata la parola chiave auto",
+      "D. hanno permanenza in memoria automatica solo se è utilizzata la parola chiave auto"
     ],
     "correct": "B"
   },
   {
-    "id": 275,
-    "text": "(testo domanda non rilevato)",
+    "id": 284,
+    "text": "Per le variabili static la memoria è allocata e inizializzata:",
     "options": [
       "A. soltanto una volta, prima che il programma inizi l'esecuzione",
       "B. ogni volta che il programma le utilizza",
@@ -2986,8 +3043,8 @@
     "correct": "A"
   },
   {
-    "id": 276,
-    "text": "(testo domanda non rilevato)",
+    "id": 285,
+    "text": "La classe di memoria extern, per impostazione predefinita,si utilizza per:",
     "options": [
       "A. variabili automatiche",
       "B. variabili globali",
@@ -2997,8 +3054,8 @@
     "correct": "B"
   },
   {
-    "id": 277,
-    "text": "(testo domanda non rilevato)",
+    "id": 286,
+    "text": "Le variabili globali hanno il campo d'az ione esteso:",
     "options": [
       "A. alla funzione",
       "B. al file",
@@ -3008,8 +3065,8 @@
     "correct": "B"
   },
   {
-    "id": 278,
-    "text": "(testo domanda non rilevato)",
+    "id": 287,
+    "text": "Le etichette sono identificatori con il campo d'azione esteso:",
     "options": [
       "A. alla funzione",
       "B. al file",
@@ -3019,8 +3076,8 @@
     "correct": "A"
   },
   {
-    "id": 279,
-    "text": "(testo domanda non rilevato)",
+    "id": 288,
+    "text": "Nel calcolo con ricorsione, il caso di base determina:",
     "options": [
       "A. un errore",
       "B. la chiamata all'ultima funzione ricorsiva",
@@ -3030,8 +3087,8 @@
     "correct": "C"
   },
   {
-    "id": 280,
-    "text": "(testo domanda non rilevato)",
+    "id": 289,
+    "text": "Nel calcolo con ricorsione, per restituire un valore, il passo di ricorsione include un'istruzione:",
     "options": [
       "A. return",
       "B. for",
@@ -3041,8 +3098,8 @@
     "correct": "A"
   },
   {
-    "id": 281,
-    "text": "(testo domanda non rilevato)",
+    "id": 290,
+    "text": "Nel calco lo con ricorsione, il passo di ricorsione viene eseguito mentre:",
     "options": [
       "A. la chiamata originaria alla funzione fallisce",
       "B. la chiamata originaria alla funzione si arresta definitivamente",
@@ -3052,8 +3109,8 @@
     "correct": "C"
   },
   {
-    "id": 282,
-    "text": "(testo domanda non rilevato)",
+    "id": 291,
+    "text": "La ricorsione termina quando la chiamata originaria della funzione:",
     "options": [
       "A. restituisce il risultato finale alla sua fu nzione chiamante",
       "B. restituisce zero",
@@ -3063,18 +3120,29 @@
     "correct": "A"
   },
   {
-    "id": 283,
-    "text": "(testo domanda non rilevato)",
+    "id": 292,
+    "text": "Per ottenere interi grandi dalla funzione fattoriale, è oppo rtuno utilizzare il tipo:",
+    "options": [
+      "A. long int",
+      "B. unsigned long long int",
+      "C. unsigned super int",
+      "D. long long long"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 293,
+    "text": "La ricosione infinta determina:",
     "options": [
       "A. l'accelerazione delle prestazioni nell'esecuzione delle funzioni ricorsive",
       "B. la restituizione del caso base",
-      "C. la restituzione del risultato finale con valore infinito"
+      "D. l'esaurimento della memoria"
     ],
     "correct": "D"
   },
   {
-    "id": 284,
-    "text": "(testo domanda non rilevato)",
+    "id": 294,
+    "text": "Sia l'iterazione che la ricorsione si basano su :",
     "options": [
       "A. una struttura di controllo",
       "B. una struttura di selezione di tipo switch",
@@ -3084,10 +3152,9 @@
     "correct": "A"
   },
   {
-    "id": 285,
-    "text": "(testo domanda non rilevato)",
+    "id": 295,
+    "text": "Sia l'iterazione che la ricorsione richiedono ciascuna un test nel programma di:",
     "options": [
-      "A. disponibilità di risorse di CPU",
       "B. disponibilità di risorse di memoria",
       "C. selezione",
       "D. terminazio ne"
@@ -3095,8 +3162,8 @@
     "correct": "D"
   },
   {
-    "id": 286,
-    "text": "(testo domanda non rilevato)",
+    "id": 296,
+    "text": "Il motivo principale per cui si preferisce la ricorsione all'iterazione è:",
     "options": [
       "A. la realizzazione di un programma più moderno",
       "B. la realizzazione di un programma più intuitivo",
@@ -3106,8 +3173,8 @@
     "correct": "B"
   },
   {
-    "id": 287,
-    "text": "(testo domanda non rilevato)",
+    "id": 297,
+    "text": "La ricorsione spesso richiede più memoria dell'iterazione per:",
     "options": [
       "A. la facilità con cui si ricade in ricorsioni infinite",
       "B. l'uso piu' frequente di chiamate a funzione",
@@ -3117,8 +3184,8 @@
     "correct": "B"
   },
   {
-    "id": 288,
-    "text": "(testo domanda non rilevato)",
+    "id": 298,
+    "text": "Gli array sono:",
     "options": [
       "A. strutture di funzioni costituite da f unzioni non correlate e di ogni tipo",
       "B. strutture di dati costituite da dati non correlati e di ogni tipo",
@@ -3128,8 +3195,8 @@
     "correct": "D"
   },
   {
-    "id": 289,
-    "text": "(testo domanda non rilevato)",
+    "id": 299,
+    "text": "Nel programma C, per fare riferimento a un particolare elemento dell'array, specifichiamo:",
     "options": [
       "A. il nome, il valore esadecimale della locazione di memoria, e il numero di posizione dell'elemento nell'array",
       "B. solo il numero di pos izione dell'elemento nell'array",
@@ -3139,8 +3206,8 @@
     "correct": "D"
   },
   {
-    "id": 290,
-    "text": "(testo domanda non rilevato)",
+    "id": 300,
+    "text": "Il primo elemento in ogni array è l'elemento di posizione:",
     "options": [
       "A. 0",
       "B. 1",
@@ -3150,8 +3217,8 @@
     "correct": "A"
   },
   {
-    "id": 291,
-    "text": "(testo domanda non rilevato)",
+    "id": 301,
+    "text": "Il nome di un array NON può iniziare con:",
     "options": [
       "A. lettera minuscola",
       "B. cifra",
@@ -3161,8 +3228,8 @@
     "correct": "B"
   },
   {
-    "id": 292,
-    "text": "(testo domanda non rilevato)",
+    "id": 302,
+    "text": "In un array, il numero di posizione tra le pare ntesi quadre è chiamato:",
     "options": [
       "A. indice",
       "B. sommario",
@@ -3172,18 +3239,18 @@
     "correct": "A"
   },
   {
-    "id": 293,
-    "text": "(testo domanda non rilevato)",
+    "id": 303,
+    "text": "L'istruzione c[a + b] += 4; con a=1 e b=2 interi:",
     "options": [
       "A. addiziona 2 all'elemento 12 dell'array c",
       "B. addiziona 4 all'elemento 12 dell'array c",
-      "C. as segna 4 all'elemento 12 dell'array c"
+      "D. addiziona 4 all'elemento 3 dell'array c"
     ],
     "correct": "D"
   },
   {
-    "id": 294,
-    "text": "(testo domanda non rilevato)",
+    "id": 304,
+    "text": "Printf('%d', s[1] + s[2]); restituisce:",
     "options": [
       "A. errore, servono due specificatori di conversione %d",
       "B. errore, non si può effettuare la so mma s[1] + s[2]",
@@ -3193,8 +3260,8 @@
     "correct": "C"
   },
   {
-    "id": 295,
-    "text": "(testo domanda non rilevato)",
+    "id": 305,
+    "text": "Size_t rappresenta:",
     "options": [
       "A. un tipo intero senza segno raccomandato per gli indici di un array",
       "B. un tipo intero senza segno da evitare per gli indici di un array",
@@ -3204,39 +3271,41 @@
     "correct": "A"
   },
   {
-    "id": 296,
-    "text": "(testo domanda non rilevato)",
+    "id": 306,
+    "text": "Int c[100] = {0}; determina:",
     "options": [
       "A. l'ini zializzazione a 0 del valore alla posizione 100",
       "B. l'inizializzazione a 100 del valore alla posizione 0",
-      "C. l'inizializzazione a 0 di tutti i valori dell'array c D. errore, per inizializzare serve il valore di ogni elemento dell'array"
+      "C. l'inizializzazione a 0 di tutti i valori dell'array c",
+      "D. errore, per inizializzare serve il valore di ogni elemento dell'array"
     ],
     "correct": "C"
   },
   {
-    "id": 297,
-    "text": "(testo domanda non rilevato)",
+    "id": 307,
+    "text": "Per definire la costante simbolica per la dimensione degli array si utlizza:",
     "options": [
       "A. #define",
       "B. #include",
-      "C.",
-      "D."
+      "C. ",
+      "D. "
     ],
     "correct": "A"
   },
   {
-    "id": 298,
-    "text": "(testo domanda non rilevato)",
+    "id": 308,
+    "text": "Se si applica lo specificatore static alla definizione di un array locale:",
     "options": [
       "A. non si possono modificare gli elementi dell'array ogni volta che la funzione è chiamata",
       "B. non si possono porre a zero i valori dell'array quando la funzione è chiamata",
-      "C. non si deve creare e inizializzare l'array ogni volta che la funzione è chiamata D. si deve creare e inizializzare l'array ogni volta che la funzione è chiamata"
+      "C. non si deve creare e inizializzare l'array ogni volta che la funzione è chiamata",
+      "D. si deve creare e inizializzare l'array ogni volta che la funzione è chiamata"
     ],
     "correct": "C"
   },
   {
-    "id": 299,
-    "text": "(testo domanda non rilevato)",
+    "id": 309,
+    "text": "Se si applica lo specificatore static alla definizione di un array locale, l'array:",
     "options": [
       "A. non verrà distrutto ogni volta che si esce dalla funzione nel programma",
       "B. verrà distrutto ogni volta che si esce dalla funzione nel programma",
@@ -3246,8 +3315,8 @@
     "correct": "A"
   },
   {
-    "id": 300,
-    "text": "specificatore static alla definizione di un array locale:",
+    "id": 310,
+    "text": "Per i programmi con funzioni chiamate frequentemente e che contengono array grandi, se si applica lo  specificatore static alla definizione di un array locale:",
     "options": [
       "A. si aumenta il tempo di esecuzione del programma",
       "B. si riduce il tempo di esecuzione del programma",
@@ -3257,8 +3326,8 @@
     "correct": "B"
   },
   {
-    "id": 301,
-    "text": "inizializzati a:",
+    "id": 311,
+    "text": "Se non inizializzate esplicitamente un a rray static, gli elementi di quell'array vengono automaticamente  inizializzati a:",
     "options": [
       "A. EOF",
       "B. 0",
@@ -3268,8 +3337,8 @@
     "correct": "B"
   },
   {
-    "id": 302,
-    "text": "inizializzati a:",
+    "id": 312,
+    "text": "Se non inizializzate esplicitamente un array automatico, gli elementi di qu ell'array vengono automaticamente  inizializzati a:",
     "options": [
       "A. EOF",
       "B. 1",
@@ -3279,19 +3348,19 @@
     "correct": "C"
   },
   {
-    "id": 303,
-    "text": "inizializzati a:",
+    "id": 313,
+    "text": "Per passare come argomento un array a una funzione dovete specificare:   DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO   DO NOT PAY FOR THIS DOCUMENT - FREE DOCUMENT - NO DOCSITY - NON PAGARE PER QUESTO DOCUMENTO",
     "options": [
-      "A. EOF",
-      "B. 1",
-      "C. valore spazzatura",
-      "D. '\\0'"
+      "A. il nome dell'array senza alcuna parentesi",
+      "B. il nome dell'array con parentesi graffe",
+      "C. il nome dell'array con parentesi tonde",
+      "D. il nome dell'array con parentesi angolari"
     ],
     "correct": "A"
   },
   {
-    "id": 304,
-    "text": "(testo domanda non rilevato)",
+    "id": 314,
+    "text": "Il nome dell'array ha come valore:",
     "options": [
       "A. l'indirizzo dell'ultim o elemento dell'array",
       "B. la dimensione dell'array",
@@ -3301,8 +3370,8 @@
     "correct": "C"
   },
   {
-    "id": 305,
-    "text": "(testo domanda non rilevato)",
+    "id": 315,
+    "text": "&array è equivalente a:",
     "options": [
       "A. array[1]",
       "B. array(1)",
@@ -3312,8 +3381,8 @@
     "correct": "D"
   },
   {
-    "id": 306,
-    "text": "(testo domanda non rilevato)",
+    "id": 316,
+    "text": "Per stampare indirizzi con printf si usa lo specificatore di conversione:",
     "options": [
       "A. %p",
       "B. %i",
@@ -3323,8 +3392,8 @@
     "correct": "A"
   },
   {
-    "id": 307,
-    "text": "(testo domanda non rilevato)",
+    "id": 317,
+    "text": "La tecnica bubble sort per ordinare l'array:",
     "options": [
       "A. non è iterativa, c onfronta e ordina tutti gli elementi simulatenamente",
       "B. È iterativa, confronta e ordina gli elementi a coppie",
@@ -3334,8 +3403,8 @@
     "correct": "B"
   },
   {
-    "id": 308,
-    "text": "(testo domanda non rilevato)",
+    "id": 318,
+    "text": "I puntatori sono:",
     "options": [
       "A. variabili i cui valori sono interi",
       "B. strutture di dati costituite da dati correlati e dello stesso tipo",
@@ -3345,8 +3414,8 @@
     "correct": "D"
   },
   {
-    "id": 309,
-    "text": "(testo domanda non rilevato)",
+    "id": 319,
+    "text": "Far riferimento a un valore per mezzo di un puntatore si dice:",
     "options": [
       "A. indirezione",
       "B. imposizione",
@@ -3356,8 +3425,8 @@
     "correct": "A"
   },
   {
-    "id": 310,
-    "text": "(testo domanda non rilevato)",
+    "id": 320,
+    "text": "La definizione del puntatore xPtr a intero si realizza con:",
     "options": [
       "A. int &xPtr;",
       "B. int *xPtr;",
@@ -3367,8 +3436,8 @@
     "correct": "B"
   },
   {
-    "id": 311,
-    "text": "(testo domanda non rilevato)",
+    "id": 321,
+    "text": "La definizione dei puntatori xPtr e yPtr si può scrivere:",
     "options": [
       "A. int * xPtr, yPtr;",
       "B. int *xPtr, *yPtr;",
@@ -3378,8 +3447,8 @@
     "correct": "B"
   },
   {
-    "id": 312,
-    "text": "(testo domanda non rilevato)",
+    "id": 322,
+    "text": "Un puntatore NON può essere inizializzato a:",
     "options": [
       "A. NULL",
       "B. 0",
@@ -3389,18 +3458,18 @@
     "correct": "C"
   },
   {
-    "id": 313,
-    "text": "(testo domanda non rilevato)",
+    "id": 323,
+    "text": "L'istruzione yPtr = &y; è:",
     "options": [
       "A. errata, serve operatore freccia ( -->) al posto di uguale (=)",
       "B. corretta, assegna la variabile puntatore yPtr all'indirizzo della variabile y",
-      "C. corretta, assegna il valore della variabile y alla variabile puntatore yPtr"
+      "D. corr etta, assegna l'indirizzo della variabile y alla variabile puntatore yPtr"
     ],
     "correct": "D"
   },
   {
-    "id": 314,
-    "text": "(testo domanda non rilevato)",
+    "id": 324,
+    "text": "L'operatore unario * di indirezione applicato a un puntatore restituisce:",
     "options": [
       "A. il valore contenuto nella locazione di memoria puntata",
       "B. l'indirizzo della locazione di memoria puntata",
@@ -3410,41 +3479,38 @@
     "correct": "A"
   },
   {
-    "id": 315,
-    "text": "(testo domanda non rilevato)",
+    "id": 325,
+    "text": "Dato int x=1 e int *xPtr = &x, l'istruzione   printf(\"%p\", &x); stampa:",
     "options": [
       "A. \"&x\"",
       "B. 1",
-      "C. Un indirizzo del tipo 0028FEC0",
       "D. NULL"
     ],
     "correct": "C"
   },
   {
-    "id": 316,
-    "text": "(testo domanda non rilevato)",
+    "id": 326,
+    "text": "Dato int x=1 e int *xPtr = &x, l'istruzione   printf(\"%p\", xPtr); stampa:",
     "options": [
       "A. \"xPtr\"",
       "B. 1",
-      "C. Un indirizzo del tipo 0028FEC0",
       "D. NULL"
     ],
     "correct": "C"
   },
   {
-    "id": 317,
-    "text": "(testo domanda non rilevato)",
+    "id": 327,
+    "text": "Dato int x=1 e int *xPtr = &x, l'istruzione   printf(\"%d\", *xPtr); stampa:",
     "options": [
       "A. \"*xPtr\"",
       "B. 1",
-      "C. Un indirizzo del tipo 0028FEC0",
       "D. NULL"
     ],
     "correct": "B"
   },
   {
-    "id": 318,
-    "text": "(testo domanda non rilevato)",
+    "id": 328,
+    "text": "Nel passaggio per valore,  una funzione chiamata dal main:",
     "options": [
       "A. riceve un puntatore alle variabili passate dal main. Non ci sono limiti al numero di variabili passate",
       "B. riceve una copia del valore delle variabili passate dal main. Non ci sono limiti al numero di variabili passate",
@@ -3454,17 +3520,19 @@
     "correct": "B"
   },
   {
-    "id": 319,
-    "text": "(testo domanda non rilevato)",
+    "id": 329,
+    "text": "Nel passaggi o per valore, una funzione chiamata dal main:",
     "options": [
       "A. restituisce un puntatore. Non ci sono limiti al numero di puntatori restituiti al main",
-      "B. restituisce i valore delle variabili modificate dalla funzione. Non ci sono limiti sul numero di variabili modificate  che si"
+      "B. restituisce i valore delle variabili modificate dalla funzione. Non ci sono limiti sul numero di variabili modificate  che si  possono restituire al main",
+      "C. restituisce un puntatore. La funzione puo' restituire un solo puntatore",
+      "D. restituisce il valore della variabile modificata dalla funzione (al piu' un solo valore)"
     ],
     "correct": "D"
   },
   {
-    "id": 320,
-    "text": "(testo domanda non rilevato)",
+    "id": 330,
+    "text": "Con il pa ssaggio per riferimento viene consentito a una funzione di restituire:",
     "options": [
       "A. un solo valore alla funzione chiamante",
       "B. più valori alla funzione chiamante",
@@ -3474,10 +3542,9 @@
     "correct": "B"
   },
   {
-    "id": 321,
-    "text": "(testo domanda non rilevato)",
+    "id": 331,
+    "text": "Quando si chiama una funzione con argomenti che devono essere modificati, vengono passati:",
     "options": [
-      "A. i valro e gli indirizzi usando l'operatore AND",
       "B. i valro e gli indirizzi usando l'operatore OR",
       "C. i valori degli argomenti",
       "D. gli in dirizzi degli argomenti"
@@ -3485,8 +3552,8 @@
     "correct": "D"
   },
   {
-    "id": 322,
-    "text": "(testo domanda non rilevato)",
+    "id": 332,
+    "text": "Il prototipo di una funzione funz che deve modificare il valore di una variabile intera, si scrive:",
     "options": [
       "A. void funz(int *pPtr);",
       "B. void funz(int &pPtr);",
@@ -3496,17 +3563,18 @@
     "correct": "A"
   },
   {
-    "id": 323,
-    "text": "(testo domanda non rilevato)",
+    "id": 333,
+    "text": "Nel main, il passaggio per indirizzo della variabile intera p si realizza con:",
     "options": [
       "A. funz(*p)",
-      "B. funz(&p)"
+      "C. funz(p)",
+      "D. funz(%p)"
     ],
     "correct": "B"
   },
   {
-    "id": 324,
-    "text": "(testo domanda non rilevato)",
+    "id": 334,
+    "text": "Nella funzion e chiamata, il quadrato della variabile intera passata per riferimento si realizza con:",
     "options": [
       "A. *pPtr = *pPtr * *pPtr",
       "B. &pPtr = &pPtr * &pPtr",
@@ -3516,8 +3584,8 @@
     "correct": "A"
   },
   {
-    "id": 325,
-    "text": "(testo domanda non rilevato)",
+    "id": 335,
+    "text": "Nel passaggio con rif erimento, la restituzione delle variabili modificate si realizza con:",
     "options": [
       "A. return",
       "B. printf e scanf",
@@ -3527,8 +3595,8 @@
     "correct": "D"
   },
   {
-    "id": 326,
-    "text": "(testo domanda non rilevato)",
+    "id": 336,
+    "text": "Per assegnare l'indirizzo della variabile val alla variabile puntatore valPtr si scrive:",
     "options": [
       "A. valPtr = &val",
       "B. *valPtr = &val",
@@ -3538,8 +3606,8 @@
     "correct": "A"
   },
   {
-    "id": 327,
-    "text": "(testo domanda non rilevato)",
+    "id": 337,
+    "text": "Dopo l'esecuzione di int i = 4; int * ptr = &i; *ptr = 1; si ottiene:",
     "options": [
       "A. i = 4",
       "B. errore per uso incorretto dell'operatore *",
@@ -3549,8 +3617,8 @@
     "correct": "C"
   },
   {
-    "id": 328,
-    "text": "(testo domanda non rilevato)",
+    "id": 338,
+    "text": "La variabile vPtr può es sere inizializzata per puntare all'array v con:",
     "options": [
       "A. vPtr = v;",
       "B. vPtr = *v;",
@@ -3560,8 +3628,8 @@
     "correct": "A"
   },
   {
-    "id": 329,
-    "text": "(testo domanda non rilevato)",
+    "id": 339,
+    "text": "L'aritmetica dei puntatori:",
     "options": [
       "A. restituisce errore",
       "B. non dipende dall'indirizzo a cui puntano i punt atori",
@@ -3571,8 +3639,8 @@
     "correct": "C"
   },
   {
-    "id": 330,
-    "text": "(testo domanda non rilevato)",
+    "id": 340,
+    "text": "Dato l'array v di interi a 4 byte e il puntatore vPtr=&v[0] di valore 5000 , l'i struzione vPtr+=2 restituisce il valore:",
     "options": [
       "A. 5000",
       "B. 5002",
@@ -3582,8 +3650,8 @@
     "correct": "C"
   },
   {
-    "id": 331,
-    "text": "(testo domanda non rilevato)",
+    "id": 341,
+    "text": "Dato l'array v di char e il puntatore vPtr=&v[0] di valore 5000 , l'istru zione vPtr+=2 restituisce il valore:",
     "options": [
       "A. 5000",
       "B. 5002",
@@ -3593,8 +3661,8 @@
     "correct": "B"
   },
   {
-    "id": 332,
-    "text": "(testo domanda non rilevato)",
+    "id": 342,
+    "text": "L'aritmetica dei puntatori è correttamente applicabile a puntatori riferiti ad array in quanto:",
     "options": [
       "A. le locazioni di memoria sono di dimens ione 4 oppure 2 byte",
       "B. le locazioni di memoria sono di dimensione 4 byte",
@@ -3604,18 +3672,18 @@
     "correct": "D"
   },
   {
-    "id": 333,
-    "text": "(testo domanda non rilevato)",
+    "id": 343,
+    "text": "Dato l'array v di int e il puntatore vPtr=&v[0], l'istruzione vPtr++;:",
     "options": [
       "A. incrementa un puntatore di un array di uno",
       "B. incrementa il valore puntato di uno",
-      "C. restituisce errore per la non applicabilità dell'operatore ++ ai puntatori"
+      "D. restituisce errore perché la versione correttà e' solo  ++vPtr;"
     ],
     "correct": "A"
   },
   {
-    "id": 334,
-    "text": "l'indirizzo 508, l'istruzione x = v2Ptr -  vPtr; restiuisce:",
+    "id": 344,
+    "text": "Dato l'array v di interi a 4 byte e due suoi puntatori vPtr che contiene l'indirizzo 500 e v2Ptr che contiene  l'indirizzo 508, l'istruzione x = v2Ptr -  vPtr; restiuisce:",
     "options": [
       "A. 0",
       "B. 2",
@@ -3625,8 +3693,8 @@
     "correct": "B"
   },
   {
-    "id": 335,
-    "text": "restiuisce:",
+    "id": 345,
+    "text": "Dati gli array v e p di interi a 4 byte e loro puntatori vPtr e pPtr rispettivamente, l'istruzione x = vPtr -   pPtr;  restiuisce:",
     "options": [
       "A. 0",
       "B. 4",
@@ -3636,8 +3704,8 @@
     "correct": "C"
   },
   {
-    "id": 336,
-    "text": "(testo domanda non rilevato)",
+    "id": 346,
+    "text": "Un puntatore può essere assegnato a un altro puntatore se  entrambi hanno lo stesso :",
     "options": [
       "A. specificatore di conversione",
       "B. prototipo di funzione",
@@ -3647,8 +3715,8 @@
     "correct": "C"
   },
   {
-    "id": 337,
-    "text": "(testo domanda non rilevato)",
+    "id": 347,
+    "text": "A tutti i tipi di puntatore è possibile assegnare un puntatore a:",
     "options": [
       "A. char",
       "B. long long int",
@@ -3658,8 +3726,8 @@
     "correct": "D"
   },
   {
-    "id": 338,
-    "text": "(testo domanda non rilevato)",
+    "id": 348,
+    "text": "Dato bPtr = &b[0], l'elemento b[100] dell'array è equivalente a:",
     "options": [
       "A. &(bPtr + 100)",
       "B. *(bPtr + 100)",
@@ -3669,8 +3737,8 @@
     "correct": "B"
   },
   {
-    "id": 339,
-    "text": "(testo domanda non rilevato)",
+    "id": 349,
+    "text": "Dato bPtr puntatore al primo elemento di un array, l'offset indica:",
     "options": [
       "A. a quale elemento dell'array si fa riferimento",
       "B. l'indirizzo della locazione di memoria di bPtr in esadecimale",
@@ -3680,8 +3748,8 @@
     "correct": "A"
   },
   {
-    "id": 340,
-    "text": "(testo domanda non rilevato)",
+    "id": 350,
+    "text": "Con la notazione \"puntatore/offset\", il valore dell'offset è:",
     "options": [
       "A. l'indice dell'array",
       "B. zero",
@@ -3691,8 +3759,8 @@
     "correct": "A"
   },
   {
-    "id": 341,
-    "text": "(testo domanda non rilevato)",
+    "id": 351,
+    "text": "Nella notazione \"puntatore/indice\", se bPtr ha il valore di b (array), l'espressione corretta per riferirsi al primo elemento è:",
     "options": [
       "A. bPtr[1]",
       "B. bPtr(1)",
@@ -3702,8 +3770,8 @@
     "correct": "A"
   },
   {
-    "id": 342,
-    "text": "(testo domanda non rilevato)",
+    "id": 352,
+    "text": "Dato b array di int, l'espressione b+=3 è:",
     "options": [
       "A. scorretta poiché non verifica a priori se l'array ha dimensione minore di tre",
       "B. corretta",
@@ -3713,16 +3781,18 @@
     "correct": "D"
   },
   {
-    "id": 343,
-    "text": "riferirsi all'elemento i utilizza:",
+    "id": 353,
+    "text": "Dato b array di int e int *bPtr = b, la notazione puntatore/offset con il nome dell'array come puntatore, per  riferirsi all'elemento i utilizza:",
     "options": [
-      "A. b[i]"
+      "B. *(b  + i)",
+      "C. bPtr[i]",
+      "D. *(bPtr + i)"
     ],
     "correct": "B"
   },
   {
-    "id": 344,
-    "text": "(testo domanda non rilevato)",
+    "id": 354,
+    "text": "Dato b array di int e int *bPtr = b, la notazione puntatore/offset con un puntatore, per riferirsi all'elemento i utilizza:",
     "options": [
       "A. b[i]",
       "B. *(b + i)",
@@ -3732,8 +3802,8 @@
     "correct": "D"
   },
   {
-    "id": 345,
-    "text": "(testo domanda non rilevato)",
+    "id": 355,
+    "text": "Dato b array di int e int *bPtr = b, la notazione degli array con indicizzazione dei puntatori, per riferirsi all'elemento i utilizza:",
     "options": [
       "A. b[i]",
       "B. *(b + i)",
@@ -3743,8 +3813,8 @@
     "correct": "C"
   },
   {
-    "id": 346,
-    "text": "all'elemento i utilizza:",
+    "id": 356,
+    "text": "Dato b array di int e int *bPtr = b, la notazione degli array con indice (indicizzazione di un array), per riferirsi  all'elemento i utilizza:",
     "options": [
       "A. b[i]",
       "B. *(b + i)",
@@ -3754,8 +3824,8 @@
     "correct": "A"
   },
   {
-    "id": 347,
-    "text": "(testo domanda non rilevato)",
+    "id": 357,
+    "text": "L'istruzione s1[2]=s2[3]:",
     "options": [
       "A. assegna il valore di s2 all'indice 2 all'array s1 nell'indice 3",
       "B. assegna il valore di s1 all'indice 2 all'array s2 nell'indice 3",
@@ -3765,8 +3835,8 @@
     "correct": "C"
   },
   {
-    "id": 348,
-    "text": "(testo domanda non rilevato)",
+    "id": 358,
+    "text": "Un puntatore a una funzione contiene:",
     "options": [
       "A. i parametri iniziali passati alla funzione",
       "B. il valore finale restituito dalla fu nzione",
@@ -3776,8 +3846,8 @@
     "correct": "D"
   },
   {
-    "id": 349,
-    "text": "(testo domanda non rilevato)",
+    "id": 359,
+    "text": "Il nome di un array è:",
     "options": [
       "A. l'indirizzo in memoria dell'ultimo elemento dell'array",
       "B. l'indirizzo in memoria del primo elemento dell'array",
@@ -3787,8 +3857,8 @@
     "correct": "B"
   },
   {
-    "id": 350,
-    "text": "(testo domanda non rilevato)",
+    "id": 360,
+    "text": "Il nome di una funzione è in realtà:",
     "options": [
       "A. l'indirizzo in memoria dell'elemento zero del primo array usato dalla funzione",
       "B. l'indirizzo in memoria di partenza del codice che esegue il compito della funzione",
@@ -3798,8 +3868,8 @@
     "correct": "B"
   },
   {
-    "id": 351,
-    "text": "(testo domanda non rilevato)",
+    "id": 361,
+    "text": "Int (*funz)(double a) indica che funz è:",
     "options": [
       "A. un puntatore a una funzione che riceve un parametro double e restituisce un risultato intero",
       "B. un puntatore a una funzione che riceve un parametro int e restituisce un risultato double",
@@ -3809,8 +3879,8 @@
     "correct": "A"
   },
   {
-    "id": 352,
-    "text": "(testo domanda non rilevato)",
+    "id": 362,
+    "text": "Il prototipo int (*)(int); è:",
     "options": [
       "A. È errato, a causa di (*)",
       "B. È errato, a cuasa di (int)",
@@ -3820,18 +3890,18 @@
     "correct": "C"
   },
   {
-    "id": 353,
-    "text": "(testo domanda non rilevato)",
+    "id": 363,
+    "text": "Un uso comune dei puntatori a funzioni si ha nei:",
     "options": [
       "A. sistemi matematici",
       "B. cicli infiniti",
-      "C. sistemi guidati da menu di t ipo testuale"
+      "D. nei programmi privi di funzioni"
     ],
     "correct": "C"
   },
   {
-    "id": 354,
-    "text": "(testo domanda non rilevato)",
+    "id": 364,
+    "text": "Una restrizione all'uso di array di puntatori a funzioni è costituita dal fatto che:",
     "options": [
       "A. tutti i puntatori devono avere lo stesso tipo",
       "B. tutte le funzioni devono restituire void",
@@ -3841,8 +3911,14 @@
     "correct": "A"
   },
   {
-    "id": 355,
-    "text": "parametri l'intero x e un puntatore alla funzione fun2. La funzione fun2 riceve un parametro intero e restituisce un intero.:",
+    "id": 365,
+    "text": "Indicate l'intestazione corretta per una funzione chiamata fun1 che re stituisce un intero e che riceve come  parametri l'intero x e un puntatore alla funzione fun",
+    "options": [],
+    "correct": ""
+  },
+  {
+    "id": 366,
+    "text": "La funzione fun2 riceve un parametro intero e restituisce un  intero.:",
     "options": [
       "A. int fun1 (int x, int (*fun2)(int))",
       "B. int fun2(int x, int (*fun1)(int))",
@@ -3852,8 +3928,8 @@
     "correct": "A"
   },
   {
-    "id": 356,
-    "text": "(testo domanda non rilevato)",
+    "id": 367,
+    "text": "Indicate l'intestazione corretta per una funzione chiamata fun1 che riceve come parametri due puntatori ai numeri in virgola mobile x e y e non restitui sce alcun valore:",
     "options": [
       "A. void fun1 (float x, float y)",
       "B. void fun1 (float &x, float &y)",
@@ -3863,8 +3939,8 @@
     "correct": "D"
   },
   {
-    "id": 357,
-    "text": "restituiscono void:",
+    "id": 368,
+    "text": "Indicare la dichiarazione corretta di un array di 3 pu ntatori a funzioni che ricevono ognuna un argomento  int e  restituiscono void:",
     "options": [
       "A. int (*f[3])(void)",
       "B. void (*f[3])(int)",
